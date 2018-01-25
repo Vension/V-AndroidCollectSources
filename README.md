@@ -81,7 +81,7 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ***
 
-## 6、流式布局 -->推荐使用Google的flexbox实现(https://github.com/Vension/AndroidFlexBoxLayout)
+## 6、流式布局 -->推荐使用Google的flexbox实现demo-->[AndroidFlexBoxLayout](https://github.com/Vension/AndroidFlexBoxLayout)
 
 ## [FlowLayout](https://github.com/hongyangAndroid/FlowLayout)
 
