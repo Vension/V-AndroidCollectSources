@@ -17,116 +17,216 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ***
 
-## 1.照相选相册，裁剪的 library
+## 1、相册选择器 + 裁剪的 library
+
+## [zhihu/Matisse](https://github.com/zhihu/Matisse)
+
+## [Bilibili/boxing](https://github.com/Bilibili/boxing)
 
 ## [TakePhoto](https://github.com/crazycodeboy/TakePhoto)
 
-## 2几行代码快速集成二维码扫描功能
+## [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android)
 
-## [zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary)
+## [PictureSelector](https://github.com/LuckSiege/PictureSelector)
 
-## 3.仿ios移动按钮
+## [smuyyh/ImageSelector](https://github.com/smuyyh/ImageSelector)
 
-## [SwitchButton](https://github.com/kyleduo/SwitchButton)
-## [ToggleButton](https://github.com/zcweng/ToggleButton)
+## [donkingliang / ImageSelector](https://github.com/donkingliang/ImageSelector)
 
-## 4.自定义Android崩溃界面：
+## [LQRImagePicker](https://github.com/GitLqr/LQRImagePicker)
 
-## [CustomActivityOnCrash](https://github.com/Ereza/CustomActivityOnCrash)
+## [RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)
 
-## 5.创建Android抽屉布局的库：
-## [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
+***
 
-## 6.图片放大缩放功能 ImageView
+## 2、视频播放器
 
-## [android photoview](https://github.com/chrisbanes/PhotoView)
+## [Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
 
-## 7.仿ios的dialog
+## [基于IJKPlayer,CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)
 
-## [Android-AlertView](https://github.com/saiwu-bigkoo/Android-AlertView)
+## [基于IjkPlayer,原节操播放器JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 
-## 8.glide-transformations——为Glide提供图像转换的Android类库
+## [基于IjkPlayer,Haxine/SuperPlayer](https://github.com/Haxine/SuperPlayer)
 
-## [glide-transformations](https://github.com/wasabeef/glide-transformations)
+***
 
-## 9.GlidePalette 一个可以在Glide加载时很方便使用Palette的库。
+## 3、RecyclerView通用适配器
 
-## [GlidePalette](https://github.com/florent37/GlidePalette)
+## [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 
-## 10.流式布局
+## [MEiDIK/SlimAdapter](https://github.com/MEiDIK/SlimAdapter)
+
+***
+
+## 4、刷新控件
+
+## [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
+
+## [bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)
+
+## [maning0303/MNSwipeToLoadDemo](https://github.com/maning0303/MNSwipeToLoadDemo)
+
+***
+
+## 5、轮播图 Banner
+
+## [youth5201314/banner](https://github.com/youth5201314/banner)
+
+## [bingoogolapple/BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android)
+
+***
+
+## 6、流式布局
+
+## [2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup)
+
+## [hanhailong/FlowTag](https://github.com/hanhailong/FlowTag)
 
 ## [FlowLayout](https://github.com/hongyangAndroid/FlowLayout)
 
-## 11.Android开发人员不得不收集的代码  工具类
+***
 
-## [AndroidUtilCode](https://github.com/huangkunkun/AndroidUtilCode)
+## 7、弹窗相关 AlertDialog/ActionSheetDialog
 
-## 12.logger 常用log工具
+## [mylhyl/Android-CircleDialog](https://github.com/mylhyl/Android-CircleDialog)
 
-## [logger](https://github.com/orhanobut/logger)
+## [仿ios选择器 Android-AlertView](https://github.com/saiwu-bigkoo/Android-AlertView)
 
-## 13.joda-time  日期的替代使用库
+## [pedant/sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)
 
-## [joda-time](https://github.com/JodaOrg/joda-time)
+***
 
-## 14.Fragmentation  fragment替代库 外加 仿边缘返回
+## 8、选择器 Piker
 
-## [Fragmentation](https://github.com/YoKeyword/Fragmentation)
+## [Bigkoo/Android-PickerView](https://github.com/Bigkoo/Android-PickerView)
 
-## 15.FlycoTabLayout 仿TabLayout ，有指示器
+## [选择器gzu-liyujiang/AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker)
 
-## [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout)
+***
 
-## 16.recyclerview的adapter
+## 9、Popwindow
 
-## [BaseRecyclerViewAdapterHelper   强大的recyclerview的adapter](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+## [条件筛选菜单](https://github.com/dongjunkun/DropDownMenu)
 
-## [多重布局链式调用](https://github.com/MEiDIK/SlimAdapter)
+## [zawadz88/MaterialPopupMenu](https://github.com/zawadz88/MaterialPopupMenu)
 
-## 17.播放器
+## [CustomPopwindow](https://github.com/pinguo-zhouwei/CustomPopwindow)
 
-## [节操播放器——底层为哔哩哔哩的开源播放器](https://github.com/lipangit/JieCaoVideoPlayer)
+## [razerdp/BasePopup](https://github.com/razerdp/BasePopup)
 
-## 18.选择器
+***
 
-## [仿ios](https://github.com/saiwu-bigkoo/Android-PickerView)
+## 10、ProgressBar相关
 
-## [扁平风格](https://github.com/gzu-liyujiang/AndroidPicker)
+## [daimajia/NumberProgressBar](https://github.com/daimajia/NumberProgressBar)
 
-## 19.网络框架
+***
 
-## [NoHttp](https://github.com/yanzhenjie/NoHttp)
+## 11、Toast相关
 
-## [okgo](https://github.com/jeasonlzy/okhttp-OkGo)
+## [bboylin/UniversalToast](https://github.com/bboylin/UniversalToast)
 
-## [retrofit](https://github.com/square/retrofit)
+## [GrenderG/Toasty](https://github.com/GrenderG/Toasty)
 
-## 20 沉浸式解决库
+***
 
-## [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)
+## 12、几行代码快速集成二维码扫描功能
 
-## 21最强大的textview
+## [zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary)
 
-## [SuperTextView](https://github.com/chenBingX/SuperTextView)
+***
 
-## 22.纵向tabview
+## 13、Android 6.0权限处理
 
-## [VerticalTabLayout](https://github.com/qstumn/VerticalTabLayout)
-
-## 23.6.0权限处理兼容国产手机处理
+## [tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions)
 
 ## [AndPermission](https://github.com/yanzhenjie/AndPermission)
 
-## 24.加载动画view  （AV与NV效果一样）
+***
+
+## 14.、Android开发人员不得不收集的代码  工具类
+
+## [AndroidUtilCode](https://github.com/huangkunkun/AndroidUtilCode)
+
+## [vondear/RxTools](https://github.com/vondear/RxTools)
+
+***
+
+## 15、glide-transformations——为Glide提供图像转换的Android类库
+
+## [glide-transformations](https://github.com/wasabeef/glide-transformations)
+
+***
+
+## 16、GlidePalette 一个可以在Glide加载时很方便使用Palette的库。
+
+## [GlidePalette](https://github.com/florent37/GlidePalette)
+
+***
+
+## 17、沉浸式解决库
+
+## [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)
+
+## [SystemBar一体化yanzhenjie/Sofia](https://github.com/yanzhenjie/Sofia)
+
+***
+
+## 18、FlycoTabLayout 仿TabLayout ，有指示器
+
+## [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout)
+
+## [垂直纵向的TabLayout,qstumn/VerticalTabLayout](https://github.com/qstumn/VerticalTabLayout)
+
+## [armcha/Space-Navigation-View](https://github.com/armcha/Space-Navigation-View)
+
+***
+
+## 19、Android侧滑返回
+
+## [Android_Slide_To_Close](https://github.com/yuanhoujun/Android_Slide_To_Close)
+
+## [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
+
+***
+
+## 20、加载动画view  （AV与NV效果一样）
+
+## [Android-SpinKit](https://github.com/ybq/Android-SpinKit)
 
 ## [android——AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
 
 ## [ios——NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
 
-## 25.广告条控件
+***
 
-## [banner](https://github.com/youth5201314/banner)
+## 21、仿ios移动按钮
 
-## 26.一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
+## [SwitchButton](https://github.com/kyleduo/SwitchButton)
+
+## [ToggleButton](https://github.com/zcweng/ToggleButton)
+
+## [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)
+
+***
+
+## 22、一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
+
+## [MaterialBadgeTextView](https://github.com/matrixxun/MaterialBadgeTextView)
 
 ## [BadgeView](https://github.com/qstumn/BadgeView)
+
+***
+
+## 23、最强大的textview
+
+## [SuperTextView](https://github.com/chenBingX/SuperTextView)
+
+***
+
+## 24、joda-time  日期的替代使用库
+
+## [joda-time](https://github.com/JodaOrg/joda-time)
+
+***
