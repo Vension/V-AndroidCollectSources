@@ -3,6 +3,18 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 #========================================================================================================
 
+## 1、优秀开源完整项目
+
+## [KotlinMvp](https://github.com/Vension/KotlinMvp)
+
+## [GeekNews](https://github.com/codeestX/GeekNews) 
+
+## [精仿今日头条](https://github.com/chaychan/TouTiao)
+
+## [SprintNBA](https://github.com/smuyyh/SprintNBA)
+
+## [MvpApp](https://github.com/Rukey7/MvpApp)
+
 ## 1.照相选相册，裁剪的 library
 
 ## [TakePhoto](https://github.com/crazycodeboy/TakePhoto)
