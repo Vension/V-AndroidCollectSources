@@ -9,7 +9,7 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## [GeekNews](https://github.com/codeestX/GeekNews) 
 
-## [精仿今日头条](https://github.com/chaychan/TouTiao)
+## [精仿今日头条（推荐）](https://github.com/chaychan/TouTiao)
 
 ## [SprintNBA](https://github.com/smuyyh/SprintNBA)
 
@@ -77,23 +77,23 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## [youth5201314/banner](https://github.com/youth5201314/banner)
 
-## [bingoogolapple/BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android)
+## [bingoogolapple/BGABanner-Android（推荐）](https://github.com/bingoogolapple/BGABanner-Android)
 
 ***
 
-## 6、流式布局
+## 6、流式布局 -->推荐使用Google的flexbox实现(https://github.com/Vension/AndroidFlexBoxLayout)
 
-## [2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup)
+## [FlowLayout](https://github.com/hongyangAndroid/FlowLayout)
 
 ## [hanhailong/FlowTag](https://github.com/hanhailong/FlowTag)
 
-## [FlowLayout](https://github.com/hongyangAndroid/FlowLayout)
+## [2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup)
 
 ***
 
 ## 7、弹窗相关 AlertDialog/ActionSheetDialog
 
-## [mylhyl/Android-CircleDialog](https://github.com/mylhyl/Android-CircleDialog)
+## [mylhyl/Android-CircleDialog(推荐)](https://github.com/mylhyl/Android-CircleDialog)
 
 ## [仿ios选择器 Android-AlertView](https://github.com/saiwu-bigkoo/Android-AlertView)
 
@@ -103,7 +103,7 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## 8、选择器 Piker
 
-## [Bigkoo/Android-PickerView](https://github.com/Bigkoo/Android-PickerView)
+## [Bigkoo/Android-PickerView(推荐)](https://github.com/Bigkoo/Android-PickerView)
 
 ## [选择器gzu-liyujiang/AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker)
 
@@ -129,7 +129,7 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## 11、Toast相关
 
-## [bboylin/UniversalToast](https://github.com/bboylin/UniversalToast)
+## [bboylin/UniversalToast(推荐)](https://github.com/bboylin/UniversalToast)
 
 ## [GrenderG/Toasty](https://github.com/GrenderG/Toasty)
 
@@ -143,7 +143,7 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## 13、Android 6.0权限处理
 
-## [tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions)
+## [tbruyelle/RxPermissions（推荐）](https://github.com/tbruyelle/RxPermissions)
 
 ## [AndPermission](https://github.com/yanzhenjie/AndPermission)
 
@@ -151,9 +151,9 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## 14.、Android开发人员不得不收集的代码  工具类
 
-## [AndroidUtilCode](https://github.com/huangkunkun/AndroidUtilCode)
+## [vondear/RxTools（推荐）](https://github.com/vondear/RxTools)
 
-## [vondear/RxTools](https://github.com/vondear/RxTools)
+## [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
 
 ***
 
@@ -179,7 +179,7 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## 18、FlycoTabLayout 仿TabLayout ，有指示器
 
-## [FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout)
+## [FlycoTabLayout（推荐）](https://github.com/H07000223/FlycoTabLayout)
 
 ## [垂直纵向的TabLayout,qstumn/VerticalTabLayout](https://github.com/qstumn/VerticalTabLayout)
 
@@ -189,7 +189,7 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## 19、Android侧滑返回
 
-## [Android_Slide_To_Close](https://github.com/yuanhoujun/Android_Slide_To_Close)
+## [Android_Slide_To_Close（推荐）](https://github.com/yuanhoujun/Android_Slide_To_Close)
 
 ## [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
 
@@ -199,7 +199,7 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## [Android-SpinKit](https://github.com/ybq/Android-SpinKit)
 
-## [android——AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
+## [android——AVLoadingIndicatorView（推荐）](https://github.com/81813780/AVLoadingIndicatorView)
 
 ## [ios——NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
 
@@ -217,7 +217,7 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## 22、一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
 
-## [MaterialBadgeTextView](https://github.com/matrixxun/MaterialBadgeTextView)
+## [MaterialBadgeTextView（推荐）](https://github.com/matrixxun/MaterialBadgeTextView)
 
 ## [BadgeView](https://github.com/qstumn/BadgeView)
 
@@ -255,7 +255,7 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## 27、图片压缩相关内容
 
-## [Curzibn/Luban](https://github.com/Curzibn/Luban)
+## [Curzibn/Luban（推荐）](https://github.com/Curzibn/Luban)
 
 ## [Sunzxyong/Tiny](https://github.com/Sunzxyong/Tiny)
 
