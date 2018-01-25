@@ -279,6 +279,13 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## [shichaohui/EasyCalendar](https://github.com/shichaohui/EasyCalendar)
 
+***
+
+## 29、富文本
+
+## [CarGuo/RickText](https://github.com/CarGuo/RickText)
+
+## [limedroid/XRichText](https://github.com/limedroid/XRichText)
 
 ***
 
