@@ -5,7 +5,7 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## V、优秀开源完整项目
 
-## [KotlinMvp](https://github.com/Vension/KotlinMvp)
+## [KotlinMvp（推荐）](https://github.com/Vension/KotlinMvp)
 
 ## [GeekNews](https://github.com/codeestX/GeekNews) 
 
@@ -29,7 +29,7 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## 1、相册选择器 + 裁剪的 library
 
-## [zhihu/Matisse](https://github.com/zhihu/Matisse)
+## [zhihu/Matisse（推荐）](https://github.com/zhihu/Matisse)
 
 ## [TakePhoto](https://github.com/crazycodeboy/TakePhoto)
 
@@ -47,7 +47,7 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## [Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
 
-## [基于IJKPlayer,CarGuo/GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)
+## [基于IJKPlayer,CarGuo/GSYVideoPlayer（推荐）](https://github.com/CarGuo/GSYVideoPlayer)
 
 ## [基于IjkPlayer,原节操播放器JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 
@@ -57,7 +57,7 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## 3、RecyclerView通用适配器
 
-## [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+## [CymChad/BaseRecyclerViewAdapterHelper（推荐）](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 
 ## [MEiDIK/SlimAdapter](https://github.com/MEiDIK/SlimAdapter)
 
@@ -65,7 +65,7 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## 4、刷新控件
 
-## [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)
+## [scwang90/SmartRefreshLayout（推荐）](https://github.com/scwang90/SmartRefreshLayout)
 
 ## [bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)
 
