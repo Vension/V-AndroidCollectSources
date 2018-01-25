@@ -221,6 +221,8 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## 23、最强大的textview
 
+## [lygttpod/SuperTextView](https://github.com/lygttpod/SuperTextView)
+
 ## [SuperTextView](https://github.com/chenBingX/SuperTextView)
 
 ***
@@ -230,3 +232,31 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 ## [joda-time](https://github.com/JodaOrg/joda-time)
 
 ***
+
+## 25、拍照/录像相关
+
+## [仿微信拍照Android控件（轻触拍照，长按摄像）CameraView](https://github.com/CJT2325/CameraView)
+
+## [Werb/MediaUtils](https://github.com/Werb/MediaUtils)
+
+***
+
+## 26、音乐播放器
+
+## [乐乐音乐5.0](https://github.com/zhangliangming/HappyPlayer5)
+
+## [波尼音乐](https://github.com/wangchenyan/PonyMusic)
+
+***
+
+## 27、图片压缩相关内容
+
+## [Curzibn/Luban](https://github.com/Curzibn/Luban)
+
+## [Sunzxyong/Tiny](https://github.com/Sunzxyong/Tiny)
+
+## [zetbaitsu/Compressor](https://github.com/zetbaitsu/Compressor)
+
+***
+
+
