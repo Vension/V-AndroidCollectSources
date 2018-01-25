@@ -31,21 +31,15 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ## [zhihu/Matisse](https://github.com/zhihu/Matisse)
 
-## [Bilibili/boxing](https://github.com/Bilibili/boxing)
-
 ## [TakePhoto](https://github.com/crazycodeboy/TakePhoto)
 
 ## [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android)
 
 ## [PictureSelector](https://github.com/LuckSiege/PictureSelector)
 
-## [smuyyh/ImageSelector](https://github.com/smuyyh/ImageSelector)
-
 ## [donkingliang / ImageSelector](https://github.com/donkingliang/ImageSelector)
 
 ## [LQRImagePicker](https://github.com/GitLqr/LQRImagePicker)
-
-## [RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)
 
 ***
 
