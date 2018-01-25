@@ -17,6 +17,16 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ***
 
+## F、Android 组件化/插件化
+
+## [wequick/Small](https://github.com/wequick/Small)
+
+## [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)
+
+## [NewFastFrame](https://github.com/HelloChenJinJun/NewFastFrame)
+
+***
+
 ## 1、相册选择器 + 裁剪的 library
 
 ## [zhihu/Matisse](https://github.com/zhihu/Matisse)
