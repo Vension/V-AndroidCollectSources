@@ -191,11 +191,15 @@ Github优秀开源项目整理，方便查看，目前只更新Android，以后�
 
 ***
 
-## 19、Android侧滑返回
+## 19、Android 侧滑返回
 
 ## [Android_Slide_To_Close（推荐）](https://github.com/yuanhoujun/Android_Slide_To_Close)
 
 ## [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
+
+## [SwipeBack](https://github.com/liuguangqiang/SwipeBack)
+
+## [SwipeBackHelper](https://github.com/Jude95/SwipeBackHelper)
 
 ***
 
