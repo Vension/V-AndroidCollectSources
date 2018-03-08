@@ -9,28 +9,23 @@
 本项目是一个专注于收集Github上用于Android 开发的开源库、扩展、工具、优秀开源项目、资料等高质量资源的集合进行整理https://github.com/Vension/KV-Android-CollectSources
 
 ## 目录
-   * [KV-Android-CollectSources](#KV-Android-CollectSources)
-   
-      * [完整项目](#完整项目)
-
-      * [开发框架](#开发框架)
-
-      * [DEMO](#demo)
-
-      * [资料](#资料)
+* [优秀完整项目](#优秀完整项目)
+* [开发框架](#开发框架)
+* [Demo](#demo)
+* [资料](#资料)
 
 ```
 点击 ► 展示效果图
 ```
 
 
-## 完整项目
+## 优秀完整项目
 [back to top](#readme) 
 
 ## 开发框架
 [back to top](#readme) 
 
-## DEMO
+## Demo
 [back to top](#readme) 
 
 ## 资料
