@@ -164,6 +164,8 @@
 
 ## 沉浸式解决库
 [back to top](#readme) 
+* [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)
+* [SystemBar一体化yanzhenjie/Sofia](https://github.com/yanzhenjie/Sofia)
 
 ## Permissions权限处理
 [back to top](#readme) 
