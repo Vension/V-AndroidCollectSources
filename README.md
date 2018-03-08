@@ -10,6 +10,7 @@
 
 ## 目录
    * [KV-Android-CollectSources](#KV-Android-CollectSources)
+      * [V-优秀开源完整项目](#V-优秀开源完整项目)
       * [开源库](#开源库)
          * [框架](#框架)
          * [DSL](#dsl)
@@ -35,7 +36,7 @@
          * [工具](#工具)
          * [其他](#其他)
 
-      * [完整 app](#完整-app)
+      
 
       * [DEMO](#demo)
 
@@ -51,8 +52,95 @@
 点击 ► 展示效果图
 ```
 
-## 开源库
+## V-优秀开源完整项目
 [back to top](#readme) 
+
+  
+* [Tucao](https://github.com/blackbbc/Tucao) - 吐槽第三方Android客户端
+    <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/1.gif" width="30%">
+    <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/2.gif" width="30%">
+    <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/3.gif" width="30%">
+    </div>
+    </details>
+
+* [Ribble](https://github.com/armcha/Ribble) - Dribbble客户端
+    <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/armcha/Ribble/raw/master/art/ribble_demo.gif" width="30%">
+    </div>
+    </details>
+    
+    
+* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 相册 APP
+   <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
+    </div>
+   </details>
+
+
+* [Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - 拍照 APP
+   <details><summary><code>效果图</code>🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
+    </div>
+   </details>
+
+* [Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - 文件管理器
+   <details><summary><code>效果图</code>🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.png" width="30%">
+    </div>
+   </details>
+
+  
+* [KotlinMvp（推荐）](https://github.com/git-xuhao/KotlinMvp) -  基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP
+    <details><summary><code>效果图</code></summary>
+       <div style="display:flex;">
+      <img alt="image" src="https://github.com/git-xuhao/KotlinMvp/raw/master/screenshot/kotlin-mvp-1.gif" width="30%">
+      </div>
+    </details>
+
+* [精仿今日头条（推荐）](https://github.com/chaychan/TouTiao) -  精仿今日头条，数据是抓取今日头条App的数据。使用RxJava + Retrofit + MVP开发的开源项目
+    <details><summary><code>效果图</code></summary>
+       <div style="display:flex;">
+         <img alt="image" src="https://raw.githubusercontent.com/chaychan/TouTiaoPics/master/screenshot/home.jpg" width="30%">
+      </div>
+    </details>
+    
+* [GeekNews](https://github.com/codeestX/GeekNews) - Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide
+    <details><summary><code>效果图</code></summary>
+       <div style="display:flex;">
+         <img alt="image" src="https://github.com/codeestX/GeekNews/blob/master/screenshots/GIF1.gif" width="30%">
+         <img alt="image" src="https://github.com/codeestX/GeekNews/blob/master/screenshots/GIF2.gif" width="30%">
+         <img alt="image" src="https://github.com/codeestX/GeekNews/blob/master/screenshots/GIF3.gif" width="30%">
+      </div>
+    </details>
+    
+* [SprintNBA](https://github.com/smuyyh/SprintNBA) - NBA第三方客户端，含NBA头条新闻、视频集锦/赛场花絮、比赛直播
+    <details><summary><code>效果图</code></summary>
+       <div style="display:flex;">
+         <img alt="image" src="https://raw.githubusercontent.com/smuyyh/SprintNBA/master/screenshot/home_news_1.png" width="30%">
+         <img alt="image" src="https://raw.githubusercontent.com/smuyyh/SprintNBA/master/screenshot/home_video_list_1.png" width="30%">
+         <img alt="image" src="https://raw.githubusercontent.com/smuyyh/SprintNBA/master/screenshot/video_play.png" width="30%">
+      </div>
+    </details>
+
+* [MvpApp](https://github.com/Rukey7/MvpApp) - Android MVP Architecture Study
+    <details><summary><code>效果图</code></summary>
+       <div style="display:flex;">
+         <img alt="image" src="https://raw.githubusercontent.com/Rukey7/ScreenShot/master/MvpApp/主页.png" width="30%">
+         <img alt="image" src="https://raw.githubusercontent.com/Rukey7/ScreenShot/master/MvpApp/新闻主页.png" width="30%">
+      </div>
+    </details>
+***
+
+
 
 ### 框架
 * [android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - clean 框架模板 🔥🔥🔥🔥🔥
@@ -204,160 +292,6 @@
 * [paperparcel](https://github.com/grandstaish/paperparcel) - 自动生成Parcelable 代码的注解处理器 🔥🔥
 
 
-## 完整 app
-[back to top](#readme) 
-* [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - shadowsocks 客户端 🔥🔥🔥🔥🔥
-* [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥
-
-* [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) - 音乐信息展示APP
-   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/antoniolg/Bandhook-Kotlin/raw/master/art/bandhook.gif" width="30%">
-    </div>
-   </details>
-   
-* [tachiyomi](https://github.com/inorichi/tachiyomi) - 漫画阅读APP
-   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/inorichi/tachiyomi/raw/master/.github/readme-images/screens.png" width="80%">
-    </div>
-   </details>
-
-* [GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin) - 用 Kotlin 写的 Gank 客户端
-   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/githubwing/GankClient-Kotlin/raw/master/img/pic1.png" width="30%">
-    <img alt="image" src="https://github.com/githubwing/GankClient-Kotlin/raw/master/img/pic2.png" width="30%">
-    </div>
-   </details>
-* [Eyepetizer-in-Kotlin](https://github.com/LRH1993/Eyepetizer-in-Kotlin) - 数据来源自开眼视频的客户端
-   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://camo.githubusercontent.com/0f139856de508bd43a6bf5509f737e731580ff68/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333938353536332d613432343664623833663833353837642e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="80%">
-   </details>
-
-*  [Kotlin-for-Android-Developers](https://github.com/antoniolg/Kotlin-for-Android-Developers) - 《Kotlin Android Developers》书籍的配套 APP 🔥🔥🔥🔥
-
-* [tivi](https://github.com/chrisbanes/tivi) - 电视节目跟踪 APP 🔥🔥🔥🔥
-
-* [Lightning-Browser](https://github.com/anthonycr/Lightning-Browser) - （闪电浏览器）是体积小巧的高性能浏览器 🔥🔥🔥🔥
-
-* [Voice](https://github.com/PaulWoitaschek/Voice) - 有声电子书阅读器 🔥🔥🔥
-
-* [PoiShuhui-Kotlin](https://github.com/wuapnjie/PoiShuhui-Kotlin) - 一个用 Kotlin 写的简单漫画 APP 
-   <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="http://7xrqmj.com1.z0.glb.clouddn.com/S60310-222037.jpg?imageView/2/w/300/q/90" width="30%">
-    <img alt="image" src="http://7xrqmj.com1.z0.glb.clouddn.com/S60310-221942.jpg?imageView/2/w/300/q/90" width="30%">
-    </div>
-   </details>
-
-* [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - 日历 APP
-   <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Calendar/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
-    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Calendar/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_5.png" width="30%">
-    </div>
-   </details>
-
-* [conference-app-2018](https://github.com/DroidKaigi/conference-app-2018) - [DroidKaigi 2018](https://droidkaigi.jp/2018/en/)官方 app
-   <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/DroidKaigi/conference-app-2018/raw/master/art/screenshot_sessions.png" width="30%">
-    <img alt="image" src="https://github.com/DroidKaigi/conference-app-2018/raw/master/art/screenshot_search.png" width="30%">
-    <img alt="image" src="https://github.com/DroidKaigi/conference-app-2018/raw/master/art/screenshot_session_detail.png" width="30%">
-    </div>
-   </details>
-
-* [susi_android](https://github.com/fossasia/susi_android) - SUSI AI app，提供一个对话界面，使用loklak / AskSusi基础设施提供智能答案
-   <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/fossasia/susi_android/raw/development/docs/_static/message.png" width="30%">
-    <img alt="image" src="https://github.com/fossasia/susi_android/raw/development/docs/_static/voice_input.png" width="30%">
-    <img alt="image" src="https://github.com/fossasia/susi_android/raw/development/docs/_static/skills.png" width="30%">
-    </div>
-   </details>
-  
-* [Tucao](https://github.com/blackbbc/Tucao) - 吐槽第三方Android客户端
-    <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/1.gif" width="30%">
-    <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/2.gif" width="30%">
-    <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/3.gif" width="30%">
-    </div>
-    </details>
-
-* [code-reader](https://github.com/loopeer/code-reader) - 代码阅读器，支持多种语言
-    <details><summary><code>效果图</code>🔥🔥🔥</summary>
-       <div style="display:flex;">
-      <img alt="image" src="https://github.com/loopeer/code-reader/raw/master/screenshot/codereader_setting_day.gif" width="30%">
-      <img alt="image" src="https://github.com/loopeer/code-reader/raw/master/screenshot/codereader_setting_night.gif" width="30%">
-      </div>
-    </details>
-
-* [Ribble](https://github.com/armcha/Ribble) - Dribbble客户端
-
-    <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/armcha/Ribble/raw/master/art/ribble_demo.gif" width="30%">
-    </div>
-    </details>
-    
-* [CatchUp](https://github.com/hzsweers/CatchUp) - 聚合Hacker News、Reddit、Medium等平台的热门信息的 APP
-
-    <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://cdn-images-1.medium.com/max/1600/1*MlO6Y0bGIjjyTf-hmxR-zw.png" width="80%">
-    </div>
-    </details>
-    
-* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 相册 APP
-   <details><summary><code>效果图</code>🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
-    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
-    </div>
-   </details>
-
-* [AndroidRivers](https://github.com/dodyg/AndroidRivers) - RSS阅读器 🔥🔥
-
-* [Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - 拍照 APP
-   <details><summary><code>效果图</code>🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
-    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
-    </div>
-   </details>
-
-* [Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - 文件管理器
-   <details><summary><code>效果图</code>🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
-    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.png" width="30%">
-    </div>
-   </details>
-
-* [饭否精选](https://github.com/TonnyL/FanfouHandpick) - 使用 Kotlin 开发的饭否精选 App
-   <details><summary><code>效果图</code>🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/marktony/FanfouHandpick/raw/master/screenshots/0.png" width="30%">
-    </div>
-   </details>
-  
-* [KotlinMvp](https://github.com/git-xuhao/KotlinMvp) -  基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP
-    <details><summary><code>效果图</code></summary>
-       <div style="display:flex;">
-      <img alt="image" src="https://github.com/git-xuhao/KotlinMvp/raw/master/screenshot/kotlin-mvp-1.gif" width="30%">
-      </div>
-    </details>
-
-* [Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - 便签 APP
-   <details><summary><code>效果图</code></summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Notes/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
-    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Notes/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.png" width="30%">
-    </div>
-   </details>  
 
 ## DEMO
 [back to top](#readme) 
@@ -383,19 +317,7 @@
 * [Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials) - Kotlin 视频教程 🔥🔥🔥🔥🔥
 
 
-## V、优秀开源完整项目
 
-## [KotlinMvp（推荐）](https://github.com/Vension/KotlinMvp)
-
-## [GeekNews](https://github.com/codeestX/GeekNews) 
-
-## [精仿今日头条（推荐）](https://github.com/chaychan/TouTiao)
-
-## [SprintNBA](https://github.com/smuyyh/SprintNBA)
-
-## [MvpApp](https://github.com/Rukey7/MvpApp)
-
-***
 
 ## F、Android 组件化/插件化
 
