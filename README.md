@@ -61,7 +61,47 @@
          <img alt="image" src="https://raw.githubusercontent.com/Rukey7/ScreenShot/master/MvpApp/新闻主页.png" width="30%">
       </div>
     </details>
-    
+ 
+ * [Tucao](https://github.com/blackbbc/Tucao) - 吐槽第三方Android客户端
+    <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/1.gif" width="30%">
+    <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/2.gif" width="30%">
+    <img alt="image" src="https://github.com/blackbbc/Tucao/raw/master/art/3.gif" width="30%">
+    </div>
+    </details>
+
+* [Ribble](https://github.com/armcha/Ribble) - Dribbble客户端
+    <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/armcha/Ribble/raw/master/art/ribble_demo.gif" width="30%">
+    </div>
+    </details>
+
+* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 相册 APP
+   <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
+    </div>
+   </details>
+
+* [Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - 拍照 APP
+   <details><summary><code>效果图</code>🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
+    </div>
+   </details>
+
+* [Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - 文件管理器
+   <details><summary><code>效果图</code>🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.png" width="30%">
+    </div>
+   </details>
+   
 ## 开发框架
 [back to top](#readme) 
 
