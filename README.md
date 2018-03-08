@@ -19,7 +19,7 @@
 * [Recyclerview通用适配器](#recyclerView通用适配器)
 * [轮播图Banner](#轮播图banner)
 * [沉浸式解决库](#沉浸式解决库)
-* [Permissions权限处理](#Permissions权限处理)
+* [Permissions权限处理](#permissions权限处理)
 * [Android侧滑返回](#Android侧滑返回)
 * [Demo](#demo)
 * [资料](#资料)
@@ -161,6 +161,9 @@
 * [youth5201314/banner](https://github.com/youth5201314/banner)
 
 * [bingoogolapple/BGABanner-Android（推荐）](https://github.com/bingoogolapple/BGABanner-Android)
+
+## 沉浸式解决库
+[back to top](#readme) 
 
 ## Permissions权限处理
 [back to top](#readme) 
