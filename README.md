@@ -105,6 +105,13 @@
 ## 开发框架
 [back to top](#readme) 
 
+* [wequick/Small](https://github.com/wequick/Small)
+* [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)
+* [NewFastFrame](https://github.com/HelloChenJinJun/NewFastFrame)
+* [android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - clean 框架模板 🔥🔥🔥🔥🔥
+* [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) - 快速生成MVP 架构的项目模板 🔥🔥🔥🔥
+* [KBinding](https://github.com/BennyWang/KBinding) - 使用kotlin实现的Android MVVM框架 🔥🔥
+
 ## Demo
 [back to top](#readme) 
 
