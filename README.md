@@ -22,7 +22,7 @@
 * [Permissions权限处理](#permissions权限处理)
 * [Android侧滑返回](#android侧滑返回)
 * [视频播放器](#视频播放器)
-* [相册选择器-裁剪的library](#相册选择器-裁剪的library)
+* [相册选择器 裁剪的library](#相册选择器-裁剪的library)
 * [Demo](#demo)
 * [资料](#资料)
 
