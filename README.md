@@ -12,6 +12,7 @@
 * [优秀完整项目](#优秀完整项目)
 * [开发框架](#开发框架)
 * [网络相关](#网络相关)
+* [数据库相关](#数据库相关)
 * [Demo](#demo)
 * [资料](#资料)
 
@@ -125,11 +126,23 @@
 [back to top](#readme) 
 * [Fuel](https://github.com/kittinunf/Fuel) - 最简单的 HTTP 网络库 🔥🔥🔥🔥
 
+## 数据库相关
+[back to top](#readme) 
+* [requery](https://github.com/requery/requery) - 轻量强大的ORM数据库 🔥🔥🔥🔥🔥
+* [DBFlow](https://github.com/Raizlabs/DBFlow) - 一个健壮, 强大, 非常简单的 ORM android 数据库 🔥🔥🔥🔥🔥
+
 ## Demo
 [back to top](#readme) 
 
+* [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) - Dagger 2 和 Kotlin 结合例子 🔥🔥
+
+* [kotlin-fullstack-sample](https://github.com/Kotlin/kotlin-fullstack-sample) - kotlin 全栈开发应用例子，包括前端和后台 🔥🔥🔥
+
 ## 资料
 [back to top](#readme) 
+
+* [Kotlin for android developers中文翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh) 🔥🔥🔥🔥🔥
+* [Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials) - Kotlin 视频教程 🔥🔥🔥🔥🔥
 
 
 
