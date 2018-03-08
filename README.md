@@ -24,8 +24,7 @@
 * [视频播放器](#视频播放器)
 * [音乐播放器](#音乐播放器)
 * [相册选择器裁剪的library](#相册选择器裁剪的library)
-* [Demo](#demo)
-* [资料](#资料)
+* [拍照/录像相关](#拍照/录像相关)
 
 ```
 点击 ► 展示效果图
@@ -221,6 +220,11 @@
 
 * [FinalTeam/RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)
 
+## 拍照/录像相关
+[back to top](#readme) 
+* [仿微信拍照Android控件（轻触拍照，长按摄像）CameraView](https://github.com/CJT2325/CameraView)
+
+* [Werb/MediaUtils](https://github.com/Werb/MediaUtils)
 
 ***
 #### 动画
