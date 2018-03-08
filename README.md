@@ -16,7 +16,7 @@
 * [通用标题栏](#通用标题栏)
 * [底部导航栏](#底部导航栏)
 * [刷新控件](#刷新控件)
-* [RecyclerView通用适配器](#recyclerView通用适配器)
+* [Recyclerview通用适配器](#recyclerView通用适配器)
 * [轮播图Banner](#轮播图banner)
 * [沉浸式解决库](#沉浸式解决库)
 * [Permissions权限处理](#Permissions权限处理)
