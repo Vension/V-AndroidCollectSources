@@ -17,7 +17,7 @@
 * [底部导航栏](#底部导航栏)
 * [刷新控件](#刷新控件)
 * [RecyclerView通用适配器](#recyclerView通用适配器)
-* [轮播图Banner](#轮播图Banner)
+* [轮播图Banner](#轮播图banner)
 * [沉浸式解决库](#沉浸式解决库)
 * [Permissions权限处理](#Permissions权限处理)
 * [Android侧滑返回](#Android侧滑返回)
@@ -147,6 +147,9 @@
 * [CymChad/BaseRecyclerViewAdapterHelper（推荐）](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 
 * [MEiDIK/SlimAdapter](https://github.com/MEiDIK/SlimAdapter)
+
+## 轮播图Banner
+[back to top](#readme) 
 
 ## Demo
 [back to top](#readme) 
