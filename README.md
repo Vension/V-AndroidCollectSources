@@ -11,6 +11,7 @@
 ## 目录
 * [优秀完整项目](#优秀完整项目)
 * [开发框架](#开发框架)
+* [网络相关](#网络相关)
 * [Demo](#demo)
 * [资料](#资料)
 
@@ -113,10 +114,16 @@
    </details>
    
 * [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)
+
 * [NewFastFrame](https://github.com/HelloChenJinJun/NewFastFrame)
+
 * [android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - clean 框架模板 🔥🔥🔥🔥🔥
 * [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) - 快速生成MVP 架构的项目模板 🔥🔥🔥🔥
 * [KBinding](https://github.com/BennyWang/KBinding) - 使用kotlin实现的Android MVVM框架 🔥🔥
+
+## 网络相关
+[back to top](#readme) 
+* [Fuel](https://github.com/kittinunf/Fuel) - 最简单的 HTTP 网络库 🔥🔥🔥🔥
 
 ## Demo
 [back to top](#readme) 
