@@ -20,7 +20,7 @@
 * [轮播图Banner](#轮播图banner)
 * [沉浸式解决库](#沉浸式解决库)
 * [Permissions权限处理](#permissions权限处理)
-* [Android侧滑返回](#Android侧滑返回)
+* [Android侧滑返回](#android侧滑返回)
 * [Demo](#demo)
 * [资料](#资料)
 
@@ -173,6 +173,16 @@
 
 * [AndPermission](https://github.com/yanzhenjie/AndPermission)
 * [Kovenant](https://github.com/mplatvoet/kovenant) - Kotlin 的 Promises 库 🔥🔥
+
+## Android侧滑返回
+[back to top](#readme) 
+* [Android_Slide_To_Close（推荐）](https://github.com/yuanhoujun/Android_Slide_To_Close)
+
+* [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
+
+* [SwipeBack](https://github.com/liuguangqiang/SwipeBack)
+
+* [SwipeBackHelper](https://github.com/Jude95/SwipeBackHelper)
 
 ## Demo
 [back to top](#readme) 
