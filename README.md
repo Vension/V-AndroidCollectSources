@@ -22,6 +22,7 @@
 * [Permissions权限处理](#permissions权限处理)
 * [Android侧滑返回](#android侧滑返回)
 * [视频播放器](#视频播放器)
+* [音乐播放器](#音乐播放器)
 * [相册选择器裁剪的library](#相册选择器裁剪的library)
 * [Demo](#demo)
 * [资料](#资料)
@@ -195,6 +196,12 @@
 * [基于IjkPlayer,原节操播放器JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 
 * [基于IjkPlayer,Haxine/SuperPlayer](https://github.com/Haxine/SuperPlayer)
+
+## 音乐播放器
+[back to top](#readme) 
+* [乐乐音乐5.0](https://github.com/zhangliangming/HappyPlayer5)
+
+* [波尼音乐](https://github.com/wangchenyan/PonyMusic)
 
 ## 相册选择器+裁剪的library
 [back to top](#readme) 
