@@ -142,6 +142,14 @@
 ## 通用标题栏
 [back to top](#readme)
 
+## 刷新控件
+[back to top](#readme)
+* [scwang90/SmartRefreshLayout（推荐）](https://github.com/scwang90/SmartRefreshLayout)
+
+* [bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)
+
+* [maning0303/MNSwipeToLoadDemo](https://github.com/maning0303/MNSwipeToLoadDemo)
+
 ## RecyclerView通用适配器
 [back to top](#readme) 
 * [CymChad/BaseRecyclerViewAdapterHelper（推荐）](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
