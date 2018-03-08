@@ -142,6 +142,12 @@
 ## 通用标题栏
 [back to top](#readme)
 
+## RecyclerView通用适配器
+[back to top](#readme) 
+* [CymChad/BaseRecyclerViewAdapterHelper（推荐）](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+
+* [MEiDIK/SlimAdapter](https://github.com/MEiDIK/SlimAdapter)
+
 ## Demo
 [back to top](#readme) 
 
