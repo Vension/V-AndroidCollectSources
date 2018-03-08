@@ -19,8 +19,8 @@
 * [RecyclerView通用适配器](#RecyclerView通用适配器)
 * [轮播图Banner](#轮播图Banner)
 * [沉浸式解决库](#沉浸式解决库)
-* [Android 6.0权限处理](#Android 6.0权限处理)
-* [Android 侧滑返回](#Android 侧滑返回)
+* [Permissions权限处理](#Permissions权限处理)
+* [Android侧滑返回](#Android侧滑返回)
 * [Demo](#demo)
 * [资料](#资料)
 
