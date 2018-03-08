@@ -162,6 +162,13 @@
 
 * [bingoogolapple/BGABanner-Android（推荐）](https://github.com/bingoogolapple/BGABanner-Android)
 
+## Permissions权限处理
+[back to top](#readme) 
+* [tbruyelle/RxPermissions（推荐）](https://github.com/tbruyelle/RxPermissions)
+
+* [AndPermission](https://github.com/yanzhenjie/AndPermission)
+* [Kovenant](https://github.com/mplatvoet/kovenant) - Kotlin 的 Promises 库 🔥🔥
+
 ## Demo
 [back to top](#readme) 
 
