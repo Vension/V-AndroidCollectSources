@@ -12,8 +12,8 @@
    * [KV-Android-CollectSources](#KV-Android-CollectSources)
       * [V-优秀开源完整项目](#v-优秀开源完整项目)
       * [开发框架FrameWork相关](#开发框架framework相关)
-      * [网络](#网络)
-      * [数据库](#数据库)
+      * [网络相关](#网络相关)
+      * [数据库相关](#数据库相关)
       * [通用标题栏](#通用标题栏)
       * [底部导航栏](#底部导航栏)
       * [刷新控件](#刷新控件)
@@ -25,13 +25,8 @@
       * [DEMO](#demo)
       * [资料](#资料)
 
-```
- 100+ Stars: 🔥
- 200+ Stars: 🔥🔥
- 500+ Stars: 🔥🔥🔥
-1000+ Stars: 🔥🔥🔥🔥
-2000+ Stars: 🔥🔥🔥🔥🔥
 
+```
 点击 ► 展示效果图
 ```
 ***
@@ -42,10 +37,10 @@
 ## 开发框架FrameWork相关
 [back to top](#readme)
 
-## 网络
+## 网络相关
 [back to top](#readme)
 
-## 数据库
+## 数据库相关
 [back to top](#readme)
 
 ## 通用标题栏
