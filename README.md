@@ -22,6 +22,7 @@
 * [Permissions权限处理](#permissions权限处理)
 * [Android侧滑返回](#android侧滑返回)
 * [视频播放器](#视频播放器)
+* [相册选择器+裁剪的library](#相册选择器+裁剪的library)
 * [Demo](#demo)
 * [资料](#资料)
 
@@ -195,6 +196,87 @@
 
 * [基于IjkPlayer,Haxine/SuperPlayer](https://github.com/Haxine/SuperPlayer)
 
+## 相册选择器+裁剪的library
+[back to top](#readme) 
+* [zhihu/Matisse（推荐）](https://github.com/zhihu/Matisse)
+
+* [Bilibili/boxing](https://github.com/Bilibili/boxing)
+
+* [TakePhoto](https://github.com/crazycodeboy/TakePhoto)
+
+* [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android)
+
+* [PictureSelector](https://github.com/LuckSiege/PictureSelector)
+
+* [donkingliang / ImageSelector](https://github.com/donkingliang/ImageSelector)
+
+* [LQRImagePicker](https://github.com/GitLqr/LQRImagePicker)
+
+* [FinalTeam/RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)
+
+
+***
+#### 动画
+* [transitioner](https://github.com/dev-labs-bg/transitioner) - 动态、简单的View场景切换动画
+   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/dev-labs-bg/transitioner/raw/master/preview1.gif" width="50%">
+   </details>
+
+* [Konfetti](https://github.com/DanielMartinus/Konfetti) - 轻量五彩纸屑粒子系统
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="30%">
+   </details>
+
+
+#### 选择/过滤器
+
+* [Bubble-Picker](https://github.com/igalata/Bubble-Picker) - 简单易用的漂浮球内容选择器
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/igalata/Bubble-Picker/raw/develop/shot.gif" width="50%">
+   </details>
+
+#### 按钮
+
+* [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - Material Design设计风格的触摸步进器
+   <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/DanielMartinus/Stepper-Touch/raw/master/media/demo.gif" width="30%">
+   </details>
+
+#### 特殊效果
+
+* [shadow](https://github.com/loopeer/shadow) - 可以替代CardView的自定义阴影 view
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_color.gif" width="30%">
+    <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_foreground.gif" width="30%">
+   </details>
+
+* [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - 完全自定义实现的下雪效果
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/hotellook-demo.gif" width="30%">
+   </details>
+
+### 依赖注入
+
+* [kotterknife](https://github.com/JakeWharton/kotterknife) - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥
+* [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) Activity 启动生成器，更简单的方式传递多个参数 🔥🔥
+
+### 数据绑定
+
+* [LastAdapter](https://github.com/nitrico/LastAdapter) - 不需再写RecyclerView 的 adapter 和 ViewHolder 🔥🔥🔥
+
+
+
+### 下载
+
+[RxDownload](https://github.com/ssseasonnn/RxDownload) - 基于RxJava的多线程下载工具 🔥🔥🔥🔥🔥
 
 ***
 
