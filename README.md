@@ -150,6 +150,9 @@
 
 ## 轮播图Banner
 [back to top](#readme) 
+* [youth5201314/banner](https://github.com/youth5201314/banner)
+
+* [bingoogolapple/BGABanner-Android（推荐）](https://github.com/bingoogolapple/BGABanner-Android)
 
 ## Demo
 [back to top](#readme) 
