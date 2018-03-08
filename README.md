@@ -21,6 +21,7 @@
 * [沉浸式解决库](#沉浸式解决库)
 * [Permissions权限处理](#permissions权限处理)
 * [Android侧滑返回](#android侧滑返回)
+* [视频播放器](#视频播放器)
 * [Demo](#demo)
 * [资料](#资料)
 
@@ -184,21 +185,15 @@
 
 * [SwipeBackHelper](https://github.com/Jude95/SwipeBackHelper)
 
-## Demo
+## 视频播放器
 [back to top](#readme) 
+* [Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
 
-* [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) - Dagger 2 和 Kotlin 结合例子 🔥🔥
+* [基于IJKPlayer,CarGuo/GSYVideoPlayer（推荐）](https://github.com/CarGuo/GSYVideoPlayer)
 
-* [kotlin-fullstack-sample](https://github.com/Kotlin/kotlin-fullstack-sample) - kotlin 全栈开发应用例子，包括前端和后台 🔥🔥🔥
+* [基于IjkPlayer,原节操播放器JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 
-## 资料
-[back to top](#readme) 
-
-* [Kotlin for android developers中文翻译](https://github.com/wangjiegulu/kotlin-for-android-developers-zh) 🔥🔥🔥🔥🔥
-* [Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials) - Kotlin 视频教程 🔥🔥🔥🔥🔥
-
-
-
+* [基于IjkPlayer,Haxine/SuperPlayer](https://github.com/Haxine/SuperPlayer)
 
 
 ***
