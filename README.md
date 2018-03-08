@@ -105,7 +105,13 @@
 ## 开发框架
 [back to top](#readme) 
 
-* [wequick/Small](https://github.com/wequick/Small)
+* [wequick/Small](https://github.com/wequick/Small) - 做最轻巧的跨平台插件化框架
+  <details><summary><code>效果图</code>🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://camo.githubusercontent.com/a729be823f63056f8b0ab4a98dd6a9e9e05f53cc/687474703a2f2f636f64652e7765717569636b2e6e65742f6173736574732f616e696d732f736d616c6c2d757067726164652e676966" width="30%">
+    </div>
+   </details>
+   
 * [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)
 * [NewFastFrame](https://github.com/HelloChenJinJun/NewFastFrame)
 * [android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - clean 框架模板 🔥🔥🔥🔥🔥
