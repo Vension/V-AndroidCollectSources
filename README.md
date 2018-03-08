@@ -11,10 +11,19 @@
 ## 目录
    * [KV-Android-CollectSources](#KV-Android-CollectSources)
       * [V-优秀开源完整项目](#V-优秀开源完整项目)
-      * [开源库](#开源库)
-         * [框架](#框架)
-         * [DSL](#dsl)
-         * [扩展](#扩展)
+      * [开发框架FrameWork相关](#开发框架FrameWork相关)
+      * [网络](#网络)
+      * [数据库](#数据库)
+      * [通用标题栏](#通用标题栏)
+      * [底部导航栏](#底部导航栏)
+      * [刷新控件](#刷新控件)
+      * [RecyclerView通用适配器](#RecyclerView通用适配器)
+      * [轮播图Banner](#轮播图Banner)
+      * [沉浸式解决库](#沉浸式解决库)
+      * [Android 6.0权限处理](#Android 6.0权限处理)
+      * [Android 侧滑返回](#Android 侧滑返回)
+      
+      * [开源库](#开源库)
          * [UI](#ui)
             * [通用库](#通用库)
             * [动画](#动画)
@@ -25,36 +34,21 @@
             * [其他](#其他)
          * [依赖注入](#依赖注入)
          * [数据绑定](#数据绑定)
-         * [代理](#代理)
          * [数据库](#数据库)
          * [网络](#网络)
-         * [日志](#日志)
          * [函数式编程](#函数式编程)
          * [下载](#下载)
          * [图片](#图片)
-         * [拍照](#拍照)
          * [工具](#工具)
-         * [其他](#其他)
 
       
 
-      * [DEMO](#demo)
-
-      * [资料](#资料)
-
 ```
- 100+ Stars: 🔥
- 200+ Stars: 🔥🔥
- 500+ Stars: 🔥🔥🔥
-1000+ Stars: 🔥🔥🔥🔥
-2000+ Stars: 🔥🔥🔥🔥🔥
-
 点击 ► 展示效果图
 ```
 
 ## V-优秀开源完整项目
 [back to top](#readme) 
-
   
 * [Tucao](https://github.com/blackbbc/Tucao) - 吐槽第三方Android客户端
     <details><summary><code>效果图</code>🔥🔥🔥</summary>
@@ -72,7 +66,6 @@
     </div>
     </details>
     
-    
 * [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 相册 APP
    <details><summary><code>效果图</code>🔥🔥</summary>
     <div style="display:flex;">
@@ -80,7 +73,6 @@
     <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
     </div>
    </details>
-
 
 * [Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - 拍照 APP
    <details><summary><code>效果图</code>🔥</summary>
@@ -97,7 +89,6 @@
     <img alt="image" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.png" width="30%">
     </div>
    </details>
-
   
 * [KotlinMvp（推荐）](https://github.com/git-xuhao/KotlinMvp) -  基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP
     <details><summary><code>效果图</code></summary>
@@ -138,32 +129,21 @@
          <img alt="image" src="https://raw.githubusercontent.com/Rukey7/ScreenShot/master/MvpApp/新闻主页.png" width="30%">
       </div>
     </details>
-***
 
+## 开发框架FrameWork相关
+[back to top](#readme) 
 
-
-### 框架
+* [wequick/Small](https://github.com/wequick/Small)
+* [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)
+* [NewFastFrame](https://github.com/HelloChenJinJun/NewFastFrame)
 * [android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - clean 框架模板 🔥🔥🔥🔥🔥
 * [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) - 快速生成MVP 架构的项目模板 🔥🔥🔥🔥
 * [KBinding](https://github.com/BennyWang/KBinding) - 使用kotlin实现的Android MVVM框架 🔥🔥
 
-### DSL
-* [anko](https://github.com/Kotlin/anko) - JetBrains 官方为Android编写的 DSL，旨在令开发 Android 更快更简单 🔥🔥🔥🔥🔥
-* [MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt) - 不使用 XML 创建 Material Design 导航抽屉 🔥🔥
-* [android-drawable-dsl](https://github.com/infotech-group/android-drawable-dsl) - 通过 kotlin 构造 drawable 而不是 XML 的 DSL 🔥
 
-### 扩展
-
-* [android-ktx](https://github.com/android/android-ktx) - google 开源的 Kotlin 扩展插件库，在 Android 框架和 Support Library 上提供相应 API 层，帮助开发者更自然编写 Kotlin 代码 🔥🔥🔥🔥🔥
-* [KAndroid](https://github.com/pawegio/KAndroid) - 轻量级Kotlin 扩展插件库 🔥🔥🔥
-* [kotlin-koi](https://github.com/mcxiaoke/kotlin-koi) - 又一个轻量级Kotlin 扩展插件库 🔥🔥
-* [kotlin-jetpack](https://github.com/nsk-mironov/kotlin-jetpack) 有用的扩展方法集合 🔥
 
 ### UI
 
-#### 通用库
-
-* [anvil](https://github.com/zserge/anvil) - 一个受React启发的Android的最小UI库 🔥🔥🔥🔥
 
 #### 动画
 * [transitioner](https://github.com/dev-labs-bg/transitioner) - 动态、简单的View场景切换动画
@@ -178,27 +158,8 @@
     <img alt="image" src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="30%">
    </details>
 
-#### Toolbar
-
-* [JellyToolbar](https://github.com/Yalantis/JellyToolbar) - Yalantis出品，必属精品！炫酷 toolbar 实现
-   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/Yalantis/JellyToolbar/raw/develop/gif.gif" width="50%">
-   </details>
 
 #### 选择/过滤器
-
-* [SearchFilter](https://github.com/Yalantis/SearchFilter) - Yalantis出品，必属精品！炫酷 搜索过滤器 实现
-   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/Yalantis/SearchFilter/raw/master/gif/dribbble.gif" width="50%">
-   </details>
-   
-* [Multi-Selection](https://github.com/Yalantis/Multi-Selection) - Yalantis出品，必属精品！炫酷 多选器实现
-   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/Yalantis/Multi-Selection/raw/develop/imgs/dribble.gif" width="50%">
-   </details>
 
 * [Bubble-Picker](https://github.com/igalata/Bubble-Picker) - 简单易用的漂浮球内容选择器
    <details><summary><code>效果图</code>🔥🔥🔥</summary>
@@ -229,14 +190,6 @@
     <img alt="image" src="https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/hotellook-demo.gif" width="30%">
    </details>
    
-#### 其他
-
-* [AdaptiveIconPlayground](https://github.com/nickbutcher/AdaptiveIconPlayground) - 一个体验 [adaptive icons](https://github.com/nickbutcher/AdaptiveIconPlayground)效果的应用
-   <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/nickbutcher/AdaptiveIconPlayground/raw/master/screenshots/adaptive-icon-playground-demo.webp" width="30%">
-   </details>
-
 ### 依赖注入
 
 * [kotterknife](https://github.com/JakeWharton/kotterknife) - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥
@@ -248,9 +201,6 @@
 
 * [LastAdapter](https://github.com/nitrico/LastAdapter) - 不需再写RecyclerView 的 adapter 和 ViewHolder 🔥🔥🔥
 
-### 代理
-
-* [Kotpref](https://github.com/chibatching/Kotpref) - SharedPreferences 代理库 🔥🔥
 
 ### 数据库
 
@@ -261,49 +211,19 @@
 
 * [Fuel](https://github.com/kittinunf/Fuel) - 最简单的 HTTP 网络库 🔥🔥🔥🔥
 
-### 日志
-
-* [timberkt](https://github.com/ajalt/timberkt) - 基于Timber的日志库 🔥
-
-### 函数式编程
-
-* [RxKotlin](https://github.com/ReactiveX/RxKotlin) - RxJava 的 kotlin实现 🔥🔥🔥🔥🔥
 
 ### 下载
 
 [RxDownload](https://github.com/ssseasonnn/RxDownload) - 基于RxJava的多线程下载工具 🔥🔥🔥🔥🔥
 
-### 图片
 
-* [clay](https://github.com/line/clay) - 图片自由裁剪库
 
-### 拍照
 
-* [Fotoapparat](https://github.com/Fotoapparat/Fotoapparat) - 友好的相机库 🔥🔥🔥🔥🔥
-
-### 工具
-* [debug-bottle](https://github.com/kiruto/debug-bottle) - Android 开发调试工具 🔥🔥🔥
-* [detekt](https://github.com/arturbosch/detekt) - 静态代码分析工具 🔥🔥🔥
-* [fakeit](https://github.com/moove-it/fakeit) - 假数据生成库 🔥🔥
-
-### 其他
-* [MapMe](https://github.com/TradeMe/MapMe) - 用于处理地图的 Android 库。MapMe 将适配器模式带入地图，简化了标记和注释的管理。🔥🔥🔥
-* [Kovenant](https://github.com/mplatvoet/kovenant) - Kotlin 的 Promises 库 🔥🔥
-* [paperparcel](https://github.com/grandstaish/paperparcel) - 自动生成Parcelable 代码的注解处理器 🔥🔥
 
 
 
 ## DEMO
 [back to top](#readme) 
-
-* [android-topeka](https://github.com/googlesamples/android-topeka) - google 官方 material design 示例应用 
-
-    <details><summary><code>效果图</code>🔥🔥🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/googlesamples/android-topeka/raw/master/screenshots/categories.png" width="30%">
-    <img alt="image" src="https://github.com/googlesamples/android-topeka/raw/master/screenshots/category_history.png" width="30%">
-    </div>
-    </details>
 
 * [kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) - Dagger 2 和 Kotlin 结合例子 🔥🔥
 
@@ -319,13 +239,8 @@
 
 
 
-## F、Android 组件化/插件化
 
-## [wequick/Small](https://github.com/wequick/Small)
 
-## [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)
-
-## [NewFastFrame](https://github.com/HelloChenJinJun/NewFastFrame)
 
 ***
 
@@ -452,7 +367,7 @@
 ## [tbruyelle/RxPermissions（推荐）](https://github.com/tbruyelle/RxPermissions)
 
 ## [AndPermission](https://github.com/yanzhenjie/AndPermission)
-
+* [Kovenant](https://github.com/mplatvoet/kovenant) - Kotlin 的 Promises 库 🔥🔥
 ***
 
 ## 14.、Android开发人员不得不收集的代码  工具类
