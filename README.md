@@ -205,7 +205,7 @@
 * [paperparcel](https://github.com/grandstaish/paperparcel) - 自动生成Parcelable 代码的注解处理器 🔥🔥
 
 
-## V-优秀开源完整项目
+## 优秀开源完整项目
 [back to top](#readme) 
 * [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - shadowsocks 客户端 🔥🔥🔥🔥🔥
 * [Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - Material Design 设计，功能完善的 Twitter 客户端 🔥🔥🔥🔥
