@@ -22,6 +22,46 @@
 ## 优秀完整项目
 [back to top](#readme) 
 
+* [KotlinMvp（推荐）](https://github.com/git-xuhao/KotlinMvp) -  基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP
+    <details><summary><code>效果图</code></summary>
+      <div style="display:flex;">
+      <img alt="image" src="https://github.com/git-xuhao/KotlinMvp/raw/master/screenshot/kotlin-mvp-1.gif" width="30%">
+      </div>
+    </details>
+
+* [精仿今日头条（推荐）](https://github.com/chaychan/TouTiao) -  精仿今日头条，数据是抓取今日头条App的数据。使用RxJava + Retrofit + MVP开发的开源项目
+    <details><summary><code>效果图</code></summary>
+       <div style="display:flex;">
+         <img alt="image" src="https://raw.githubusercontent.com/chaychan/TouTiaoPics/master/screenshot/home.jpg" width="30%">
+      </div>
+    </details>
+
+* [GeekNews](https://github.com/codeestX/GeekNews) - Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide
+    <details><summary><code>效果图</code></summary>
+       <div style="display:flex;">
+         <img alt="image" src="https://github.com/codeestX/GeekNews/blob/master/screenshots/GIF1.gif" width="30%">
+         <img alt="image" src="https://github.com/codeestX/GeekNews/blob/master/screenshots/GIF2.gif" width="30%">
+         <img alt="image" src="https://github.com/codeestX/GeekNews/blob/master/screenshots/GIF3.gif" width="30%">
+      </div>
+    </details>
+
+* [SprintNBA](https://github.com/smuyyh/SprintNBA) - NBA第三方客户端，含NBA头条新闻、视频集锦/赛场花絮、比赛直播
+    <details><summary><code>效果图</code></summary>
+       <div style="display:flex;">
+         <img alt="image" src="https://raw.githubusercontent.com/smuyyh/SprintNBA/master/screenshot/home_news_1.png" width="30%">
+         <img alt="image" src="https://raw.githubusercontent.com/smuyyh/SprintNBA/master/screenshot/home_video_list_1.png" width="30%">
+         <img alt="image" src="https://raw.githubusercontent.com/smuyyh/SprintNBA/master/screenshot/video_play.png" width="30%">
+      </div>
+    </details>
+
+* [MvpApp](https://github.com/Rukey7/MvpApp) - Android MVP Architecture Study
+    <details><summary><code>效果图</code></summary>
+       <div style="display:flex;">
+         <img alt="image" src="https://raw.githubusercontent.com/Rukey7/ScreenShot/master/MvpApp/主页.png" width="30%">
+         <img alt="image" src="https://raw.githubusercontent.com/Rukey7/ScreenShot/master/MvpApp/新闻主页.png" width="30%">
+      </div>
+    </details>
+    
 ## 开发框架
 [back to top](#readme) 
 
