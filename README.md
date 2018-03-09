@@ -25,6 +25,8 @@
 * [音乐播放器](#音乐播放器)
 * [相册选择器裁剪的library](#相册选择器裁剪的library)
 * [拍照/录像相关](#拍照/录像相关)
+* [仿TabLayout](#仿tablayout)
+* [工具相关](#工具相关)
 
 ```
 点击 ► 展示效果图
@@ -125,10 +127,7 @@
    </details>
    
 * [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)
-
 * [NewFastFrame](https://github.com/HelloChenJinJun/NewFastFrame)
-
-* [android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate) - clean 框架模板 🔥🔥🔥🔥🔥
 * [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) - 快速生成MVP 架构的项目模板 🔥🔥🔥🔥
 * [KBinding](https://github.com/BennyWang/KBinding) - 使用kotlin实现的Android MVVM框架 🔥🔥
 
@@ -147,21 +146,18 @@
 ## 刷新控件
 [back to top](#readme)
 * [scwang90/SmartRefreshLayout（推荐）](https://github.com/scwang90/SmartRefreshLayout)
-
 * [bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)
-
 * [maning0303/MNSwipeToLoadDemo](https://github.com/maning0303/MNSwipeToLoadDemo)
 
 ## RecyclerView通用适配器
 [back to top](#readme) 
 * [CymChad/BaseRecyclerViewAdapterHelper（推荐）](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
-
 * [MEiDIK/SlimAdapter](https://github.com/MEiDIK/SlimAdapter)
+* [LastAdapter](https://github.com/nitrico/LastAdapter) - 不需再写RecyclerView 的 adapter 和 ViewHolder 🔥🔥🔥
 
 ## 轮播图Banner
 [back to top](#readme) 
 * [youth5201314/banner](https://github.com/youth5201314/banner)
-
 * [bingoogolapple/BGABanner-Android（推荐）](https://github.com/bingoogolapple/BGABanner-Android)
 
 ## 沉浸式解决库
@@ -172,59 +168,55 @@
 ## Permissions权限处理
 [back to top](#readme) 
 * [tbruyelle/RxPermissions（推荐）](https://github.com/tbruyelle/RxPermissions)
-
 * [AndPermission](https://github.com/yanzhenjie/AndPermission)
 * [Kovenant](https://github.com/mplatvoet/kovenant) - Kotlin 的 Promises 库 🔥🔥
 
 ## Android侧滑返回
 [back to top](#readme) 
 * [Android_Slide_To_Close（推荐）](https://github.com/yuanhoujun/Android_Slide_To_Close)
-
 * [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
-
 * [SwipeBack](https://github.com/liuguangqiang/SwipeBack)
-
 * [SwipeBackHelper](https://github.com/Jude95/SwipeBackHelper)
 
 ## 视频播放器
 [back to top](#readme) 
 * [Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
-
 * [基于IJKPlayer,CarGuo/GSYVideoPlayer（推荐）](https://github.com/CarGuo/GSYVideoPlayer)
-
 * [基于IjkPlayer,原节操播放器JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
-
 * [基于IjkPlayer,Haxine/SuperPlayer](https://github.com/Haxine/SuperPlayer)
 
 ## 音乐播放器
 [back to top](#readme) 
 * [乐乐音乐5.0](https://github.com/zhangliangming/HappyPlayer5)
-
 * [波尼音乐](https://github.com/wangchenyan/PonyMusic)
 
 ## 相册选择器+裁剪的library
 [back to top](#readme) 
 * [zhihu/Matisse（推荐）](https://github.com/zhihu/Matisse)
-
 * [Bilibili/boxing](https://github.com/Bilibili/boxing)
-
 * [TakePhoto](https://github.com/crazycodeboy/TakePhoto)
-
 * [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android)
-
 * [PictureSelector](https://github.com/LuckSiege/PictureSelector)
-
 * [donkingliang / ImageSelector](https://github.com/donkingliang/ImageSelector)
-
 * [LQRImagePicker](https://github.com/GitLqr/LQRImagePicker)
-
 * [FinalTeam/RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)
 
 ## 拍照/录像相关
 [back to top](#readme) 
 * [仿微信拍照Android控件（轻触拍照，长按摄像）CameraView](https://github.com/CJT2325/CameraView)
-
 * [Werb/MediaUtils](https://github.com/Werb/MediaUtils)
+
+## 仿TabLayout
+[back to top](#readme) 
+* [FlycoTabLayout（推荐）](https://github.com/H07000223/FlycoTabLayout)
+* [垂直纵向的TabLayout,qstumn/VerticalTabLayout](https://github.com/qstumn/VerticalTabLayout)
+* [armcha/Space-Navigation-View](https://github.com/armcha/Space-Navigation-View)
+
+## 工具相关
+[back to top](#readme) 
+* [RxDownload](https://github.com/ssseasonnn/RxDownload) - 基于RxJava的多线程下载工具 🔥🔥🔥🔥🔥
+* [vondear/RxTools（推荐）](https://github.com/vondear/RxTools)
+* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
 
 ***
 
@@ -292,9 +284,7 @@
 
 ## 14.、Android开发人员不得不收集的代码  工具类
 
-## [vondear/RxTools（推荐）](https://github.com/vondear/RxTools)
 
-## [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
 
 ***
 
@@ -309,15 +299,6 @@
 ## [GlidePalette](https://github.com/florent37/GlidePalette)
 
 ***
-
-
-## 18、FlycoTabLayout 仿TabLayout ，有指示器
-
-## [FlycoTabLayout（推荐）](https://github.com/H07000223/FlycoTabLayout)
-
-## [垂直纵向的TabLayout,qstumn/VerticalTabLayout](https://github.com/qstumn/VerticalTabLayout)
-
-## [armcha/Space-Navigation-View](https://github.com/armcha/Space-Navigation-View)
 
 
 
@@ -448,15 +429,12 @@
 * [koin](https://github.com/Ekito/koin) - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥
 * [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) Activity 启动生成器，更简单的方式传递多个参数 🔥🔥
 
-### 数据绑定
-
-* [LastAdapter](https://github.com/nitrico/LastAdapter) - 不需再写RecyclerView 的 adapter 和 ViewHolder 🔥🔥🔥
 
 
 
-### 下载
 
-[RxDownload](https://github.com/ssseasonnn/RxDownload) - 基于RxJava的多线程下载工具 🔥🔥🔥🔥🔥
+
+
 
 ***
 
