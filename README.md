@@ -24,8 +24,9 @@
 * [视频播放器](#视频播放器)
 * [音乐播放器](#音乐播放器)
 * [相册选择器裁剪的library](#相册选择器裁剪的library)
-* [拍照/录像相关](#拍照/录像相关)
+* [拍照 录像相关](#拍照-录像相关)
 * [仿TabLayout](#仿tablayout)
+* [Glide辅助工具](#glide辅助工具)
 * [工具相关](#工具相关)
 
 ```
@@ -212,8 +213,17 @@
 * [垂直纵向的TabLayout,qstumn/VerticalTabLayout](https://github.com/qstumn/VerticalTabLayout)
 * [armcha/Space-Navigation-View](https://github.com/armcha/Space-Navigation-View)
 
+## Glide辅助工具
+[back to top](#readme) 
+* [glide-transformations](https://github.com/wasabeef/glide-transformations) - 为Glide提供图像转换的Android类库
+* [GlidePalette](https://github.com/florent37/GlidePalette) - 一个可以在Glide加载时很方便使用Palette的库。
+
 ## 工具相关
 [back to top](#readme) 
+* [kotterknife](https://github.com/JakeWharton/kotterknife) - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥
+* [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) Activity 启动生成器，更简单的方式传递多个参数 🔥🔥
 * [RxDownload](https://github.com/ssseasonnn/RxDownload) - 基于RxJava的多线程下载工具 🔥🔥🔥🔥🔥
 * [vondear/RxTools（推荐）](https://github.com/vondear/RxTools)
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
@@ -277,28 +287,6 @@
 ## 12、几行代码快速集成二维码扫描功能
 
 ## [zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary)
-
-***
-
-
-
-## 14.、Android开发人员不得不收集的代码  工具类
-
-
-
-***
-
-## 15、glide-transformations——为Glide提供图像转换的Android类库
-
-## [glide-transformations](https://github.com/wasabeef/glide-transformations)
-
-***
-
-## 16、GlidePalette 一个可以在Glide加载时很方便使用Palette的库。
-
-## [GlidePalette](https://github.com/florent37/GlidePalette)
-
-***
 
 
 
@@ -422,12 +410,7 @@
     <img alt="image" src="https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/hotellook-demo.gif" width="30%">
    </details>
 
-### 依赖注入
 
-* [kotterknife](https://github.com/JakeWharton/kotterknife) - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥
-* [koin](https://github.com/Ekito/koin) - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥
-* [koin](https://github.com/Ekito/koin) - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥
-* [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) Activity 启动生成器，更简单的方式传递多个参数 🔥🔥
 
 
 
