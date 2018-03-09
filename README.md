@@ -182,6 +182,13 @@
 
 ## Android侧滑返回
 [back to top](#readme) 
+* [gongwen/SwipeBackLayout（推荐）](https://github.com/gongwen/SwipeBackLayout)
+  <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/gongwen/SwipeBackLayout/blob/master/screenshot/screenshot1.gif" width="50%">
+    <img alt="image" src="https://github.com/gongwen/SwipeBackLayout/blob/master/screenshot/screenshot2.gif" width="50%">
+   </details>
+    
 * [Android_Slide_To_Close（推荐）](https://github.com/yuanhoujun/Android_Slide_To_Close)
 * [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
 * [SwipeBack](https://github.com/liuguangqiang/SwipeBack)
