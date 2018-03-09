@@ -27,6 +27,10 @@
 * [拍照 录像相关](#拍照-录像相关)
 * [仿TabLayout](#仿tablayout)
 * [Glide辅助工具](#glide辅助工具)
+* [Dialog弹窗相关](#dialog弹窗相关)
+* [Popwindow相关](#popwindow相关)
+* [选择器Piker](#选择器piker)
+* [富文本相关](#富文本相关)
 * [工具相关](#工具相关)
 
 ```
@@ -218,6 +222,29 @@
 * [glide-transformations](https://github.com/wasabeef/glide-transformations) - 为Glide提供图像转换的Android类库
 * [GlidePalette](https://github.com/florent37/GlidePalette) - 一个可以在Glide加载时很方便使用Palette的库。
 
+## Dialog弹窗相关
+[back to top](#readme)
+* [mylhyl/Android-CircleDialog(推荐)](https://github.com/mylhyl/Android-CircleDialog)
+* [仿ios选择器 Android-AlertView](https://github.com/saiwu-bigkoo/Android-AlertView)
+* [pedant/sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)
+
+## Popwindow相关
+[back to top](#readme)
+* [条件筛选菜单](https://github.com/dongjunkun/DropDownMenu)
+* [zawadz88/MaterialPopupMenu](https://github.com/zawadz88/MaterialPopupMenu)
+* [CustomPopwindow](https://github.com/pinguo-zhouwei/CustomPopwindow)
+* [razerdp/BasePopup](https://github.com/razerdp/BasePopup)
+
+## 选择器Piker 
+[back to top](#readme) 
+* [Bigkoo/Android-PickerView(推荐)](https://github.com/Bigkoo/Android-PickerView)
+* [选择器gzu-liyujiang/AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker)
+
+## 富文本相关
+[back to top](#readme) 
+* [CarGuo/RickText](https://github.com/CarGuo/RickText)
+* [limedroid/XRichText](https://github.com/limedroid/XRichText)
+
 ## 工具相关
 [back to top](#readme) 
 * [kotterknife](https://github.com/JakeWharton/kotterknife) - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥
@@ -240,35 +267,6 @@
 
 ***
 
-## 7、弹窗相关 AlertDialog/ActionSheetDialog
-
-## [mylhyl/Android-CircleDialog(推荐)](https://github.com/mylhyl/Android-CircleDialog)
-
-## [仿ios选择器 Android-AlertView](https://github.com/saiwu-bigkoo/Android-AlertView)
-
-## [pedant/sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)
-
-***
-
-## 8、选择器 Piker
-
-## [Bigkoo/Android-PickerView(推荐)](https://github.com/Bigkoo/Android-PickerView)
-
-## [选择器gzu-liyujiang/AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker)
-
-***
-
-## 9、Popwindow
-
-## [条件筛选菜单](https://github.com/dongjunkun/DropDownMenu)
-
-## [zawadz88/MaterialPopupMenu](https://github.com/zawadz88/MaterialPopupMenu)
-
-## [CustomPopwindow](https://github.com/pinguo-zhouwei/CustomPopwindow)
-
-## [razerdp/BasePopup](https://github.com/razerdp/BasePopup)
-
-***
 
 ## 10、ProgressBar相关
 
@@ -350,16 +348,6 @@
 ## [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView)
 
 ## [shichaohui/EasyCalendar](https://github.com/shichaohui/EasyCalendar)
-
-***
-
-## 29、富文本
-
-## [CarGuo/RickText](https://github.com/CarGuo/RickText)
-
-## [limedroid/XRichText](https://github.com/limedroid/XRichText)
-
-***
 
 ## 29、丰富的自定义布局（包含圆形、圆角、不规则等）
 
