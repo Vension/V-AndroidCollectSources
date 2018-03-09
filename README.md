@@ -21,17 +21,21 @@
 * [沉浸式解决库](#沉浸式解决库)
 * [Permissions权限处理](#permissions权限处理)
 * [Android侧滑返回](#android侧滑返回)
+* [二维码相关功能](#二维码相关功能)
 * [视频播放器](#视频播放器)
 * [音乐播放器](#音乐播放器)
 * [相册选择器裁剪的library](#相册选择器裁剪的library)
-* [拍照 录像相关](#拍照-录像相关)
+* [拍照录像相关](#拍照录像相关)
 * [仿TabLayout](#仿tablayout)
 * [Glide辅助工具](#glide辅助工具)
 * [Dialog弹窗相关](#dialog弹窗相关)
 * [Popwindow相关](#popwindow相关)
 * [选择器Piker](#选择器piker)
+* [Toast相关](#toast相关)
+* [流式布局](#流式布局)
 * [富文本相关](#富文本相关)
 * [工具相关](#工具相关)
+* [其他自定义控件](#其他自定义控件)
 
 ```
 点击 ► 展示效果图
@@ -183,6 +187,10 @@
 * [SwipeBack](https://github.com/liuguangqiang/SwipeBack)
 * [SwipeBackHelper](https://github.com/Jude95/SwipeBackHelper)
 
+## 二维码相关功能
+[back to top](#readme)
+* [zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary) - 几行代码快速集成二维码扫描功能
+
 ## 视频播放器
 [back to top](#readme) 
 * [Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
@@ -206,7 +214,7 @@
 * [LQRImagePicker](https://github.com/GitLqr/LQRImagePicker)
 * [FinalTeam/RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)
 
-## 拍照/录像相关
+## 拍照录像相关
 [back to top](#readme) 
 * [仿微信拍照Android控件（轻触拍照，长按摄像）CameraView](https://github.com/CJT2325/CameraView)
 * [Werb/MediaUtils](https://github.com/Werb/MediaUtils)
@@ -240,6 +248,24 @@
 * [Bigkoo/Android-PickerView(推荐)](https://github.com/Bigkoo/Android-PickerView)
 * [选择器gzu-liyujiang/AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker)
 
+* [Bubble-Picker](https://github.com/igalata/Bubble-Picker) - 简单易用的漂浮球内容选择器
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/igalata/Bubble-Picker/raw/develop/shot.gif" width="50%">
+   </details>
+
+## Toast相关
+[back to top](#readme) 
+* [bboylin/UniversalToast(推荐)](https://github.com/bboylin/UniversalToast)
+* [GrenderG/Toasty](https://github.com/GrenderG/Toasty)
+
+## 流式布局
+[back to top](#readme) 
+* [AndroidFlexBoxLayout(推荐)](https://github.com/Vension/AndroidFlexBoxLayout) - 使用Google的flexbox实现demo
+* [FlowLayout](https://github.com/hongyangAndroid/FlowLayout)
+* [hanhailong/FlowTag](https://github.com/hanhailong/FlowTag)
+* [2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup)
+
 ## 富文本相关
 [back to top](#readme) 
 * [CarGuo/RickText](https://github.com/CarGuo/RickText)
@@ -255,65 +281,51 @@
 * [vondear/RxTools（推荐）](https://github.com/vondear/RxTools)
 * [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
 
-***
+## 其他自定义控件
+[back to top](#readme) 
+* [daimajia/NumberProgressBar](https://github.com/daimajia/NumberProgressBar) - ProgressBar相关
 
-## 6、流式布局 -->推荐使用Google的flexbox实现demo-->[AndroidFlexBoxLayout](https://github.com/Vension/AndroidFlexBoxLayout)
+* [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - 加载动画view  （AV与NV效果一样）
+* [android——AVLoadingIndicatorView（推荐）](https://github.com/81813780/AVLoadingIndicatorView) - 加载动画view  （AV与NV效果一样）
+* [ios——NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
 
-## [FlowLayout](https://github.com/hongyangAndroid/FlowLayout)
+* [SwitchButton](https://github.com/kyleduo/SwitchButton) - 仿ios移动按钮
+* [ToggleButton](https://github.com/zcweng/ToggleButton) - 仿ios移动按钮
+* [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) - 仿ios移动按钮
+* [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - Material Design设计风格的触摸步进器
+   <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/DanielMartinus/Stepper-Touch/raw/master/media/demo.gif" width="30%">
+   </details>
+ 
+ ## 22、
 
-## [hanhailong/FlowTag](https://github.com/hanhailong/FlowTag)
+* [MaterialBadgeTextView（推荐）](https://github.com/matrixxun/MaterialBadgeTextView) - 一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
+* [BadgeView](https://github.com/qstumn/BadgeView) - 一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
 
-## [2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup)
-
-***
-
-
-## 10、ProgressBar相关
-
-## [daimajia/NumberProgressBar](https://github.com/daimajia/NumberProgressBar)
-
-***
-
-## 11、Toast相关
-
-## [bboylin/UniversalToast(推荐)](https://github.com/bboylin/UniversalToast)
-
-## [GrenderG/Toasty](https://github.com/GrenderG/Toasty)
-
-***
-
-## 12、几行代码快速集成二维码扫描功能
-
-## [zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary)
-
-
-
-## 20、加载动画view  （AV与NV效果一样）
-
-## [Android-SpinKit](https://github.com/ybq/Android-SpinKit)
-
-## [android——AVLoadingIndicatorView（推荐）](https://github.com/81813780/AVLoadingIndicatorView)
-
-## [ios——NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
-
-***
-
-## 21、仿ios移动按钮
-
-## [SwitchButton](https://github.com/kyleduo/SwitchButton)
-
-## [ToggleButton](https://github.com/zcweng/ToggleButton)
-
-## [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon)
-
-***
-
-## 22、一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
-
-## [MaterialBadgeTextView（推荐）](https://github.com/matrixxun/MaterialBadgeTextView)
-
-## [BadgeView](https://github.com/qstumn/BadgeView)
-
+* [transitioner](https://github.com/dev-labs-bg/transitioner) - 动态、简单的View场景切换动画
+   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/dev-labs-bg/transitioner/raw/master/preview1.gif" width="50%">
+   </details>
+* [Konfetti](https://github.com/DanielMartinus/Konfetti) - 轻量五彩纸屑粒子系统
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="30%">
+   </details>
+* [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - 完全自定义实现的下雪效果
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/hotellook-demo.gif" width="30%">
+   </details>
+       
+* [shadow](https://github.com/loopeer/shadow) - 可以替代CardView的自定义阴影 view
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_color.gif" width="30%">
+    <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_foreground.gif" width="30%">
+   </details>
+    
 ***
 
 ## 23、最强大的textview
@@ -325,7 +337,6 @@
 ***
 
 ## 24、joda-time  日期的替代使用库
-
 ## [joda-time](https://github.com/JodaOrg/joda-time)
 
 
@@ -352,59 +363,6 @@
 ## 29、丰富的自定义布局（包含圆形、圆角、不规则等）
 
 ## [florent37/ShapeOfView](https://github.com/florent37/ShapeOfView)
-
-#### 动画
-* [transitioner](https://github.com/dev-labs-bg/transitioner) - 动态、简单的View场景切换动画
-   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/dev-labs-bg/transitioner/raw/master/preview1.gif" width="50%">
-   </details>
-
-* [Konfetti](https://github.com/DanielMartinus/Konfetti) - 轻量五彩纸屑粒子系统
-   <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="30%">
-   </details>
-
-
-#### 选择/过滤器
-
-* [Bubble-Picker](https://github.com/igalata/Bubble-Picker) - 简单易用的漂浮球内容选择器
-   <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/igalata/Bubble-Picker/raw/develop/shot.gif" width="50%">
-   </details>
-
-#### 按钮
-
-* [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - Material Design设计风格的触摸步进器
-   <details><summary><code>效果图</code>🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/DanielMartinus/Stepper-Touch/raw/master/media/demo.gif" width="30%">
-   </details>
-
-#### 特殊效果
-
-* [shadow](https://github.com/loopeer/shadow) - 可以替代CardView的自定义阴影 view
-   <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_color.gif" width="30%">
-    <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_foreground.gif" width="30%">
-   </details>
-
-* [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - 完全自定义实现的下雪效果
-   <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/hotellook-demo.gif" width="30%">
-   </details>
-
-
-
-
-
-
-
-
 
 
 ***
