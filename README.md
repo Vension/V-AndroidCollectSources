@@ -185,8 +185,8 @@
 * [gongwen/SwipeBackLayout（推荐）](https://github.com/gongwen/SwipeBackLayout)
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
-    <img alt="image" src="https://github.com/gongwen/SwipeBackLayout/blob/master/screenshot/screenshot1.gif" width="50%">
-    <img alt="image" src="https://github.com/gongwen/SwipeBackLayout/blob/master/screenshot/screenshot2.gif" width="50%">
+    <img alt="image" src="https://github.com/gongwen/SwipeBackLayout/blob/master/screenshot/screenshot1.gif" width="30%">
+    <img alt="image" src="https://github.com/gongwen/SwipeBackLayout/blob/master/screenshot/screenshot2.gif" width="30%">
    </details>
     
 * [Android_Slide_To_Close（推荐）](https://github.com/yuanhoujun/Android_Slide_To_Close)
