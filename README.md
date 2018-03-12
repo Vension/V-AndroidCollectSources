@@ -311,6 +311,14 @@
           <img alt="image" src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_03.png?raw=true" width="100%">
            <img alt="image" src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_05.png" width="100%">
     </details>
+* [czy1121/update](https://github.com/czy1121/update) - 清晰灵活简单易用的应用更新库
+   <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/czy1121/update/blob/master/screenshot1.png" width="40%">
+          <img alt="image" src="https://github.com/czy1121/update/blob/master/screenshot2.png" width="40%">
+          <img alt="image" src="https://github.com/czy1121/update/blob/master/screenshot3.png" width="40%">
+          <img alt="image" src="https://github.com/czy1121/update/blob/master/screenshot4.png" width="40%">
+    </details>
 * [maning0303/MNUpdateAPK](https://github.com/maning0303/MNUpdateAPK) - Android APK 版本更新的下载和安装,适配7.0，8.0下载安装
     <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
