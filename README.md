@@ -306,9 +306,10 @@
 * [WVector/AppUpdate（推荐）](https://github.com/WVector/AppUpdate) - Android 版本更新
     <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
-          <img alt="image" src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_01.png?raw=true" width="30%">
-          <img alt="image" src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_02.png?raw=true" width="30%">
-          <img alt="image" src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_03.png?raw=true" width="30%">
+          <img alt="image" src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_01.png?raw=true" width="100%">
+          <img alt="image" src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_02.png?raw=true" width="100%">
+          <img alt="image" src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_03.png?raw=true" width="100%">
+           <img alt="image" src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_05.png" width="100%">
     </details>
     
 ## Toast相关
