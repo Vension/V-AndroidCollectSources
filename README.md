@@ -280,6 +280,11 @@
     <img alt="image" src="https://github.com/amlcurran/ShowcaseView/blob/master/example2@2x.png" width="30%">
     <img alt="image" src="https://github.com/amlcurran/ShowcaseView/blob/master/example@2x.png" width="30%">
    </details>
+* [florent37/TutoShowcase](https://github.com/florent37/TutoShowcase) - A simple and Elegant Showcase view for Android
+    <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+        <img alt="image" src="https://github.com/florent37/TutoShowcase/blob/master/media/sample.png" width="50%">
+    </details>
     
 ## Toast相关
 [back to top](#readme) 
