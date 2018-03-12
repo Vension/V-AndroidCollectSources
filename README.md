@@ -32,6 +32,7 @@
 * [Popwindow相关](#popwindow相关)
 * [选择器Piker](#选择器piker)
 * [新手引导效果](#新手引导效果)
+* [版本更新工具](#版本更新工具)
 * [Toast相关](#toast相关)
 * [流式布局](#流式布局)
 * [富文本相关](#富文本相关)
@@ -299,7 +300,17 @@
           <img alt="image" src="https://github.com/binIoter/GuideView/blob/master/app/src/main/assets/img2.png" width="30%">
           <img alt="image" src="https://github.com/binIoter/GuideView/blob/master/app/src/main/assets/img3.png" width="30%">
     </details>
-        
+      
+## 版本更新工具
+[back to top](#readme)
+* [WVector/AppUpdate（推荐）](https://github.com/WVector/AppUpdate) - Android 版本更新
+    <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_01.png?raw=true" width="30%">
+          <img alt="image" src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_02.png?raw=true" width="30%">
+          <img alt="image" src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_03.png?raw=true" width="30%">
+    </details>
+    
 ## Toast相关
 [back to top](#readme) 
 * [bboylin/UniversalToast(推荐)](https://github.com/bboylin/UniversalToast)
