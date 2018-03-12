@@ -221,6 +221,12 @@
 * [donkingliang / ImageSelector](https://github.com/donkingliang/ImageSelector)
 * [LQRImagePicker](https://github.com/GitLqr/LQRImagePicker)
 * [FinalTeam/RxGalleryFinal](https://github.com/FinalTeam/RxGalleryFinal)
+* [Yalantis/uCrop](https://github.com/Yalantis/uCrop) - （图片裁剪）Image Cropping Library for Android
+ <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/Yalantis/uCrop/blob/master/preview.gif" width="50%">
+   </details>
+
 
 ## 拍照录像相关
 [back to top](#readme) 
