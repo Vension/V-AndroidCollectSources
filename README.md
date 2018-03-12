@@ -274,7 +274,7 @@
 
 ## 新手引导效果
 [back to top](#readme) 
-* [huburt-Hu/NewbieGuide](https://github.com/huburt-Hu/NewbieGuide) - Android 快速实现新手引导层的库，通过简洁链式调用，一行代码实现引导层的显示
+* [huburt-Hu/NewbieGuide(推荐)](https://github.com/huburt-Hu/NewbieGuide) - Android 快速实现新手引导层的库，通过简洁链式调用，一行代码实现引导层的显示
    <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
         <img alt="image" src="https://raw.githubusercontent.com/huburt-Hu/NewbieGuide/master/screenshoot/device-2017-08-09-161703.png" width="30%">
@@ -292,7 +292,14 @@
       <div style="display:flex;">
         <img alt="image" src="https://github.com/florent37/TutoShowcase/blob/master/media/sample.png" width="50%">
     </details>
-    
+* [binIoter/GuideView](https://github.com/binIoter/GuideView) - 最最轻量级的新手引导库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导提示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment
+    <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+        <img alt="image" src="https://github.com/binIoter/GuideView/blob/master/app/src/main/assets/img1.png" width="30%">
+          <img alt="image" src="https://github.com/binIoter/GuideView/blob/master/app/src/main/assets/img2.png" width="30%">
+          <img alt="image" src="https://github.com/binIoter/GuideView/blob/master/app/src/main/assets/img3.png" width="30%">
+    </details>
+        
 ## Toast相关
 [back to top](#readme) 
 * [bboylin/UniversalToast(推荐)](https://github.com/bboylin/UniversalToast)
