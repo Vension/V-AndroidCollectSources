@@ -314,10 +314,16 @@
 * [maning0303/MNUpdateAPK](https://github.com/maning0303/MNUpdateAPK) - Android APK 版本更新的下载和安装,适配7.0，8.0下载安装
     <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
-          <img alt="image" src="https://github.com/maning0303/MNUpdateAPK/raw/master/screenshots/002.png" width="50%">
-          <img alt="image" src="https://raw.githubusercontent.com/maning0303/MNUpdateAPK/master/screenshots/001.gif" width="50%">
+          <img alt="image" src="https://github.com/maning0303/MNUpdateAPK/raw/master/screenshots/002.png" width="40%">
+          <img alt="image" src="https://raw.githubusercontent.com/maning0303/MNUpdateAPK/master/screenshots/001.gif" width="40%">
     </details>
-        
+* [AlexLiuSheng/CheckVersionLib](https://github.com/AlexLiuSheng/CheckVersionLib) - 版本检测升级（更新）库。
+     <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/AlexLiuSheng/CheckVersionLib/blob/master/gif/v2.png" width="40%">
+          <img alt="image" src="https://github.com/AlexLiuSheng/CheckVersionLib/blob/master/gif/V2.gif" width="40%">
+    </details>
+         
 ## Toast相关
 [back to top](#readme) 
 * [bboylin/UniversalToast(推荐)](https://github.com/bboylin/UniversalToast)
