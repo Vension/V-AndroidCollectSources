@@ -31,6 +31,7 @@
 * [Dialog弹窗相关](#dialog弹窗相关)
 * [Popwindow相关](#popwindow相关)
 * [选择器Piker](#选择器piker)
+* [新手引导效果](#新手引导效果)
 * [Toast相关](#toast相关)
 * [流式布局](#流式布局)
 * [富文本相关](#富文本相关)
@@ -261,6 +262,15 @@
     <img alt="image" src="https://github.com/igalata/Bubble-Picker/raw/develop/shot.gif" width="50%">
    </details>
 
+## 新手引导效果
+[back to top](#readme) 
+* [amlcurran/ShowcaseView](https://github.com/amlcurran/ShowcaseView)
+ <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/amlcurran/ShowcaseView/blob/master/example2@2x.png" width="30%">
+    <img alt="image" src="https://github.com/amlcurran/ShowcaseView/blob/master/example@2x.png" width="30%">
+   </details>
+    
 ## Toast相关
 [back to top](#readme) 
 * [bboylin/UniversalToast(推荐)](https://github.com/bboylin/UniversalToast)
