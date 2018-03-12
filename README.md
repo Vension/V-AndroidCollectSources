@@ -226,7 +226,11 @@
     <div style="display:flex;">
     <img alt="image" src="https://github.com/Yalantis/uCrop/blob/master/preview.gif" width="50%">
    </details>
-
+ * [steelkiwi/cropiwa](https://github.com/steelkiwi/cropiwa) - （图片裁剪）Configurable Custom Crop widget for Android
+    <details><summary><code>效果图</code>🔥🔥🔥</summary>
+      <div style="display:flex;">
+      <img alt="image" src="https://github.com/steelkiwi/cropiwa/blob/master/assets/3J8gYWC.gif" width="50%">
+    </details>
 
 ## 拍照录像相关
 [back to top](#readme) 
