@@ -275,7 +275,7 @@
 ## 新手引导效果
 [back to top](#readme) 
 * [amlcurran/ShowcaseView](https://github.com/amlcurran/ShowcaseView)
- <details><summary><code>效果图</code>🔥🔥🔥</summary>
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
     <img alt="image" src="https://github.com/amlcurran/ShowcaseView/blob/master/example2@2x.png" width="30%">
     <img alt="image" src="https://github.com/amlcurran/ShowcaseView/blob/master/example@2x.png" width="30%">
