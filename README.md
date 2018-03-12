@@ -274,6 +274,13 @@
 
 ## 新手引导效果
 [back to top](#readme) 
+* [huburt-Hu/NewbieGuide](https://github.com/huburt-Hu/NewbieGuide) - Android 快速实现新手引导层的库，通过简洁链式调用，一行代码实现引导层的显示
+   <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+        <img alt="image" src="https://raw.githubusercontent.com/huburt-Hu/NewbieGuide/master/screenshoot/device-2017-08-09-161703.png" width="30%">
+          <img alt="image" src="https://raw.githubusercontent.com/huburt-Hu/NewbieGuide/master/screenshoot/change_size.png" width="30%">
+          <img alt="image" src="https://raw.githubusercontent.com/huburt-Hu/NewbieGuide/master/screenshoot/device-2017-11-03-151550.png" width="30%">
+    </details>
 * [amlcurran/ShowcaseView](https://github.com/amlcurran/ShowcaseView)
    <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
