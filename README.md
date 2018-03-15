@@ -184,6 +184,7 @@
 
 ## Android侧滑返回
 [back to top](#readme) 
+* [chaychan/SlideCloseLib（极简）](https://github.com/chaychan/SlideCloseLib) - 一个类实现侧滑返回效果
 * [gongwen/SwipeBackLayout（推荐）](https://github.com/gongwen/SwipeBackLayout)
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
