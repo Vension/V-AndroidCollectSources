@@ -335,6 +335,13 @@
          
 ## Toast相关
 [back to top](#readme) 
+* [yadav-rahul/TastyToast(推荐)](https://github.com/yadav-rahul/TastyToast) - Make your native android Toasts Tasty
+   <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/yadav-rahul/TastyToast/blob/lib/static/success.gif" width="30%">
+          <img alt="image" src="https://github.com/yadav-rahul/TastyToast/blob/lib/static/warning.gif" width="30%">
+          <img alt="image" src="https://github.com/yadav-rahul/TastyToast/blob/lib/static/error.gif" width="30%">
+    </details>
 * [bboylin/UniversalToast(推荐)](https://github.com/bboylin/UniversalToast)
 * [GrenderG/Toasty](https://github.com/GrenderG/Toasty)
 
