@@ -164,6 +164,14 @@
 [back to top](#readme) 
 * [CymChad/BaseRecyclerViewAdapterHelper（推荐）](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 * [MEiDIK/SlimAdapter](https://github.com/MEiDIK/SlimAdapter)
+* [drakeet/MultiType](https://github.com/drakeet/MultiType)
+  <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/drakeet/MultiType/blob/3.x/art/screenshot-normal.png" width="30%">
+    <img alt="image" src="https://github.com/drakeet/MultiType/blob/3.x/art/screenshot-bilibili.png" width="30%">
+    <img alt="image" src="https://github.com/drakeet/MultiType/blob/3.x/art/screenshot-multigrid.png" width="30%">
+   </details>
+
 * [LastAdapter](https://github.com/nitrico/LastAdapter) - 不需再写RecyclerView 的 adapter 和 ViewHolder 🔥🔥🔥
 
 ## 轮播图Banner
