@@ -46,7 +46,14 @@
 
 ## 优秀完整项目
 [back to top](#readme) 
-
+* [iMeiji/Toutiao](https://github.com/iMeiji/Toutiao) - 一款第三方今日头条客户端, MVP + RxJava + Retrofit
+  <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+      <img alt="image" src="https://github.com/iMeiji/Toutiao/blob/master/art/1-1.png" width="100%">
+      <img alt="image" src="https://github.com/iMeiji/Toutiao/blob/master/art/1-2.png" width="100%">
+      <img alt="image" src="https://github.com/iMeiji/Toutiao/blob/master/art/preview.gif" width="100%">
+     </div>
+   </details>
 * [KotlinMvp（推荐）](https://github.com/git-xuhao/KotlinMvp) -  基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP
     <details><summary><code>效果图</code></summary>
       <div style="display:flex;">
