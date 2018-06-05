@@ -51,6 +51,17 @@
 
 ## 优秀完整项目
 [back to top](#readme) 
+
+* [miaoMiaoDaShi/YangYanNew(养眼)](https://github.com/miaoMiaoDaShi/YangYanNew) - 新养眼,只为看图.项目基于框架 MVPArms
+  全程使用kotlin编写.
+  <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_splash.jpg" width="100%">
+      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_login.jpg" width="100%">
+      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_category.jpg" width="100%">
+     </div>
+   </details>
+   
 * [iMeiji/Toutiao](https://github.com/iMeiji/Toutiao) - 一款第三方今日头条客户端, MVP + RxJava + Retrofit
   <details><summary><code>效果图</code></summary>
      <div style="display:flex;">
@@ -141,7 +152,8 @@
    
 ## 开发框架
 [back to top](#readme) 
-
+* [JessYanCoding/MVPArms](https://github.com/JessYanCoding/MVPArms) - 一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
+   
 * [wequick/Small](https://github.com/wequick/Small) - 做最轻巧的跨平台插件化框架
   <details><summary><code>效果图</code>🔥</summary>
     <div style="display:flex;">
