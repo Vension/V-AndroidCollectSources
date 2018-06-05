@@ -52,13 +52,12 @@
 ## 优秀完整项目
 [back to top](#readme) 
 
-* [miaoMiaoDaShi/YangYanNew(养眼)](https://github.com/miaoMiaoDaShi/YangYanNew) - 新养眼,只为看图.项目基于框架 MVPArms
-  全程使用kotlin编写.
+* [miaoMiaoDaShi/YangYanNew(养眼)](https://github.com/miaoMiaoDaShi/YangYanNew) - 新养眼,项目基于框架MVPArms,全程使用kotlin编写.
   <details><summary><code>效果图</code></summary>
      <div style="display:flex;">
-      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_splash.jpg" width="100%">
-      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_login.jpg" width="100%">
-      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_category.jpg" width="100%">
+      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_splash.jpg" width="30%">
+      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_login.jpg" width="30%">
+      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_category.jpg" width="30%">
      </div>
    </details>
    
