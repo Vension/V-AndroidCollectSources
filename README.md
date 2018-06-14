@@ -1,12 +1,12 @@
-# KV-Android-CollectSources
+# V-Android-CollectSources
 
-[![Language](https://img.shields.io/badge/KVAndroid-CollectSources-green.svg)](https://github.com/Vension/KV-Android-CollectSources)
-[![PRS](https://img.shields.io/badge/PRS-welcome-yellow.svg)](https://github.com/Vension/KV-Android-CollectSourcespulls)
+[![Language](https://img.shields.io/badge/KVAndroid-CollectSources-green.svg)](https://github.com/Vension/V-Android-CollectSources)
+[![PRS](https://img.shields.io/badge/PRS-welcome-yellow.svg)](https://github.com/Vension/V-Android-CollectSourcespulls)
 [![LICENSE](https://img.shields.io/badge/licenses-apache-green.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## 关于
 
-本项目是一个专注于收集Github上用于Android 开发的开源库、扩展、工具、优秀开源项目、资料等高质量资源的集合进行整理https://github.com/Vension/KV-Android-CollectSources
+本项目是一个专注于收集Github上用于Android 开发的开源库、扩展、工具、优秀开源项目、资料等高质量资源的集合进行整理https://github.com/Vension/V-Android-CollectSources
 
 ## Thanks
 
@@ -179,7 +179,14 @@
 
 ## 底部导航栏
 [back to top](#readme)
-
+* [ittianyu/BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx) - 一个增强BottomNavigationView的安卓库
+ <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/no_animation.gif" width="30%">
+    <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/center_fab.jpg" width="30%">
+      <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/view_badger.gif" width="30%">
+   </details>
+  
 ## 刷新控件
 [back to top](#readme)
 * [scwang90/SmartRefreshLayout（推荐）](https://github.com/scwang90/SmartRefreshLayout)
@@ -189,6 +196,12 @@
 ## RecyclerView通用适配器
 [back to top](#readme) 
 * [CymChad/BaseRecyclerViewAdapterHelper（推荐）](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+* [crazysunj/MultiTypeRecyclerViewAdapter](https://github.com/crazysunj/MultiTypeRecyclerViewAdapter)
+<details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/crazysunj/crazysunj.github.io/blob/master/img/adapterHelper10.gif" width="50%">
+ </details>
+  
 * [MEiDIK/SlimAdapter](https://github.com/MEiDIK/SlimAdapter)
 * [drakeet/MultiType](https://github.com/drakeet/MultiType)
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
@@ -452,8 +465,13 @@
 
 ## [lygttpod/SuperTextView](https://github.com/lygttpod/SuperTextView)
 
-## [SuperTextView](https://github.com/chenBingX/SuperTextView)
-
+## [chenBingX/SuperTextView（推荐）](https://github.com/chenBingX/SuperTextView)
+ <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://camo.githubusercontent.com/7c9efe479c88360e69a53a159fd2921ec4b3af4e/68747470733a2f2f67772e616c6963646e2e636f6d2f7466732f5442314a4550537248395942754e6a7930466758586378635858612d313139352d3632322e676966">
+   </details>
+  
+## [hanks-zyh/HTextView](https://github.com/hanks-zyh/HTextView) - Animation effects to text, not really textview
 ***
 
 ## 24、joda-time  日期的替代使用库
