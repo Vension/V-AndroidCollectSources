@@ -507,7 +507,7 @@
 
 ## 小程序ui库
 [back to top](#readme) 
-* [meili/minui（推荐）](https://github.com/meili/minui) - 唯品会
+* [meili/minui（推荐）](https://github.com/meili/minui) - 蘑菇街
 * [youzan/zanui-weapp](https://github.com/youzan/zanui-weapp) - 有赞
 * [Tencent/weui](https://github.com/Tencent/weui) - WeChat
 
