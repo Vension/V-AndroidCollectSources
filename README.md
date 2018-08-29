@@ -155,7 +155,7 @@
 ````
 -[组件化]
 * [JessYanCoding/ArmsComponent（推荐）](https://github.com/JessYanCoding/ArmsComponent) - 基于MVPArms的组件化框架
-* [luckybilly/CC](https://github.com/TenzLiu/TenzModuleDemo) - 业界首个支持渐进式组件化改造的Android组件化开源框架。Componentize your android project gradually. https://juejin.im/post/5b255f6ce51d45…
+* [luckybilly/CC](https://github.com/luckybilly/CC) - 业界首个支持渐进式组件化改造的Android组件化开源框架。Componentize your android project gradually. https://juejin.im/post/5b255f6ce51d45…
 * [renxuelong/ComponentDemo](https://github.com/renxuelong/ComponentDemo) - Android 组件化架构 Demo
 * [TenzLiu/TenzModuleDemo](https://github.com/TenzLiu/TenzModuleDemo) - Android 组件化架构 Demo
 ````
