@@ -152,21 +152,18 @@
 ## 开发框架
 [back to top](#readme) 
 
-````
 -[组件化]
 * [JessYanCoding/ArmsComponent（推荐）](https://github.com/JessYanCoding/ArmsComponent) - 基于MVPArms的组件化框架
 * [luckybilly/CC](https://github.com/luckybilly/CC) - 业界首个支持渐进式组件化改造的Android组件化开源框架。Componentize your android project gradually. https://juejin.im/post/5b255f6ce51d45…
 * [renxuelong/ComponentDemo](https://github.com/renxuelong/ComponentDemo) - Android 组件化架构 Demo
 * [TenzLiu/TenzModuleDemo](https://github.com/TenzLiu/TenzModuleDemo) - Android 组件化架构 Demo
-````
 
-````
+
 -[MVP]
 * [JessYanCoding/MVPArms](https://github.com/JessYanCoding/MVPArms) - 一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
 * [lizixian18/EasyMvp](https://github.com/lizixian18/EasyMvp) -一个简单强大且灵活的MVP框架。 https://juejin.im/post/5b5a877c518825…
 * [wangyuan0217/DemoMvp](https://github.com/wangyuan0217/DemoMvp) - MVP+RxJava2+Retrofit+Dagger2+Realm...
 * [zhhr1122/z_comic_new](https://github.com/zhhr1122/z_comic_new) - 一款采用MVP模式的设计的仿造腾讯漫画的APP
-````
 
 * [wequick/Small](https://github.com/wequick/Small) - 做最轻巧的跨平台插件化框架
   <details><summary><code>效果图</code>🔥</summary>
