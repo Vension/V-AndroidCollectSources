@@ -157,6 +157,7 @@
 * [luckybilly/CC](https://github.com/luckybilly/CC) - 业界首个支持渐进式组件化改造的Android组件化开源框架。Componentize your android project gradually. https://juejin.im/post/5b255f6ce51d45…
 * [renxuelong/ComponentDemo](https://github.com/renxuelong/ComponentDemo) - Android 组件化架构 Demo
 * [TenzLiu/TenzModuleDemo](https://github.com/TenzLiu/TenzModuleDemo) - Android 组件化架构 Demo
+* [mqzhangw/JIMU](https://github.com/mqzhangw/JIMU) - 一种简单有效的android组件化方案，支持组件的代码资源隔离、单独调试、集成调试、组件交互、UI跳转、生命周期等完整功能。
 * [Componentized-_Framework](https://github.com/liuzeze/Componentized-_Framework) - 组件化框架，使用Arouter 路由跳转 retrofit +okhhp方式进行网络请求
 * [KotlinAndroid](https://github.com/guofudong/KotlinAndroid) - 组件化 + MVP + Retrofit + RxKotlin + Dagger2实现的一款用Kotlin语言编写的多媒体类应用。
 * [NewFastFrame](https://github.com/HelloChenJinJun/NewFastFrame) - 终极组件化框架项目方案
