@@ -80,10 +80,10 @@
 点击 ► 展示效果图
 ```
 
+****
 ### 开发框架
-------
 [back to top](#readme) 
-### 组件化
+#### 组件化
  * [JessYanCoding/ArmsComponent（推荐）](https://github.com/JessYanCoding/ArmsComponent) - 基于MVPArms的组件化框架
  * [luckybilly/CC](https://github.com/luckybilly/CC) - 业界首个支持渐进式组件化改造的Android组件化开源框架。Componentize your android project gradually. https://juejin.im/post/5b255f6ce51d45…
 * [KotlinAndroid](https://github.com/guofudong/KotlinAndroid) - 组件化 + MVP + Retrofit + RxKotlin + Dagger2实现的一款用Kotlin语言编写的多媒体类应用。
@@ -93,7 +93,7 @@
 * [mqzhangw/JIMU](https://github.com/mqzhangw/JIMU) - 一种简单有效的android组件化方案，支持组件的代码资源隔离、单独调试、集成调试、组件交互、UI跳转、生命周期等完整功能。
 * [NewFastFrame](https://github.com/HelloChenJinJun/NewFastFrame) - 终极组件化框架项目方案
 
-### MVP
+#### MVP
 * [JessYanCoding/MVPArms](https://github.com/JessYanCoding/MVPArms) - 一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
 * [lizixian18/EasyMvp](https://github.com/lizixian18/EasyMvp) -一个简单强大且灵活的MVP框架。 https://juejin.im/post/5b5a877c518825…
 * [wangyuan0217/DemoMvp](https://github.com/wangyuan0217/DemoMvp) - MVP+RxJava2+Retrofit+Dagger2+Realm...
@@ -101,7 +101,7 @@
 * [YeLearns](https://github.com/yeyueduxing/YeLearns) - 夜月资讯：一款符合Google Material Design的Android客户端。项目使用MVPArms作为底层框架，然后自己扩展了一个UI框架YeLibrary，实现了各种常用的列表页，Tab页等等，便于快速开发应用。现主要包括：玩安卓，DIYcode，干货，微信资讯，游明星空，影视，壁纸等多个模块
 * [MVPHabit](https://github.com/zhanghacker/MVPHabit) - 一套适合敏捷开发，基于MVP模式开发框架，整合Rxjava+Retrofit+Dagger+Butterknife等主流模块，加入中一些比较常用的工具类，进行一些抽取和整理，让你更专注于业务自身的逻辑。
 
-***
+****
 
 * [wequick/Small](https://github.com/wequick/Small) - 做最轻巧的跨平台插件化框架
   <details><summary><code>效果图</code>🔥</summary>
