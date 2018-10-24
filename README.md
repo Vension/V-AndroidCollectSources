@@ -13,10 +13,10 @@
   </a>
 </p>
 
-****
+************************************
 ### Author:Vension
 ### E-mail:2506856664@qq.com
-****
+************************************
 
 ## 关于
 本项目是一个专注于收集Github上用于Android 开发的开源库、扩展、工具、优秀开源项目、资料等高质量资源的集合进行整理https://github.com/Vension/V-AndroidCollectSources
@@ -52,39 +52,56 @@
 
 * [沉浸式解决库](#沉浸式解决库)
 
-* [Permissions权限处理](#permissions权限处理)
+* [Permissions权限处理](#Permissions权限处理)
 
-* [Android侧滑返回](#android侧滑返回)
+* [Android侧滑返回](#Android侧滑返回)
 
-* [二维码相关功能](#二维码相关功能)
+* [二维码相关](#二维码相关)
 
 * [音视频相关](#音视频相关)
     * [视频播放器](#视频播放器)
     * [音乐播放器](#音乐播放器)
-    * [组件化](#组件化)
-    * [插件化](#插件化)
 
-* [相册选择器裁剪的library](#相册选择器裁剪的library)
+* [相册选择器裁剪](#相册选择器裁剪)
+
 * [拍照录像相关](#拍照录像相关)
-* [仿TabLayout](#仿tablayout)
-* [Glide辅助工具](#glide辅助工具)
-* [Dialog弹窗相关](#dialog弹窗相关)
-* [Popwindow相关](#popwindow相关)
-* [选择器Piker](#选择器piker)
-* [新手引导效果](#新手引导效果)
-* [版本更新工具](#版本更新工具)
-* [Toast相关](#toast相关)
-* [流式布局](#流式布局)
-* [富文本相关](#富文本相关)
-* [工具相关](#工具相关)
-* [其他自定义控件](#其他自定义控件)
 
-* [小程序ui库](#小程序ui库)
+* [Dialog相关](#Dialog相关)
+
+* [Popwindow相关](#Popwindow相关)
+
+* [选择器Piker](#选择器Piker)
+
+* [新手引导效果](#新手引导效果)
+
+* [版本更新工具](#版本更新工具)
+
+* [Toast相关](#Toast相关)
+
+* [图片压缩相关](#图片压缩相关)
+
+* [Glide辅助工具](#Glide辅助工具)
+
+* [其他自定义控件](#其他自定义控件)
+   * [日历控件](#日历控件)
+   * [加载动画](#加载动画)
+   * [仿TabLayout](#仿TabLayout)
+   * [流式布局](#流式布局)
+   * [富文本相关](#富文本相关)
+   * [微章控件](#微章控件)
+   * [TextView处理](#TextView处理)
+   * [开关按钮效果](#开关按钮效果)
+   * [进度条效果](#进度条效果)
+
+* [工具相关](#工具相关)
+
+* [小程序UI库](#小程序UI库)
+
 ```
 点击 ► 展示效果图
 ```
 
-****
+************************************
 ### 开发框架
 [back to top](#readme) 
 #### MVP
@@ -112,29 +129,18 @@
 * [NewFastFrame](https://github.com/HelloChenJinJun/NewFastFrame) - 终极组件化框架项目方案
 
 #### 插件化
+* [ManbangGroup/Phantom](https://github.com/ManbangGroup/Phantom) - Phantom — 唯一零 Hook 稳定占坑类 Android 热更新插件化方案
 * [wequick/Small](https://github.com/wequick/Small) - 做最轻巧的跨平台插件化框架
   <details><summary><code>效果图</code>🔥</summary>
     <div style="display:flex;">
     <img alt="image" src="https://camo.githubusercontent.com/a729be823f63056f8b0ab4a98dd6a9e9e05f53cc/687474703a2f2f636f64652e7765717569636b2e6e65742f6173736574732f616e696d732f736d616c6c2d757067726164652e676966" width="30%">
     </div>
    </details>
-   
 * [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)
 
-****
-
-### 小程序UI库
-* [meili/minui（推荐）](https://github.com/meili/minui) - 蘑菇街  
-* [youzan/zanui-weapp](https://github.com/youzan/zanui-weapp) - 有赞  
-* [Tencent/weui](https://github.com/Tencent/weui) - WeChat
-
-
-
-
-
-## 优秀完整项目
-[back to top](#readme) 
-
+************************************
+### 优秀完整项目
+[back to top](#readme)
 * [miaoMiaoDaShi/YangYanNew(养眼)](https://github.com/miaoMiaoDaShi/YangYanNew) - 新养眼,项目基于框架MVPArms,全程使用kotlin编写.
   <details><summary><code>效果图</code></summary>
      <div style="display:flex;">
@@ -143,7 +149,6 @@
       <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_category.jpg" width="30%">
      </div>
    </details>
-   
 * [iMeiji/Toutiao](https://github.com/iMeiji/Toutiao) - 一款第三方今日头条客户端, MVP + RxJava + Retrofit
   <details><summary><code>效果图</code></summary>
      <div style="display:flex;">
@@ -158,7 +163,6 @@
       <img alt="image" src="https://github.com/git-xuhao/KotlinMvp/raw/master/screenshot/kotlin-mvp-1.gif" width="30%">
       </div>
     </details>
-
 * [精仿今日头条（推荐）](https://github.com/chaychan/TouTiao) -  精仿今日头条，数据是抓取今日头条App的数据。使用RxJava + Retrofit + MVP开发的开源项目
     <details><summary><code>效果图</code></summary>
        <div style="display:flex;">
@@ -232,37 +236,20 @@
     </div>
    </details>
    
-
-
-## 网络相关
+************************************
+### 网络相关
 [back to top](#readme) 
-* [Fuel](https://github.com/kittinunf/Fuel) - 最简单的 HTTP 网络库 🔥🔥🔥🔥
+* [Fuel](https://github.com/kittinunf/Fuel) - 最简单的 HTTP 网络库
 
-## 数据库相关
-[back to top](#readme) 
-* [requery](https://github.com/requery/requery) - 轻量强大的ORM数据库 🔥🔥🔥🔥🔥
-* [DBFlow](https://github.com/Raizlabs/DBFlow) - 一个健壮, 强大, 非常简单的 ORM android 数据库 🔥🔥🔥🔥🔥
-
-## 通用标题栏
-[back to top](#readme)
-
-## 底部导航栏
-[back to top](#readme)
-* [ittianyu/BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx) - 一个增强BottomNavigationView的安卓库
- <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/no_animation.gif" width="30%">
-    <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/center_fab.jpg" width="30%">
-      <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/view_badger.gif" width="30%">
-   </details>
-  
-## 刷新控件
+************************************
+### 刷新控件
 [back to top](#readme)
 * [scwang90/SmartRefreshLayout（推荐）](https://github.com/scwang90/SmartRefreshLayout)
 * [bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)
 * [maning0303/MNSwipeToLoadDemo](https://github.com/maning0303/MNSwipeToLoadDemo)
 
-## RecyclerView通用适配器
+************************************
+### adapter适配器
 [back to top](#readme) 
 * [CymChad/BaseRecyclerViewAdapterHelper（推荐）](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 * [crazysunj/MultiTypeRecyclerViewAdapter](https://github.com/crazysunj/MultiTypeRecyclerViewAdapter)
@@ -282,24 +269,50 @@
 
 * [LastAdapter](https://github.com/nitrico/LastAdapter) - 不需再写RecyclerView 的 adapter 和 ViewHolder 🔥🔥🔥
 
-## 轮播图Banner
+*************************************
+### 轮播图banner
 [back to top](#readme) 
 * [youth5201314/banner](https://github.com/youth5201314/banner)
 * [bingoogolapple/BGABanner-Android（推荐）](https://github.com/bingoogolapple/BGABanner-Android)
 
-## 沉浸式解决库
+**********************************
+### 通用标题栏
 [back to top](#readme) 
+* [wuhenzhizao/android-titlebar](https://github.com/wuhenzhizao/android-titlebar) - 通用，功能全面的自定义标题栏，支持沉浸式标题栏，颜色渐变，miui9
+
+************************************
+### 底部导航栏
+[back to top](#readme) 
+* [ittianyu/BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx) - 一个增强BottomNavigationView的安卓库
+ <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/no_animation.gif" width="30%">
+    <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/center_fab.jpg" width="30%">
+      <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/view_badger.gif" width="30%">
+   </details>
+
+************************************
+# 数据库相关
+[back to top](#readme) 
+* [requery](https://github.com/requery/requery) - 轻量强大的ORM数据库
+* [DBFlow](https://github.com/Raizlabs/DBFlow) - 一个健壮, 强大, 非常简单的 ORM android 数据库
+
+************************************
+### 沉浸式解决库
+[back to top](#readme)
 * [ImmersionBar](https://github.com/gyf-dev/ImmersionBar)
 * [SystemBar一体化yanzhenjie/Sofia](https://github.com/yanzhenjie/Sofia)
 
-## Permissions权限处理
-[back to top](#readme) 
+************************************
+### Permissions权限处理
+[back to top](#readme)
 * [tbruyelle/RxPermissions（推荐）](https://github.com/tbruyelle/RxPermissions)
 * [AndPermission](https://github.com/yanzhenjie/AndPermission)
-* [Kovenant](https://github.com/mplatvoet/kovenant) - Kotlin 的 Promises 库 🔥🔥
+* [Kovenant](https://github.com/mplatvoet/kovenant) - Kotlin 的 Promises 库
 
-## Android侧滑返回
-[back to top](#readme) 
+************************************
+### Android侧滑返回
+[back to top](#readme)
 * [chaychan/SlideCloseLib（极简）](https://github.com/chaychan/SlideCloseLib) - 一个类实现侧滑返回效果
 * [gongwen/SwipeBackLayout（推荐）](https://github.com/gongwen/SwipeBackLayout)
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
@@ -313,23 +326,26 @@
 * [SwipeBack](https://github.com/liuguangqiang/SwipeBack)
 * [SwipeBackHelper](https://github.com/Jude95/SwipeBackHelper)
 
-## 二维码相关功能
+************************************
+### 二维码相关
 [back to top](#readme)
 * [zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary) - 几行代码快速集成二维码扫描功能
 
-## 视频播放器
-[back to top](#readme) 
+************************************
+### 音视频相关
+[back to top](#readme)
+#### 视频播放器
 * [Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
 * [基于IJKPlayer,CarGuo/GSYVideoPlayer（推荐）](https://github.com/CarGuo/GSYVideoPlayer)
 * [基于IjkPlayer,原节操播放器JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
 * [基于IjkPlayer,Haxine/SuperPlayer](https://github.com/Haxine/SuperPlayer)
 
-## 音乐播放器
-[back to top](#readme) 
+#### 音频播放器
 * [乐乐音乐5.0](https://github.com/zhangliangming/HappyPlayer5)
 * [波尼音乐](https://github.com/wangchenyan/PonyMusic)
 
-## 相册选择器+裁剪的library
+************************************
+### 相册选择器裁剪
 [back to top](#readme) 
 * [zhihu/Matisse（推荐）](https://github.com/zhihu/Matisse)
 * [Bilibili/boxing](https://github.com/Bilibili/boxing)
@@ -350,36 +366,27 @@
       <img alt="image" src="https://github.com/steelkiwi/cropiwa/blob/master/assets/3J8gYWC.gif" width="50%">
     </details>
 
-## 拍照录像相关
-[back to top](#readme) 
+************************************
+### 拍照录像相关
 * [仿微信拍照Android控件（轻触拍照，长按摄像）CameraView](https://github.com/CJT2325/CameraView)
 * [Werb/MediaUtils](https://github.com/Werb/MediaUtils)
 
-## 仿TabLayout
-[back to top](#readme) 
-* [FlycoTabLayout（推荐）](https://github.com/H07000223/FlycoTabLayout)
-* [垂直纵向的TabLayout,qstumn/VerticalTabLayout](https://github.com/qstumn/VerticalTabLayout)
-* [armcha/Space-Navigation-View](https://github.com/armcha/Space-Navigation-View)
-
-## Glide辅助工具
-[back to top](#readme) 
-* [glide-transformations](https://github.com/wasabeef/glide-transformations) - 为Glide提供图像转换的Android类库
-* [GlidePalette](https://github.com/florent37/GlidePalette) - 一个可以在Glide加载时很方便使用Palette的库。
-
-## Dialog弹窗相关
-[back to top](#readme)
+************************************
+### Dialog相关
 * [mylhyl/Android-CircleDialog(推荐)](https://github.com/mylhyl/Android-CircleDialog)
 * [仿ios选择器 Android-AlertView](https://github.com/saiwu-bigkoo/Android-AlertView)
 * [pedant/sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)
 
-## Popwindow相关
+************************************
+### Popwindow相关
 [back to top](#readme)
 * [条件筛选菜单](https://github.com/dongjunkun/DropDownMenu)
 * [zawadz88/MaterialPopupMenu](https://github.com/zawadz88/MaterialPopupMenu)
 * [CustomPopwindow](https://github.com/pinguo-zhouwei/CustomPopwindow)
 * [razerdp/BasePopup](https://github.com/razerdp/BasePopup)
 
-## 选择器Piker 
+************************************
+### 选择器Piker
 [back to top](#readme) 
 * [Bigkoo/Android-PickerView(推荐)](https://github.com/Bigkoo/Android-PickerView)
 * [选择器gzu-liyujiang/AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker)
@@ -390,7 +397,8 @@
     <img alt="image" src="https://github.com/igalata/Bubble-Picker/raw/develop/shot.gif" width="50%">
    </details>
 
-## 新手引导效果
+************************************
+### 新手引导效果
 [back to top](#readme) 
 * [huburt-Hu/NewbieGuide(推荐)](https://github.com/huburt-Hu/NewbieGuide) - Android 快速实现新手引导层的库，通过简洁链式调用，一行代码实现引导层的显示
    <details><summary><code>效果图</code>🔥</summary>
@@ -417,8 +425,9 @@
           <img alt="image" src="https://github.com/binIoter/GuideView/blob/master/app/src/main/assets/img2.png" width="30%">
           <img alt="image" src="https://github.com/binIoter/GuideView/blob/master/app/src/main/assets/img3.png" width="30%">
     </details>
-      
-## 版本更新工具
+
+************************************
+### 版本更新工具
 [back to top](#readme)
 * [WVector/AppUpdate（推荐）](https://github.com/WVector/AppUpdate) - Android 版本更新
     <details><summary><code>效果图</code>🔥</summary>
@@ -448,8 +457,9 @@
           <img alt="image" src="https://github.com/AlexLiuSheng/CheckVersionLib/blob/master/gif/v2.png" width="40%">
           <img alt="image" src="https://github.com/AlexLiuSheng/CheckVersionLib/blob/master/gif/V2.gif" width="40%">
     </details>
-         
-## Toast相关
+
+************************************
+### Toast相关
 [back to top](#readme) 
 * [yadav-rahul/TastyToast(推荐)](https://github.com/yadav-rahul/TastyToast) - Make your native android Toasts Tasty
    <details><summary><code>效果图</code>🔥</summary>
@@ -461,50 +471,81 @@
 * [bboylin/UniversalToast(推荐)](https://github.com/bboylin/UniversalToast)
 * [GrenderG/Toasty](https://github.com/GrenderG/Toasty)
 
-## 流式布局
+************************************
+### 图片压缩相关
 [back to top](#readme) 
+* [Curzibn/Luban（推荐）](https://github.com/Curzibn/Luban)
+* [Sunzxyong/Tiny](https://github.com/Sunzxyong/Tiny)
+* [zetbaitsu/Compressor](https://github.com/zetbaitsu/Compressor)
+
+************************************
+### Glide辅助工具
+[back to top](#readme) 
+* [glide-transformations](https://github.com/wasabeef/glide-transformations) - 为Glide提供图像转换的Android类库
+* [GlidePalette](https://github.com/florent37/GlidePalette) - 一个可以在Glide加载时很方便使用Palette的库。
+
+************************************
+### 其他自定义控件
+[back to top](#readme) 
+#### 日历控件
+* [仿小米，日历NCalendar](https://github.com/yannecer/NCalendar)
+* [maning0303/MNCalendar](https://github.com/maning0303/MNCalendar)
+* [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView)
+* [shichaohui/EasyCalendar](https://github.com/shichaohui/EasyCalendar)
+
+#### 加载动画
+* [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - 加载动画view  （AV与NV效果一样）
+* [android——AVLoadingIndicatorView（推荐）](https://github.com/81813780/AVLoadingIndicatorView) - 加载动画view  （AV与NV效果一样）
+
+#### 仿TabLayout
+* [FlycoTabLayout（推荐）](https://github.com/H07000223/FlycoTabLayout)
+* [垂直纵向的TabLayout,qstumn/VerticalTabLayout](https://github.com/qstumn/VerticalTabLayout)
+* [armcha/Space-Navigation-View](https://github.com/armcha/Space-Navigation-View)
+
+#### 流式布局
 * [AndroidFlexBoxLayout(推荐)](https://github.com/Vension/AndroidFlexBoxLayout) - 使用Google的flexbox实现demo
 * [FlowLayout](https://github.com/hongyangAndroid/FlowLayout)
 * [hanhailong/FlowTag](https://github.com/hanhailong/FlowTag)
 * [2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup)
 
-## 富文本相关
-[back to top](#readme) 
+#### 富文本相关
 * [CarGuo/RickText](https://github.com/CarGuo/RickText)
 * [limedroid/XRichText](https://github.com/limedroid/XRichText)
 
-## 工具相关
-[back to top](#readme) 
-* [kotterknife](https://github.com/JakeWharton/kotterknife) - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥
-* [koin](https://github.com/Ekito/koin) - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥
-* [koin](https://github.com/Ekito/koin) - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥
-* [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) Activity 启动生成器，更简单的方式传递多个参数 🔥🔥
-* [RxDownload](https://github.com/ssseasonnn/RxDownload) - 基于RxJava的多线程下载工具 🔥🔥🔥🔥🔥
-* [vondear/RxTools（推荐）](https://github.com/vondear/RxTools)
-* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
+#### 微章控件
+* [MaterialBadgeTextView（推荐）](https://github.com/matrixxun/MaterialBadgeTextView) - 一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
+* [BadgeView](https://github.com/qstumn/BadgeView) - 一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
 
-## 其他自定义控件
-[back to top](#readme) 
-* [daimajia/NumberProgressBar](https://github.com/daimajia/NumberProgressBar) - ProgressBar相关
+#### TextView处理
+* [lygttpod/SuperTextView](https://github.com/lygttpod/SuperTextView)
+* [chenBingX/SuperTextView（推荐）](https://github.com/chenBingX/SuperTextView)
+ <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://camo.githubusercontent.com/7c9efe479c88360e69a53a159fd2921ec4b3af4e/68747470733a2f2f67772e616c6963646e2e636f6d2f7466732f5442314a4550537248395942754e6a7930466758586378635858612d313139352d3632322e676966">
+   </details>
+* [hanks-zyh/HTextView](https://github.com/hanks-zyh/HTextView) - Animation effects to text, not really textview
 
-* [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - 加载动画view  （AV与NV效果一样）
-* [android——AVLoadingIndicatorView（推荐）](https://github.com/81813780/AVLoadingIndicatorView) - 加载动画view  （AV与NV效果一样）
-* [ios——NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
-
+#### 开关按钮效果
 * [SwitchButton](https://github.com/kyleduo/SwitchButton) - 仿ios移动按钮
 * [ToggleButton](https://github.com/zcweng/ToggleButton) - 仿ios移动按钮
-* [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) - 仿ios移动按钮
+* [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) - 仿ios移动按
+
+#### 进度条效果
+* [daimajia/NumberProgressBar](https://github.com/daimajia/NumberProgressBar) - ProgressBar相关
+
+#### 丰富的自定义布局（包含圆形、圆角、不规则等）
+* [florent37/ShapeOfView](https://github.com/florent37/ShapeOfView)
+
+* [ios——NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
+
+钮
 * [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - Material Design设计风格的触摸步进器
    <details><summary><code>效果图</code>🔥🔥</summary>
     <div style="display:flex;">
     <img alt="image" src="https://github.com/DanielMartinus/Stepper-Touch/raw/master/media/demo.gif" width="30%">
    </details>
  
- ## 22、
-
-* [MaterialBadgeTextView（推荐）](https://github.com/matrixxun/MaterialBadgeTextView) - 一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
-* [BadgeView](https://github.com/qstumn/BadgeView) - 一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
-
+ #### 其他自定义效果
 * [transitioner](https://github.com/dev-labs-bg/transitioner) - 动态、简单的View场景切换动画
    <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -527,52 +568,28 @@
     <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_color.gif" width="30%">
     <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_foreground.gif" width="30%">
    </details>
+   
+*************************************
+### 工具相关
+[back to top](#readme) 
+* [kotterknife](https://github.com/JakeWharton/kotterknife) - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥
+* [koin](https://github.com/Ekito/koin) - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥
+* [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) Activity 启动生成器，更简单的方式传递多个参数 🔥🔥
+* [RxDownload](https://github.com/ssseasonnn/RxDownload) - 基于RxJava的多线程下载工具 🔥🔥🔥🔥🔥
+* [vondear/RxTools（推荐）](https://github.com/vondear/RxTools)
+* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
+* [joda-time](https://github.com/JodaOrg/joda-time) - joda-time  日期的替代使用库
+
+************************************
+### 小程序UI库
+[back to top](#readme) 
+* [meili/minui（推荐）](https://github.com/meili/minui) - 蘑菇街  
+* [youzan/zanui-weapp](https://github.com/youzan/zanui-weapp) - 有赞  
+* [Tencent/weui](https://github.com/Tencent/weui) - WeChat
+
+*************************************
     
-***
-
-## 23、最强大的textview
-
-## [lygttpod/SuperTextView](https://github.com/lygttpod/SuperTextView)
-
-## [chenBingX/SuperTextView（推荐）](https://github.com/chenBingX/SuperTextView)
- <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://camo.githubusercontent.com/7c9efe479c88360e69a53a159fd2921ec4b3af4e/68747470733a2f2f67772e616c6963646e2e636f6d2f7466732f5442314a4550537248395942754e6a7930466758586378635858612d313139352d3632322e676966">
-   </details>
-  
-## [hanks-zyh/HTextView](https://github.com/hanks-zyh/HTextView) - Animation effects to text, not really textview
-***
-
-## 24、joda-time  日期的替代使用库
-## [joda-time](https://github.com/JodaOrg/joda-time)
-
-
-## 27、图片压缩相关内容
-
-## [Curzibn/Luban（推荐）](https://github.com/Curzibn/Luban)
-
-## [Sunzxyong/Tiny](https://github.com/Sunzxyong/Tiny)
-
-## [zetbaitsu/Compressor](https://github.com/zetbaitsu/Compressor)
-
-***
-
-## 28、日历控件
-
-## [仿小米，日历NCalendar](https://github.com/yannecer/NCalendar)
-
-## [maning0303/MNCalendar](https://github.com/maning0303/MNCalendar)
-
-## [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView)
-
-## [shichaohui/EasyCalendar](https://github.com/shichaohui/EasyCalendar)
-
-## 29、丰富的自定义布局（包含圆形、圆角、不规则等）
-
-## [florent37/ShapeOfView](https://github.com/florent37/ShapeOfView)
-
-
-
   
 ## License
 ```
