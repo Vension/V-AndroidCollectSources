@@ -32,6 +32,7 @@
     * [MVP](#MVP)
     * [MVVM](#MVVM)
     * [组件化](#组件化)
+    * [插件化](#插件化)
 
 * [优秀完整项目](#优秀完整项目)
 
@@ -53,14 +54,16 @@
 
 * [Permissions权限处理](#permissions权限处理)
 
-
-
-
-
 * [Android侧滑返回](#android侧滑返回)
+
 * [二维码相关功能](#二维码相关功能)
-* [视频播放器](#视频播放器)
-* [音乐播放器](#音乐播放器)
+
+* [音视频相关](#音视频相关)
+    * [视频播放器](#视频播放器)
+    * [音乐播放器](#音乐播放器)
+    * [组件化](#组件化)
+    * [插件化](#插件化)
+
 * [相册选择器裁剪的library](#相册选择器裁剪的library)
 * [拍照录像相关](#拍照录像相关)
 * [仿TabLayout](#仿tablayout)
@@ -75,6 +78,7 @@
 * [富文本相关](#富文本相关)
 * [工具相关](#工具相关)
 * [其他自定义控件](#其他自定义控件)
+
 * [小程序ui库](#小程序ui库)
 ```
 点击 ► 展示效果图
@@ -83,6 +87,20 @@
 ****
 ### 开发框架
 [back to top](#readme) 
+#### MVP
+* [JessYanCoding/MVPArms](https://github.com/JessYanCoding/MVPArms) - 一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
+* [lizixian18/EasyMvp](https://github.com/lizixian18/EasyMvp) -一个简单强大且灵活的MVP框架。 https://juejin.im/post/5b5a877c518825…
+* [wangyuan0217/DemoMvp](https://github.com/wangyuan0217/DemoMvp) - MVP+RxJava2+Retrofit+Dagger2+Realm...
+* [zhhr1122/z_comic_new](https://github.com/zhhr1122/z_comic_new) - 一款采用MVP模式的设计的仿造腾讯漫画的APP
+* [YeLearns](https://github.com/yeyueduxing/YeLearns) - 夜月资讯：一款符合Google Material Design的Android客户端。项目使用MVPArms作为底层框架，然后自己扩展了一个UI框架YeLibrary，实现了各种常用的列表页，Tab页等等，便于快速开发应用。现主要包括：玩安卓，DIYcode，干货，微信资讯，游明星空，影视，壁纸等多个模块
+* [MVPHabit](https://github.com/zhanghacker/MVPHabit) - 一套适合敏捷开发，基于MVP模式开发框架，整合Rxjava+Retrofit+Dagger+Butterknife等主流模块，加入中一些比较常用的工具类，进行一些抽取和整理，让你更专注于业务自身的逻辑。
+* [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) - 快速生成MVP 架构的项目模板 🔥🔥🔥🔥
+
+#### MVVM
+* [SelfZhangTQ/T-MVVM（推荐）](https://github.com/SelfZhangTQ/T-MVVM) - This repository contains a detailed sample app that implements MVVM architecture using LiveData,ViewModel,Retrofit,Rxjava
+* [goldze/MVVMHabit](https://github.com/goldze/MVVMHabit) - 基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个健壮、易维护的Android应用。
+* [KBinding](https://github.com/BennyWang/KBinding) - 使用kotlin实现的Android MVVM框架 🔥🔥
+
 #### 组件化
  * [JessYanCoding/ArmsComponent（推荐）](https://github.com/JessYanCoding/ArmsComponent) - 基于MVPArms的组件化框架
  * [luckybilly/CC](https://github.com/luckybilly/CC) - 业界首个支持渐进式组件化改造的Android组件化开源框架。Componentize your android project gradually. https://juejin.im/post/5b255f6ce51d45…
@@ -93,16 +111,7 @@
 * [mqzhangw/JIMU](https://github.com/mqzhangw/JIMU) - 一种简单有效的android组件化方案，支持组件的代码资源隔离、单独调试、集成调试、组件交互、UI跳转、生命周期等完整功能。
 * [NewFastFrame](https://github.com/HelloChenJinJun/NewFastFrame) - 终极组件化框架项目方案
 
-#### MVP
-* [JessYanCoding/MVPArms](https://github.com/JessYanCoding/MVPArms) - 一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
-* [lizixian18/EasyMvp](https://github.com/lizixian18/EasyMvp) -一个简单强大且灵活的MVP框架。 https://juejin.im/post/5b5a877c518825…
-* [wangyuan0217/DemoMvp](https://github.com/wangyuan0217/DemoMvp) - MVP+RxJava2+Retrofit+Dagger2+Realm...
-* [zhhr1122/z_comic_new](https://github.com/zhhr1122/z_comic_new) - 一款采用MVP模式的设计的仿造腾讯漫画的APP
-* [YeLearns](https://github.com/yeyueduxing/YeLearns) - 夜月资讯：一款符合Google Material Design的Android客户端。项目使用MVPArms作为底层框架，然后自己扩展了一个UI框架YeLibrary，实现了各种常用的列表页，Tab页等等，便于快速开发应用。现主要包括：玩安卓，DIYcode，干货，微信资讯，游明星空，影视，壁纸等多个模块
-* [MVPHabit](https://github.com/zhanghacker/MVPHabit) - 一套适合敏捷开发，基于MVP模式开发框架，整合Rxjava+Retrofit+Dagger+Butterknife等主流模块，加入中一些比较常用的工具类，进行一些抽取和整理，让你更专注于业务自身的逻辑。
-
-****
-
+#### 插件化
 * [wequick/Small](https://github.com/wequick/Small) - 做最轻巧的跨平台插件化框架
   <details><summary><code>效果图</code>🔥</summary>
     <div style="display:flex;">
@@ -111,9 +120,16 @@
    </details>
    
 * [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin)
-* [NewFastFrame](https://github.com/HelloChenJinJun/NewFastFrame)
-* [Kotlin-Android-Template](https://github.com/nekocode/Kotlin-Android-Template) - 快速生成MVP 架构的项目模板 🔥🔥🔥🔥
-* [KBinding](https://github.com/BennyWang/KBinding) - 使用kotlin实现的Android MVVM框架 🔥🔥
+
+****
+
+### 小程序UI库
+* [meili/minui（推荐）](https://github.com/meili/minui) - 蘑菇街  
+* [youzan/zanui-weapp](https://github.com/youzan/zanui-weapp) - 有赞  
+* [Tencent/weui](https://github.com/Tencent/weui) - WeChat
+
+
+
 
 
 ## 优秀完整项目
@@ -555,10 +571,7 @@
 
 ## [florent37/ShapeOfView](https://github.com/florent37/ShapeOfView)
 
-## 小程序UI库
-* [meili/minui（推荐）](https://github.com/meili/minui) - 蘑菇街  
-    * [youzan/zanui-weapp](https://github.com/youzan/zanui-weapp) - 有赞  
-    * [Tencent/weui](https://github.com/Tencent/weui) - WeChat
+
 
   
 ## License
