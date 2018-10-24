@@ -46,7 +46,7 @@
 
 * [通用标题栏](#通用标题栏)
 
-* [底部导航栏](#底部导航栏)
+* [导航栏相关](#导航栏相关)
 
 * [数据库相关](#数据库相关)
 
@@ -85,7 +85,6 @@
 * [其他自定义控件](#其他自定义控件)
    * [日历控件](#日历控件)
    * [加载动画](#加载动画)
-   * [仿TabLayout](#仿TabLayout)
    * [流式布局](#流式布局)
    * [富文本相关](#富文本相关)
    * [微章控件](#微章控件)
@@ -281,8 +280,11 @@
 * [wuhenzhizao/android-titlebar](https://github.com/wuhenzhizao/android-titlebar) - 通用，功能全面的自定义标题栏，支持沉浸式标题栏，颜色渐变，miui9
 
 ************************************
-### 底部导航栏
+### 导航栏相关
 [back to top](#readme) 
+* [FlycoTabLayout（推荐）](https://github.com/H07000223/FlycoTabLayout)
+* [垂直纵向的TabLayout,qstumn/VerticalTabLayout](https://github.com/qstumn/VerticalTabLayout)
+* [armcha/Space-Navigation-View](https://github.com/armcha/Space-Navigation-View)
 * [ittianyu/BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx) - 一个增强BottomNavigationView的安卓库
  <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
@@ -496,11 +498,7 @@
 #### 加载动画
 * [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - 加载动画view  （AV与NV效果一样）
 * [android——AVLoadingIndicatorView（推荐）](https://github.com/81813780/AVLoadingIndicatorView) - 加载动画view  （AV与NV效果一样）
-
-#### 仿TabLayout
-* [FlycoTabLayout（推荐）](https://github.com/H07000223/FlycoTabLayout)
-* [垂直纵向的TabLayout,qstumn/VerticalTabLayout](https://github.com/qstumn/VerticalTabLayout)
-* [armcha/Space-Navigation-View](https://github.com/armcha/Space-Navigation-View)
+* [ios——NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
 
 #### 流式布局
 * [AndroidFlexBoxLayout(推荐)](https://github.com/Vension/AndroidFlexBoxLayout) - 使用Google的flexbox实现demo
@@ -535,10 +533,6 @@
 
 #### 丰富的自定义布局（包含圆形、圆角、不规则等）
 * [florent37/ShapeOfView](https://github.com/florent37/ShapeOfView)
-
-* [ios——NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
-
-钮
 * [Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - Material Design设计风格的触摸步进器
    <details><summary><code>效果图</code>🔥🔥</summary>
     <div style="display:flex;">
