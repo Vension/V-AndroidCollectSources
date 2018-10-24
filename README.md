@@ -33,17 +33,30 @@
     * [MVVM](#MVVM)
     * [组件化](#组件化)
 
-
 * [优秀完整项目](#优秀完整项目)
+
 * [网络相关](#网络相关)
-* [数据库相关](#数据库相关)
-* [通用标题栏](#通用标题栏)
-* [底部导航栏](#底部导航栏)
+
 * [刷新控件](#刷新控件)
-* [Recyclerview通用适配器](#recyclerView通用适配器)
+
+* [adapter适配器](#adapter适配器)
+
 * [轮播图Banner](#轮播图banner)
+
+* [通用标题栏](#通用标题栏)
+
+* [底部导航栏](#底部导航栏)
+
+* [数据库相关](#数据库相关)
+
 * [沉浸式解决库](#沉浸式解决库)
+
 * [Permissions权限处理](#permissions权限处理)
+
+
+
+
+
 * [Android侧滑返回](#android侧滑返回)
 * [二维码相关功能](#二维码相关功能)
 * [视频播放器](#视频播放器)
@@ -67,12 +80,12 @@
 点击 ► 展示效果图
 ```
 
-## 开发框架
+### 开发框架
+------
 [back to top](#readme) 
-
--[组件化]
-* [JessYanCoding/ArmsComponent（推荐）](https://github.com/JessYanCoding/ArmsComponent) - 基于MVPArms的组件化框架
-* [luckybilly/CC](https://github.com/luckybilly/CC) - 业界首个支持渐进式组件化改造的Android组件化开源框架。Componentize your android project gradually. https://juejin.im/post/5b255f6ce51d45…
+### 组件化
+ * [JessYanCoding/ArmsComponent（推荐）](https://github.com/JessYanCoding/ArmsComponent) - 基于MVPArms的组件化框架
+ * [luckybilly/CC](https://github.com/luckybilly/CC) - 业界首个支持渐进式组件化改造的Android组件化开源框架。Componentize your android project gradually. https://juejin.im/post/5b255f6ce51d45…
 * [KotlinAndroid](https://github.com/guofudong/KotlinAndroid) - 组件化 + MVP + Retrofit + RxKotlin + Dagger2实现的一款用Kotlin语言编写的多媒体类应用。
 * [renxuelong/ComponentDemo](https://github.com/renxuelong/ComponentDemo) - Android 组件化架构 Demo
 * [TenzLiu/TenzModuleDemo](https://github.com/TenzLiu/TenzModuleDemo) - Android 组件化架构 Demo
@@ -80,8 +93,7 @@
 * [mqzhangw/JIMU](https://github.com/mqzhangw/JIMU) - 一种简单有效的android组件化方案，支持组件的代码资源隔离、单独调试、集成调试、组件交互、UI跳转、生命周期等完整功能。
 * [NewFastFrame](https://github.com/HelloChenJinJun/NewFastFrame) - 终极组件化框架项目方案
 
-
--[MVP]
+### MVP
 * [JessYanCoding/MVPArms](https://github.com/JessYanCoding/MVPArms) - 一个整合了大量主流开源项目高度可配置化的 Android MVP 快速集成框架
 * [lizixian18/EasyMvp](https://github.com/lizixian18/EasyMvp) -一个简单强大且灵活的MVP框架。 https://juejin.im/post/5b5a877c518825…
 * [wangyuan0217/DemoMvp](https://github.com/wangyuan0217/DemoMvp) - MVP+RxJava2+Retrofit+Dagger2+Realm...
