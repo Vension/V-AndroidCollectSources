@@ -1,12 +1,26 @@
-# V-Android-CollectSources
+<p align="center">
+   <a href="https://github.com/Vension/V-AndroidCollectSources">
+    <img src="https://img.shields.io/badge/V-AndroidCollectSources-green.svg?style=flat-square" alt="Latest Stable Version" />
+  </a>
+  <a href="http://www.apache.org/licenses/LICENSE-2.0">
+    <img src="http://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square" alt="License" />
+  </a>
+  <a href="https://www.jianshu.com/u/38adb0e04e65">
+    <img src="https://img.shields.io/badge/Author-Vension-orange.svg?style=flat-square" alt="Author" />
+  </a>
+  <a href="https://shang.qq.com/wpa/qunwpa?idkey=1a5dc5e9b2e40a780522f46877ba243eeb64405d42398643d544d3eec6624917">
+    <img src="https://img.shields.io/badge/QQ-2506856664-orange.svg?style=flat-square" alt="QQ Group" />
+  </a>
+</p>
 
-[![Language](https://img.shields.io/badge/KVAndroid-CollectSources-green.svg)](https://github.com/Vension/V-Android-CollectSources)
-[![PRS](https://img.shields.io/badge/PRS-welcome-yellow.svg)](https://github.com/Vension/V-Android-CollectSourcespulls)
-[![LICENSE](https://img.shields.io/badge/licenses-apache-green.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+****
+### Author:Vension
+### E-mail:2506856664@qq.com
+****
 
 ## 关于
+本项目是一个专注于收集Github上用于Android 开发的开源库、扩展、工具、优秀开源项目、资料等高质量资源的集合进行整理https://github.com/Vension/V-AndroidCollectSources
 
-本项目是一个专注于收集Github上用于Android 开发的开源库、扩展、工具、优秀开源项目、资料等高质量资源的集合进行整理https://github.com/Vension/V-Android-CollectSources
 
 ## Thanks
 
@@ -15,6 +29,11 @@
 
 ## 目录
 * [开发框架](#开发框架)
+    * [MVP](#MVP)
+    * [MVVM](#MVVM)
+    * [组件化](#组件化)
+
+
 * [优秀完整项目](#优秀完整项目)
 * [网络相关](#网络相关)
 * [数据库相关](#数据库相关)
@@ -524,32 +543,28 @@
 
 ## [florent37/ShapeOfView](https://github.com/florent37/ShapeOfView)
 
-
-***
-
-## 小程序ui库
-[back to top](#readme) 
-* [meili/minui（推荐）](https://github.com/meili/minui) - 蘑菇街
-* [youzan/zanui-weapp](https://github.com/youzan/zanui-weapp) - 有赞
-* [Tencent/weui](https://github.com/Tencent/weui) - WeChat
+## 小程序UI库
+* [meili/minui（推荐）](https://github.com/meili/minui) - 蘑菇街  
+    * [youzan/zanui-weapp](https://github.com/youzan/zanui-weapp) - 有赞  
+    * [Tencent/weui](https://github.com/Tencent/weui) - WeChat
 
   
-  ***
-Created with the help of KV-Android-CollectSources by [Vension](https://github.com/Vension)
+## License
 ```
-Copyright 2018 com.github.vension
+ Copyright 2018, Vension
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
 
-    http://www.apache.org/licenses/LICENSE-2.0
+       http://www.apache.org/licenses/LICENSE-2.0
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
 ```
+
 
 
