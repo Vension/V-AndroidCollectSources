@@ -35,7 +35,11 @@
     * [插件化](#插件化)
 
 * [优秀完整项目](#优秀完整项目)
-
+    * [WanAndroid系列](#WanAndroid系列)
+    * [开眼系列](#开眼系列)
+    * [Gank妹子系列](#Gank妹子系列)
+    * [仿今日头条系列](#仿今日头条系列)
+    
 * [网络相关](#网络相关)
 
 * [刷新控件](#刷新控件)
@@ -65,12 +69,14 @@
 * [相册选择器裁剪](#相册选择器裁剪)
 
 * [图片处理相关](#图片处理相关)
+    * [圆形圆角图片](#圆形圆角图片)
+    * [图片预览效果](#图片预览效果)
     * [水印涂鸦功能](#水印涂鸦功能)
     * [图片压缩相关](#图片压缩相关)
     * [高斯模糊效果](#高斯模糊效果)
     * [长图大图效果](#长图大图效果)
     
-* [拍照录像相关](#拍照录像相关)
+* [拍照录像录音相关](#拍照录像录音相关)
 
 * [Dialog相关](#Dialog相关)
 
@@ -88,7 +94,18 @@
 
 * [ViewPager相关](#ViewPager相关)
 
+* [阴影效果](#阴影效果)
+
+* [图表库Charts](#图表库Charts)
+
+* [弹幕效果](#弹幕效果)
+
+* [悬浮窗效果](#悬浮窗效果)
+
 * [其他自定义控件](#其他自定义控件)
+   * [验证码效果](#验证码效果)
+   * [点赞收藏效果](#点赞收藏效果)
+   * [RatingBar效果](#RatingBar效果)
    * [自定义RecyclerViewLayoutManager](#自定义RecyclerViewLayoutManager)
    * [日历控件](#日历控件)
    * [加载动画](#加载动画)
@@ -96,14 +113,23 @@
    * [富文本相关](#富文本相关)
    * [微章控件](#微章控件)
    * [TextView处理](#TextView处理)
+   * [跑马灯效果](#跑马灯效果)
    * [开关按钮效果](#开关按钮效果)
    * [进度条效果](#进度条效果)
-
+   * [SideBar导航栏效果](#SideBar导航栏效果)
+   * [倒计时控件](#倒计时控件)
+   * [自定义键盘](#自定义键盘)
+   * [仪表盘效果](#仪表盘效果)
+   * [翻页效果](#翻页效果)
+   
 * [工具相关](#工具相关)
    * [下载相关](#下载相关)
+   
+* [Flutter相关](#Flutter相关)
 
 * [小程序UI库](#小程序UI库)
 
+* [JS相关](#JS相关)
 ```
 点击 ► 展示效果图
 ```
@@ -150,6 +176,12 @@
 ************************************
 ### 优秀完整项目
 [back to top](#readme)
+#### WanAndroid系列  
+* [jenly1314/WanAndroid](https://github.com/jenly1314/WanAndroid) - 基于Architecture Components dependencies （Lifecycles，LiveData，ViewModel，Room）的WanAndroid开源项目
+     <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+      <img alt="image" src="https://github.com/jenly1314/WanAndroid/blob/master/GIF.gif" width="50%">
+     </details>
 * [iceCola7/WanAndroid](https://github.com/iceCola7/WanAndroid) - 项目采用 Kotlin 语言，基于 MVP + RxJava + Retrofit + Glide + EventBus 等架构设计，努力打造一款优秀的 http://www.wanandroid.com 客户端
 * [JsonChao/Awesome-WanAndroid](https://github.com/JsonChao/Awesome-WanAndroid) - 致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n
 * [wangzailfm/WanAndroidClient](https://github.com/wangzailfm/WanAndroidClient) - Try to build a www.wanandroid.com client for kotlin.
@@ -160,14 +192,20 @@
       <img alt="image" src="https://camo.githubusercontent.com/a9fb4611eaff7325403eb9b7d0bda54a356d5d64/687474703a2f2f6f766c686c697337322e626b742e636c6f7564646e2e636f6d2f31372d31322d32382f37373431383637352e6a70673f696d61676556696577322f322f772f3330302f712f3935" width="30%">
      </div>
    </details>
-* [miaoMiaoDaShi/YangYanNew(养眼)](https://github.com/miaoMiaoDaShi/YangYanNew) - 新养眼,项目基于框架MVPArms,全程使用kotlin编写.
-  <details><summary><code>效果图</code></summary>
-     <div style="display:flex;">
-      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_splash.jpg" width="30%">
-      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_login.jpg" width="30%">
-      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_category.jpg" width="30%">
-     </div>
-   </details>
+   
+#### 开眼系列
+* [AndyJennifer/SimpleEyes](https://github.com/AndyJennifer/SimpleEyes) - 基于kotlin 仿开眼app
+
+#### Gank妹子系列
+* [wazing/Gank](https://github.com/wazing/Gank) - 干货 - LiveData, ViewModel, Retrofit, RxJava, Dagger2 架构，采用kotlin语言开发，仅用于学习。
+
+#### 仿今日头条系列
+* [精仿今日头条（推荐）](https://github.com/chaychan/TouTiao) -  精仿今日头条，数据是抓取今日头条App的数据。使用RxJava + Retrofit + MVP开发的开源项目
+    <details><summary><code>效果图</code></summary>
+       <div style="display:flex;">
+         <img alt="image" src="https://raw.githubusercontent.com/chaychan/TouTiaoPics/master/screenshot/home.jpg" width="30%">
+      </div>
+    </details>
 * [iMeiji/Toutiao](https://github.com/iMeiji/Toutiao) - 一款第三方今日头条客户端, MVP + RxJava + Retrofit
   <details><summary><code>效果图</code></summary>
      <div style="display:flex;">
@@ -176,16 +214,22 @@
       <img alt="image" src="https://github.com/iMeiji/Toutiao/blob/master/art/preview.gif" width="100%">
      </div>
    </details>
+* [yanxuwen/toutaio](https://github.com/yanxuwen/toutaio) - 模仿今日头条app
+
+* [danxinzhicheng/IThouse](https://github.com/danxinzhicheng/IThouse/tree/version-2.0) - 一款高仿IT之家的Android APP 2.0版本，力求原汁原味，还原那个熟悉的之家。
+* [miaoMiaoDaShi/YangYanNew(养眼)](https://github.com/miaoMiaoDaShi/YangYanNew) - 新养眼,项目基于框架MVPArms,全程使用kotlin编写.
+  <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_splash.jpg" width="30%">
+      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_login.jpg" width="30%">
+      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_category.jpg" width="30%">
+     </div>
+   </details>
+
 * [KotlinMvp（推荐）](https://github.com/git-xuhao/KotlinMvp) -  基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP
     <details><summary><code>效果图</code></summary>
       <div style="display:flex;">
       <img alt="image" src="https://github.com/git-xuhao/KotlinMvp/raw/master/screenshot/kotlin-mvp-1.gif" width="30%">
-      </div>
-    </details>
-* [精仿今日头条（推荐）](https://github.com/chaychan/TouTiao) -  精仿今日头条，数据是抓取今日头条App的数据。使用RxJava + Retrofit + MVP开发的开源项目
-    <details><summary><code>效果图</code></summary>
-       <div style="display:flex;">
-         <img alt="image" src="https://raw.githubusercontent.com/chaychan/TouTiaoPics/master/screenshot/home.jpg" width="30%">
       </div>
     </details>
 
@@ -395,14 +439,17 @@
 * [基于IjkPlayer,Haxine/SuperPlayer](https://github.com/Haxine/SuperPlayer)
 * [xiaoyanger0825/NiceVieoPlayer](https://github.com/xiaoyanger0825/NiceVieoPlayer) - IjkPlayer/MediaPlayer+TextureView，支持列表，完美切换全屏、小窗口的Android视频播放器 
 * [tohodog/QSVideoPlayer](https://github.com/tohodog/QSVideoPlayer) - 安卓视频播放器AndroidVideoplayer,架构设计优良功能丰富,支持多种解码,支持设置比例,浮窗,静音等
+* [jiajunhui/PlayerBase](https://github.com/jiajunhui/PlayerBase) - Android播放器基础库，专注于播放视图组件的高复用性和组件间的低耦合，轻松处理复杂业务。
 
 #### 音频播放器
+* [caiyonglong/MusicLake](https://github.com/caiyonglong/MusicLake) - 音乐播放器，可播放本地音乐，百度音乐，qq音乐，虾米音乐，网易云音乐
 * [DuanJiaNing/Musicoco](https://github.com/DuanJiaNing/Musicoco) - 音乐播放器，功能：通过耳机和通知栏快捷控制音乐播放、创建歌单、本地歌曲搜索、记忆播放、自动切换到夜间模式、定时停止播放、应用主题自定义以及播放界面风格选择等功能。
 * [hefuyicoder/ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer) - A Grace Material Design Music Player
 * [乐乐音乐5.0](https://github.com/zhangliangming/HappyPlayer5)
 * [波尼音乐](https://github.com/wangchenyan/PonyMusic)
 * [lizixian18/NiceMusic](https://github.com/lizixian18/NiceMusic) - A Nice MusicPlayer Powered by MusicLibrary
 * [aa112901/remusic](https://github.com/aa112901/remusic) - 仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载
+* [thevpaliy/Melophile](https://github.com/thevpaliy/Melophile) - Music App built using RxJava2, Retrofit2, Dagger2 and clean architecture.
 
 ************************************
 ### 相册选择器裁剪
@@ -433,10 +480,23 @@
     <img alt="image" src="https://github.com/jdamcd/android-crop/blob/master/screenshot.png" width="30%">
    </details>
 * [igreenwood/SimpleCropView](https://github.com/igreenwood/SimpleCropView) - A simple image cropping library for Android.
-
+* [huburt-Hu/ImagePicker](https://github.com/huburt-Hu/ImagePicker) - 用Kotlin实现的一个仿微信的图片选择库
+      
 ************************************
 ### 图片处理相关
 [back to top](#readme)
+#### 圆形圆角特殊头像效果
+* [hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView) - 经典的圆形图片效果
+* [kongnanlive/android-combination-avatar](https://github.com/kongnanlive/android-combination-avatar) - 模仿QQ讨论组头像
+* [vitorhugods/AvatarView](https://github.com/vitorhugods/AvatarView) - 炫酷的头像控件，包括进度动画和带有边界和渐变颜色的高亮状态。
+* [SheHuan/CombineBitmap](https://github.com/SheHuan/CombineBitmap) - Android 仿钉钉、微信 群聊组合头像
+
+#### 图片预览效果
+* [maning0303/MNImageBrowser](https://github.com/maning0303/MNImageBrowser) - 一个图片浏览框架,类似微信图片浏览,手势向下滑动关闭,图片加载引擎自定义,支持长按,单击监听,切换监听,自定义任意的遮罩层，实现各种效果,支持横竖屏切换,简单方便。
+* [SherlockGougou/BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager) - BigImage ImageView ViewPager 支持超长图、超大图的图片浏览器，优化内存，支持手势放大、下拉关闭、查看原图、加载百分比、保存图片等功能
+* [Piasy/BigImageViewer](https://github.com/Piasy/BigImageViewer) - 支持平移和缩放的大图像浏览器，内存占用很少，图像加载选择充分。由亚采样缩放图像视图，Fresco，滑翔，和毕加索。即使有GIF和WebP支持！
+* [iielse/ImageWatcher](https://github.com/iielse/ImageWatcher) - 高仿微信预览图片可拖拽返回
+
 #### 图片压缩相关
 * [Curzibn/Luban（推荐）](https://github.com/Curzibn/Luban)
 * [Sunzxyong/Tiny](https://github.com/Sunzxyong/Tiny)
@@ -465,19 +525,24 @@
 * [davemorrissey/subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) - Android library (AAR). Highly configurable, easily extendable deep zoom view for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.
    
 ************************************
-### 拍照录像相关
+### 拍照录像录音相关
 [back to top](#readme)
 * [仿微信拍照Android控件（轻触拍照，长按摄像）CameraView](https://github.com/CJT2325/CameraView)
 * [Werb/MediaUtils](https://github.com/Werb/MediaUtils)
+* [pqpo/SmartCamera](https://github.com/pqpo/SmartCamera) - 一个 Android 相机拓展库，能够实时采集并且识别相机内物体边框是否吻合指定区域。
 * [wildma/IDCardCamera](https://github.com/wildma/IDCardCamera) - Android自定义相机实现身份证拍照，并加入自动对焦与图片不规则裁剪
     <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
        <img alt="image" src="https://github.com/wildma/IDCardCamera/blob/master/screenshots/screenshot.jpg" width="80%">
  </details>
+* [weizongwei5/AndroidScreenShot_SysApi](https://github.com/weizongwei5/AndroidScreenShot_SysApi) - 非常优雅的方案实现屏幕截图，利用android 5.0之后的录屏API实现截屏。
+* [algolia/voice-overlay-android](https://github.com/algolia/voice-overlay-android) - (录音效果)An overlay that gets your user’s voice permission and input as text in a customizable UI 
+* [RedApparat/Fotoapparat](https://github.com/RedApparat/Fotoapparat) - Making Camera for Android more friendly.
 
 ************************************
 ### Dialog相关
 [back to top](#readme)
+* [Hamadakram/AlertView](https://github.com/Hamadakram/AlertView) - 一个通过简单定制轻松创建简单dialog的库。
 * [mylhyl/Android-CircleDialog(推荐)](https://github.com/mylhyl/Android-CircleDialog)
 * [仿ios选择器 Android-AlertView](https://github.com/saiwu-bigkoo/Android-AlertView)
 * [pedant/sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)
@@ -560,6 +625,7 @@
           <img alt="image" src="https://github.com/binIoter/GuideView/blob/master/app/src/main/assets/img2.png" width="30%">
           <img alt="image" src="https://github.com/binIoter/GuideView/blob/master/app/src/main/assets/img3.png" width="30%">
     </details>
+* [deano2390/MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) - A Material Design themed ShowcaseView for Android
 
 ************************************
 ### 版本更新工具
@@ -633,6 +699,7 @@
 
 ************************************
 ### ViewPager相关
+[back to top](#readme)
 * [alibaba/UltraViewPager](https://github.com/alibaba/UltraViewPager) - UltraViewPager是一个封装多种特性的ViewPager，主要是为多页面切换场景提供统一解决方案。
 * [LillteZheng/ViewPagerHelper](https://github.com/LillteZheng/ViewPagerHelper) - 这个一个 viewpager 工具类，能够帮你快速实现导航栏轮播图，app引导页，viewpager + fragment；内置多种tab指示器，让你告别 viewpager 的繁琐操作，专注逻辑功能
    <details><summary><code>效果图</code>🔥</summary>
@@ -675,10 +742,51 @@
       <div style="display:flex;">
           <img alt="image" src="https://github.com/hackware1993/MagicIndicator/blob/master/magicindicator.gif" width="50%">
   </details>
-        
+* [BakerJQ/Android-InfiniteCards](https://github.com/BakerJQ/Android-InfiniteCards) - 可自定义动效的卡片切换视图
+* [xmuSistone/AndroidPileLayout](https://github.com/xmuSistone/AndroidPileLayout) - 一种不规则的水平ListVIEW，具有伸展和收缩效应的桩布局。
+* [Ramotion/cardslider-android](https://github.com/Ramotion/cardslider-android) - CasLoLoad是一种material design设计UI控制器，卡片抽屉滑动动画。
+       
+************************************
+### 阴影效果
+[back to top](#readme)
+* [zhengcx/ShadowHelper](https://github.com/zhengcx/ShadowHelper) - 一个方便为Android View添加自然的阴影的库
+* [yingLanNull/ShadowImageView](https://github.com/yingLanNull/ShadowImageView) - 可以根据图片内容变阴影颜色，更加细腻的阴影效果
+* [DingMouRen/PaletteImageView](https://github.com/DingMouRen/PaletteImageView) - 懂得智能配色的ImageView,还能给自己设置多彩的阴影哦
+* [lijiankun24/ShadowLayout](https://github.com/lijiankun24/ShadowLayout) - 简单好用的阴影库-ShadowLayout
+* [qhutch/ElevationImageView](https://github.com/qhutch/ElevationImageView) - Imageview with elevation shadow
+* [florent37/LongShadow](https://github.com/florent37/LongShadow) - Add a long shadow on any Android View
+* [harjot-oberai/MaterialShadows](https://github.com/harjot-oberai/MaterialShadows) - A library for supporting convex material shadows
+
+************************************
+### 图表库Charts
+[back to top](#readme)
+* [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
+* [limccn/Android-Charts](https://github.com/limccn/Android-Charts) - Open-source native Android graph/chart framework includes line chart,stick chart,candlestick chart,pie chart,spider-web chart etc.
+* [xcltapestry/XCL-Charts](https://github.com/xcltapestry/XCL-Charts) - Android图表库(XCL-Charts is a free charting library for Android platform.),基于Android Canvas来绘制各种图表,使用简便,定制灵活。目前支持3D/非3D/背向式/横向/竖向柱形图(Bar Chart)、3D/非3D饼图(Pie Chart)、堆叠图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、漏斗图(Funnel Chart)、圆形图
+
+************************************
+### 弹幕效果
+[back to top](#readme)
+* [Bilibili/DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster) - Android开源弹幕引擎·烈焰弹幕使 ～ http://app.bilibili.com/
+* [hpdx/DanmukuLight](https://github.com/hpdx/DanmukuLight) - Android上专为视频直播打造的轻量级弹幕库（100多kb）
+
+************************************
+### 悬浮窗效果
+[back to top](#readme)
+* [yhaolpz/FloatWindow](https://github.com/yhaolpz/FloatWindow) - Andorid 任意界面悬浮窗，实现悬浮窗如此简单 
+
 ************************************
 ### 其他自定义控件
 [back to top](#readme) 
+#### 验证码效果
+* [glomadrian/material-code-input](https://github.com/glomadrian/material-code-input) - A material style input for codes
+#### 点赞收藏效果
+* [wajahatkarim3/MediumClap-Android](https://github.com/wajahatkarim3/MediumClap-Android) - 基于Kotlin实现的点赞效果
+* [UFreedom/FloatingView](https://github.com/UFreedom/FloatingView) - FloatingView can make the target view floating above the anchor view with cool animation
+
+#### RatingBar效果
+* [ome450901/SimpleRatingBar](https://github.com/ome450901/SimpleRatingBar) - A simple RatingBar that you can easier customized image and animations
+
 #### 自定义RecyclerViewLayoutManager
 * [DingMouRen/LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup) - Customize the LayoutManager of RecyclerView(自定义LayoutManager)
 <details><summary><code>效果图</code>🔥</summary>
@@ -690,8 +798,6 @@
           <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img5.gif" width="30%">
           <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img6.gif" width="30%">
   </details>
-
-
 * [wuyr/PathLayoutManager](https://github.com/wuyr/PathLayoutManager) - RecyclerView的LayoutManager，轻松实现各种炫酷、特殊效果，再也不怕产品经理为难！
 <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
@@ -744,6 +850,13 @@
     <img alt="image" src="https://camo.githubusercontent.com/7c9efe479c88360e69a53a159fd2921ec4b3af4e/68747470733a2f2f67772e616c6963646e2e636f6d2f7466732f5442314a4550537248395942754e6a7930466758586378635858612d313139352d3632322e676966">
    </details>
 * [hanks-zyh/HTextView](https://github.com/hanks-zyh/HTextView) - Animation effects to text, not really textview
+* [MZCretin/ExpandableTextView](https://github.com/MZCretin/ExpandableTextView) - 实现类似微博内容，@用户，链接高亮，@用户和链接可点击跳转，可展开和收回的TextView
+* [Chen-Sir/ExpandableTextView](https://github.com/Chen-Sir/ExpandableTextView) - 可以扩展和折叠的Android TextView。
+* [Bakumon/NumberAnimTextView](https://github.com/Bakumon/NumberAnimTextView) - 数字增加和降低动画 TextView
+   
+#### 跑马灯效果
+* [gongwen/MarqueeViewLibrary](https://github.com/gongwen/MarqueeViewLibrary) - 一个帮您快速实现跑马灯效果的library
+* [rosenpin/FadingTextView](https://github.com/rosenpin/FadingTextView) - A textview that changes its content automatically every few seconds
 
 #### 开关按钮效果
 * [SwitchButton](https://github.com/kyleduo/SwitchButton) - 仿ios移动按钮
@@ -751,6 +864,28 @@
 * [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) - 仿ios移动按
 #### 进度条效果
 * [daimajia/NumberProgressBar](https://github.com/daimajia/NumberProgressBar) - ProgressBar相关
+* [woxingxiao/BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar) - 自定义SeekBar，进度变化更以可视化气泡样式呈现
+* [warkiz/IndicatorSeekBar](https://github.com/warkiz/IndicatorSeekBar) - A custom SeekBar on Android, which can be changed the size ,color , thumb drawable , tick drawable , tick text and isb_indicator , also , will show an isb_indicator view with progress above SeekBar when seeking.
+* [AnderWeb/discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) - 带水滴效果的可拖动进度条
+* [rubensousa/PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar) - A SeekBar suited for showing a preview of something. As seen in Google Play Movies.
+* [rey5137/material](https://github.com/rey5137/material) - A library to bring fully animated Material Design components to pre-Lolipop Android.
+* [oli107/material-range-bar](https://github.com/oli107/material-range-bar) - Android widget for selecting a range of values.
+#### SideBar导航栏效果
+* [Solartisan/WaveSideBar](https://github.com/Solartisan/WaveSideBar) - 一个快速跳跃分组的侧边栏控件，示例中配合RecyclerView实现。
+#### 倒计时控件
+* [CaMnter/EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - Easy count down by TextureView
+
+#### 自定义键盘
+* [xuejinwei/NumberKeyboard](https://github.com/xuejinwei/NumberKeyboard) - 仿造android端闲鱼发布选择价格数字键盘，自定义数字键盘
+* [onlyloveyd/LazyKeyboard](https://github.com/onlyloveyd/LazyKeyboard) - 字母，符号，数字&自定义安全键盘
+
+#### 仪表盘效果
+* [jenly1314/SpinCounterView](https://github.com/jenly1314/SpinCounterView) - 一个类似于码表变化的旋转计数器动画控件
+* [glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view) - A velocimeter View for Android
+
+#### 翻页效果
+* [eschao/android-PageFlip](https://github.com/eschao/android-PageFlip) - 3D Style Page Flip on Android
+* [openaphid/android-flip](https://github.com/openaphid/android-flip) - 一个在Android上翻转动画的组件，它类似于FrPixiPoe/Android的效果
 
 #### 丰富的自定义布局（包含圆形、圆角、不规则等）
 * [florent37/ShapeOfView](https://github.com/florent37/ShapeOfView)
@@ -808,14 +943,33 @@
 * [joda-time](https://github.com/JodaOrg/joda-time) - joda-time  日期的替代使用库
 
 ************************************
+### Flutter相关
+* [OpenFlutter/Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) - 日更的FlutterDemo合集，今天你fu了吗
+* [HackSoul/zhihu-flutter](https://github.com/HackSoul/zhihu-flutter) - Flutter 高仿知乎 UI，非常漂亮，也非常流畅，flutter build apk 或 flutter build ios 之后更流畅
+* [canhuah/WanAndroid-Flutter](https://github.com/canhuah/WanAndroid-Flutter) - Flutter版WanAndroid客户端 适合Flutter入门学习
+* [ywp0919/wan_android_flutter](https://github.com/ywp0919/wan_android_flutter) - wanandroid flutter app
+* [CarGuo/GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter) - 超完整的Flutter项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative三个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，跨框架对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验～～Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex 、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp
+* [wtus/flutter_kaiyan](https://github.com/wtus/flutter_kaiyan) - 使用Google跨平台框架Flutter仿写一个开眼视频(Eyepetizer )
+* [yubo725/flutter-osc](https://github.com/yubo725/flutter-osc) - 基于Google Flutter的开源中国客户端，支持Android和iOS。
+
+************************************
 ### 小程序UI库
 [back to top](#readme) 
+* [opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) - 微信小程序开源项目库汇总
 * [meili/minui（推荐）](https://github.com/meili/minui) - 蘑菇街  
 * [youzan/zanui-weapp](https://github.com/youzan/zanui-weapp) - 有赞  
 * [Tencent/weui](https://github.com/Tencent/weui) - WeChat
+* [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
+* [NervJS/taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。
+* [weilanwl/ColorUI](https://github.com/weilanwl/ColorUI) - 鲜亮的高饱和色彩，专注视觉的小程序组件库 
+* [Shaman05/wxCharts](https://github.com/Shaman05/wxCharts) - 微信小程序中的股票分时图、K线图
+* [qindiandadudu/TianguoguoXiaopu](https://github.com/qindiandadudu/TianguoguoXiaopu) - 基于EastWorld的微信小程序商城
 
 *************************************
-    
+### JS相关
+
+*************************************
+   
   
 ## License
 ```
