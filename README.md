@@ -487,17 +487,17 @@
        <img alt="image" src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/text-inside-button.gif" width="30%">
        <img alt="image" src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/ham-button.gif" width="30%">
        <img alt="image" src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/actionbar-example.gif" width="30%">
- </details>
+   </details>
 * [afollestad/material-dialogs](https://github.com/afollestad/material-dialogs) - A beautiful and fluid dialogs API for Kotlin & Android
     <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
+      <div style="display:flex;">
        <img alt="image" src="https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/showcase20.jpg" width="100%">
-  </details>
+   </details>
 * [linroid/FilterMenu](https://github.com/linroid/FilterMenu) - An implemention of Filter Menu concept for android 
    <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
        <img alt="image" src="https://github.com/linroid/FilterMenu/blob/master/screenshots/device-2015-03-12-215100.png" width="30%">
-  </details>
+   </details>
        
 ************************************
 ### Popwindow相关
