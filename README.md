@@ -52,6 +52,8 @@
 
 * [导航栏相关](#导航栏相关)
 
+* [侧滑菜单](#侧滑菜单)
+
 * [数据库相关](#数据库相关)
 
 * [沉浸式解决库](#沉浸式解决库)
@@ -94,6 +96,8 @@
 
 * [ViewPager相关](#ViewPager相关)
 
+* [炫酷动画合集](#炫酷动画合集)
+
 * [阴影效果](#阴影效果)
 
 * [图表库Charts](#图表库Charts)
@@ -106,6 +110,8 @@
    * [验证码效果](#验证码效果)
    * [点赞收藏效果](#点赞收藏效果)
    * [RatingBar效果](#RatingBar效果)
+   * [背景渐变效果](#背景渐变效果)
+   * [水波纹效果](#水波纹效果)
    * [自定义RecyclerViewLayoutManager](#自定义RecyclerViewLayoutManager)
    * [日历控件](#日历控件)
    * [加载动画](#加载动画)
@@ -118,12 +124,15 @@
    * [进度条效果](#进度条效果)
    * [SideBar导航栏效果](#SideBar导航栏效果)
    * [倒计时控件](#倒计时控件)
+   * [时光轴效果TimeLine&StepView](#时光轴效果TimeLine&StepView)
    * [自定义键盘](#自定义键盘)
+   * [屏幕锁控件](#屏幕锁控件)
    * [仪表盘效果](#仪表盘效果)
    * [翻页效果](#翻页效果)
    
 * [工具相关](#工具相关)
    * [下载相关](#下载相关)
+   * [路由框架](#路由框架)
    
 * [Flutter相关](#Flutter相关)
 
@@ -378,9 +387,14 @@
    </details>
 * [Yalantis/Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android) - Side menu with some categories to choose. 
 * [tommybuonomo/morph-bottom-navigation](https://github.com/tommybuonomo/morph-bottom-navigation) - This library represents a Bottom Navigation with an awesome morph effect on top of the selected item
-     
+
 ************************************
-# 数据库相关
+### 侧滑菜单
+[back to top](#readme) 
+* [yarolegovich/SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav) - DrawerLayout-like ViewGroup, where a "drawer" is hidden under the content view, which can be shifted to make the drawer visible.
+
+************************************
+### 数据库相关
 [back to top](#readme) 
 * [requery](https://github.com/requery/requery) - 轻量强大的ORM数据库
 * [DBFlow](https://github.com/Raizlabs/DBFlow) - 一个健壮, 强大, 非常简单的 ORM android 数据库
@@ -697,6 +711,7 @@
 ************************************
 ### Glide辅助工具
 [back to top](#readme) 
+* [sunfusheng/GlideImageView](https://github.com/sunfusheng/GlideImageView) - 基于Glide V4.0+封装的图片加载库，可以监听加载图片时的进度
 * [glide-transformations](https://github.com/wasabeef/glide-transformations) - 为Glide提供图像转换的Android类库
 * [GlidePalette](https://github.com/florent37/GlidePalette) - 一个可以在Glide加载时很方便使用Palette的库。
 
@@ -749,7 +764,39 @@
 * [BakerJQ/Android-InfiniteCards](https://github.com/BakerJQ/Android-InfiniteCards) - 可自定义动效的卡片切换视图
 * [xmuSistone/AndroidPileLayout](https://github.com/xmuSistone/AndroidPileLayout) - 一种不规则的水平ListVIEW，具有伸展和收缩效应的桩布局。
 * [Ramotion/cardslider-android](https://github.com/Ramotion/cardslider-android) - CasLoLoad是一种material design设计UI控制器，卡片抽屉滑动动画。
+* [Ramotion/expanding-collection-android](https://github.com/Ramotion/expanding-collection-android) - ExpandingCollection is a material design card peek/pop controller.
        
+************************************
+### 炫酷动画合集
+[back to top](#readme)
+* [Ramotion/android-ui-animation-components-and-libraries](https://github.com/Ramotion/android-ui-animation-components-and-libraries) - 安卓炫酷动画合集
+* [airbnb/lottie-android](https://github.com/airbnb/lottie-android) - Render After Effects animations natively on Android and iOS, Web, and React Native
+* [daimajia/AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
+* [transitioner](https://github.com/dev-labs-bg/transitioner) - 动态、简单的View场景切换动画
+   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/dev-labs-bg/transitioner/raw/master/preview1.gif" width="50%">
+   </details>
+* [Konfetti](https://github.com/DanielMartinus/Konfetti) - 轻量五彩纸屑粒子系统
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="30%">
+   </details>
+* [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - 完全自定义实现的下雪效果
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/hotellook-demo.gif" width="30%">
+   </details>
+* [glomadrian/Grav](https://github.com/glomadrian/Grav) - Configurable animations based on points
+     <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+      <img alt="image" src="https://github.com/glomadrian/Grav/blob/master/art/wave.gif" width="30%">
+       <img alt="image" src="https://github.com/glomadrian/Grav/blob/master/art/login.gif" width="30%">
+        <img alt="image" src="https://github.com/glomadrian/Grav/blob/master/art/grav.gif" width="30%">
+   </details>
+* [yyued/SVGAPlayer-Android](https://github.com/yyued/SVGAPlayer-Android) - 使用 SVGAPlayer 在 Android、iOS、Web中播放 After Effects / Animate CC (Flash) 动画。
+* [florent37/KotlinPleaseAnimate](https://github.com/florent37/KotlinPleaseAnimate) - A Kotlin way to declare and run beautiful animations
+        
 ************************************
 ### 阴影效果
 [back to top](#readme)
@@ -760,7 +807,18 @@
 * [qhutch/ElevationImageView](https://github.com/qhutch/ElevationImageView) - Imageview with elevation shadow
 * [florent37/LongShadow](https://github.com/florent37/LongShadow) - Add a long shadow on any Android View
 * [harjot-oberai/MaterialShadows](https://github.com/harjot-oberai/MaterialShadows) - A library for supporting convex material shadows
-
+* [loopeer/shadow](https://github.com/loopeer/shadow) - 可以替代CardView的自定义阴影 view
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_color.gif" width="30%">
+    <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_foreground.gif" width="30%">
+   </details>
+ * [totond/TextPathView](https://github.com/totond/TextPathView) - A View with text path animation!
+    <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://camo.githubusercontent.com/5f388182db2cf6e039befbfdc41a7e195e93f5a4/68747470733a2f2f692e696d6775722e636f6d2f6c356f385847352e676966">
+    </details>
+   
 ************************************
 ### 图表库Charts
 [back to top](#readme)
@@ -794,6 +852,17 @@
 #### RatingBar效果
 * [DreaminginCodeZH/MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar) - Material Design RatingBar with better appearance
 * [ome450901/SimpleRatingBar](https://github.com/ome450901/SimpleRatingBar) - A simple RatingBar that you can easier customized image and animations
+
+#### 背景渐变效果
+* [OCNYang/ContourView](https://github.com/OCNYang/ContourView) - 自定义View：通过贝塞尔曲线绘制出的魔炫背景
+  <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://camo.githubusercontent.com/0486ba683582ef55ee284c0681f358d8c8b6a64f/687474703a2f2f6f6262753672316d692e626b742e636c6f7564646e2e636f6d2f6769746875622f636f6e746f7572766965772f7265666572656e63652e706e67">
+   </details>
+* [TonnyL/Spark](https://github.com/TonnyL/Spark) - An Android library to create gradient animation like Instagram&Spotify
+
+#### 水波纹效果
+* [scwang90/MultiWaveHeader](https://github.com/scwang90/MultiWaveHeader) - Android 炫酷的多重水波纹 MultiWaveHeader Wave
 
 #### 自定义RecyclerViewLayoutManager
 * [DingMouRen/LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup) - Customize the LayoutManager of RecyclerView(自定义LayoutManager)
@@ -871,6 +940,7 @@
 * [SwitchButton](https://github.com/kyleduo/SwitchButton) - 仿ios移动按钮
 * [ToggleButton](https://github.com/zcweng/ToggleButton) - 仿ios移动按钮
 * [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) - 仿ios移动按
+
 #### 进度条效果
 * [daimajia/NumberProgressBar](https://github.com/daimajia/NumberProgressBar) - ProgressBar相关
 * [woxingxiao/BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar) - 自定义SeekBar，进度变化更以可视化气泡样式呈现
@@ -881,8 +951,15 @@
 * [oli107/material-range-bar](https://github.com/oli107/material-range-bar) - Android widget for selecting a range of values.
 #### SideBar导航栏效果
 * [Solartisan/WaveSideBar](https://github.com/Solartisan/WaveSideBar) - 一个快速跳跃分组的侧边栏控件，示例中配合RecyclerView实现。
+
 #### 倒计时控件
 * [CaMnter/EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - Easy count down by TextureView
+
+#### 时光轴效果TimeLine&StepView
+* [VictorAlbertos/BreadcrumbsView](https://github.com/VictorAlbertos/BreadcrumbsView) - A customizable Android view for paginated forms
+* [shuhart/StepView](https://github.com/shuhart/StepView) - A simple animated step view for Android. Backward and forward animations is supported.
+* [vipulasri/Timeline-View](https://github.com/vipulasri/Timeline-View) - Android Timeline View is used to display views like Tracking of shipment/order, steppers etc.
+* [sangcomz/StickyTimeLine](https://github.com/sangcomz/StickyTimeLine) - StickyTimeLine is timeline view for android.
 
 #### 自定义键盘
 * [xuejinwei/NumberKeyboard](https://github.com/xuejinwei/NumberKeyboard) - 仿造android端闲鱼发布选择价格数字键盘，自定义数字键盘
@@ -893,6 +970,17 @@
 * [jenly1314/SpinCounterView](https://github.com/jenly1314/SpinCounterView) - 一个类似于码表变化的旋转计数器动画控件
 * [glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view) - A velocimeter View for Android
 
+#### 屏幕锁控件
+* [aritraroy/PinLockView](https://github.com/aritraroy/PinLockView) - A clean, minimal, highly customizable pin lock view for Android
+* [aritraroy/PatternLockView](https://github.com/aritraroy/PatternLockView) - An easy-to-use, customizable, Material Design ready Pattern Lock view for Android.
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://raw.githubusercontent.com/aritraroy/PatternLockView/master/screenshots/pattern_lock_view_small.gif">
+       <img alt="image" src="https://raw.githubusercontent.com/aritraroy/PatternLockView/master/screenshots/pattern_lock_view_2_small.gif">
+   </details>
+* [lizixian18/AppLock](https://github.com/lizixian18/AppLock) - AppLock应用锁，保护你的隐私。
+* [Nightonke/BlurLockView](https://github.com/Nightonke/BlurLockView) - Lock view with blur effect. Easy to customise.
+   
 #### 翻页效果
 * [eschao/android-PageFlip](https://github.com/eschao/android-PageFlip) - 3D Style Page Flip on Android
 * [openaphid/android-flip](https://github.com/openaphid/android-flip) - 一个在Android上翻转动画的组件，它类似于FrPixiPoe/Android的效果
@@ -903,30 +991,6 @@
    <details><summary><code>效果图</code>🔥🔥</summary>
     <div style="display:flex;">
     <img alt="image" src="https://github.com/DanielMartinus/Stepper-Touch/raw/master/media/demo.gif" width="30%">
-   </details>
- 
- #### 其他自定义效果
-* [transitioner](https://github.com/dev-labs-bg/transitioner) - 动态、简单的View场景切换动画
-   <details><summary><code>效果图</code>🔥🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/dev-labs-bg/transitioner/raw/master/preview1.gif" width="50%">
-   </details>
-* [Konfetti](https://github.com/DanielMartinus/Konfetti) - 轻量五彩纸屑粒子系统
-   <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="30%">
-   </details>
-* [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - 完全自定义实现的下雪效果
-   <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/hotellook-demo.gif" width="30%">
-   </details>
-       
-* [shadow](https://github.com/loopeer/shadow) - 可以替代CardView的自定义阴影 view
-   <details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_color.gif" width="30%">
-    <img alt="image" src="https://github.com/loopeer/shadow/raw/master/screenshot/shadow_foreground.gif" width="30%">
    </details>
    
 *************************************
@@ -943,6 +1007,11 @@
 * [yaowen369/DownloadHelper](https://github.com/yaowen369/DownloadHelper) - 一个支持多线程,断点续传功能的Android下载工具
 * [RxDownload](https://github.com/ssseasonnn/RxDownload) - 基于RxJava的多线程下载工具
 * [lingochamp/okdownload](https://github.com/lingochamp/okdownload) - 可靠，灵活，高性能以及强大的下载引擎。
+
+#### 路由框架
+* [alibaba/ARouter](https://github.com/alibaba/ARouter) - 一个用于帮助 Android App 进行组件化改造的框架 —— 支持模块间的路由、通信、解耦
+* [ssseasonnn/RxRouter](https://github.com/ssseasonnn/RxRouter) - 一个轻量级、简单、智能并且强大的安卓路由库
+* [meituan/WMRouter](https://github.com/meituan/WMRouter) - WMRouter是一款Android路由框架，基于组件化的设计思路，有功能灵活、使用简单的特点。
 
 * [kotterknife](https://github.com/JakeWharton/kotterknife) - 基于ButterKnife 使用 kotlin编写的 Android 依赖注入框架 🔥🔥🔥🔥
 * [koin](https://github.com/Ekito/koin) - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥
