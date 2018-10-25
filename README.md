@@ -496,6 +496,9 @@
 * [SherlockGougou/BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager) - BigImage ImageView ViewPager 支持超长图、超大图的图片浏览器，优化内存，支持手势放大、下拉关闭、查看原图、加载百分比、保存图片等功能
 * [Piasy/BigImageViewer](https://github.com/Piasy/BigImageViewer) - 支持平移和缩放的大图像浏览器，内存占用很少，图像加载选择充分。由亚采样缩放图像视图，Fresco，滑翔，和毕加索。即使有GIF和WebP支持！
 * [iielse/ImageWatcher](https://github.com/iielse/ImageWatcher) - 高仿微信预览图片可拖拽返回
+* [githubwing/DragPhotoView](https://github.com/githubwing/DragPhotoView) - 高仿微信可拖拽返回PhotoView
+* [alexvasilkov/GestureViews](https://github.com/alexvasilkov/GestureViews) - ImageView and FrameLayout with gestures control and position animation
+* [saket/Flick](https://github.com/saket/Flick) - 仿微信预览图片可拖拽返回
 
 #### 图片压缩相关
 * [Curzibn/Luban（推荐）](https://github.com/Curzibn/Luban)
@@ -701,6 +704,7 @@
 ### ViewPager相关
 [back to top](#readme)
 * [alibaba/UltraViewPager](https://github.com/alibaba/UltraViewPager) - UltraViewPager是一个封装多种特性的ViewPager，主要是为多页面切换场景提供统一解决方案。
+* [tommybuonomo/dotsindicator](https://github.com/tommybuonomo/dotsindicator) - Three material Dots Indicators for view pagers in Android !
 * [LillteZheng/ViewPagerHelper](https://github.com/LillteZheng/ViewPagerHelper) - 这个一个 viewpager 工具类，能够帮你快速实现导航栏轮播图，app引导页，viewpager + fragment；内置多种tab指示器，让你告别 viewpager 的繁琐操作，专注逻辑功能
    <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
@@ -780,11 +784,15 @@
 [back to top](#readme) 
 #### 验证码效果
 * [glomadrian/material-code-input](https://github.com/glomadrian/material-code-input) - A material style input for codes
+* [jineshfrancs/CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) - 图片验证码
+* [mcxtzhang/SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) -  Android 平台的滑动验证码
+
 #### 点赞收藏效果
 * [wajahatkarim3/MediumClap-Android](https://github.com/wajahatkarim3/MediumClap-Android) - 基于Kotlin实现的点赞效果
 * [UFreedom/FloatingView](https://github.com/UFreedom/FloatingView) - FloatingView can make the target view floating above the anchor view with cool animation
 
 #### RatingBar效果
+* [DreaminginCodeZH/MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar) - Material Design RatingBar with better appearance
 * [ome450901/SimpleRatingBar](https://github.com/ome450901/SimpleRatingBar) - A simple RatingBar that you can easier customized image and animations
 
 #### 自定义RecyclerViewLayoutManager
@@ -853,6 +861,7 @@
 * [MZCretin/ExpandableTextView](https://github.com/MZCretin/ExpandableTextView) - 实现类似微博内容，@用户，链接高亮，@用户和链接可点击跳转，可展开和收回的TextView
 * [Chen-Sir/ExpandableTextView](https://github.com/Chen-Sir/ExpandableTextView) - 可以扩展和折叠的Android TextView。
 * [Bakumon/NumberAnimTextView](https://github.com/Bakumon/NumberAnimTextView) - 数字增加和降低动画 TextView
+* [robinhood/ticker](https://github.com/robinhood/ticker) - An Android text view with scrolling text change animation
    
 #### 跑马灯效果
 * [gongwen/MarqueeViewLibrary](https://github.com/gongwen/MarqueeViewLibrary) - 一个帮您快速实现跑马灯效果的library
@@ -878,6 +887,7 @@
 #### 自定义键盘
 * [xuejinwei/NumberKeyboard](https://github.com/xuejinwei/NumberKeyboard) - 仿造android端闲鱼发布选择价格数字键盘，自定义数字键盘
 * [onlyloveyd/LazyKeyboard](https://github.com/onlyloveyd/LazyKeyboard) - 字母，符号，数字&自定义安全键盘
+* [w446108264/XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) - 最良心的开源表情键盘解决方案。
 
 #### 仪表盘效果
 * [jenly1314/SpinCounterView](https://github.com/jenly1314/SpinCounterView) - 一个类似于码表变化的旋转计数器动画控件
