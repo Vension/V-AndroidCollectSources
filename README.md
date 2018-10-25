@@ -267,35 +267,35 @@
 * [scwang90/SmartRefreshLayout（推荐）](https://github.com/scwang90/SmartRefreshLayout)
 * [bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)
 * [maning0303/MNSwipeToLoadDemo](https://github.com/maning0303/MNSwipeToLoadDemo)
-* [liaoinstan/SpringView](https://github.com/liaoinstan/SpringView) - SpringView 是一个提供了上下拖拽的功能组件，能够进行高度自定义，实现各种下拉\上拉动画效果，demo里实现了：仿阿里旅行、仿美团，仿QQ下拉刷红包，仿acfun等，完全兼容源生控件如ListView、RecyclerView、ScrollView、WebView等，使用简单，轻易定制自己风格的拖拽页面 
-<details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212462800.gif" width="30%">
+* [liaoinstan/SpringView](https://github.com/liaoinstan/SpringView) - SpringView 是一个提供了上下拖拽的功能组件，能够进行高度    自定义，实现各种下拉\上拉动画效果，demo里实现了：仿阿里旅行、仿美团，仿QQ下拉刷红包，仿acfun等
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+     <div style="display:flex;">
+       <img alt="image" src="https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212462800.gif" width="30%">
        <img alt="image" src="https://github.com/liaoinstan/SpringView/blob/master/screenshot/1459212517801.gif" width="30%">
        <img alt="image" src="https://github.com/liaoinstan/SpringView/blob/master/screenshot/weixin_header.gif" width="30%">
- </details>
-* [XRecyclerView/XRecyclerView](https://github.com/XRecyclerView/XRecyclerView) - a RecyclerView that implements pullrefresh and loadingmore featrues.you can use it like a standard RecyclerView
-* [zhou-you/EasyXRecyclerView](https://github.com/zhou-you/EasyXRecyclerView) - 主要提供了简单易用强大的RecyclerView库，包括自定义刷新加载效果、极简通用的万能适配器Adapter、万能分割线、多种分组效果、常见状态页面、item动画效果、添加多个header和footer、侧滑、拖拽、Sticky（黏性）效果、多item布局等,各模块之间灵活、解耦、通用、又能相互组合使用。
+  </details>
+* [XRecyclerView/XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)
+* [zhou-you/EasyXRecyclerView](https://github.com/zhou-you/EasyXRecyclerView) - 主要提供了简单易用强大的RecyclerView库，包括    自定义刷新加载效果、极简通用的万能适配器Adapter、万能分割线、多种分组效果、常见状态页面、item动画效果、添加多个header和footer、    侧滑、拖拽、Sticky（黏性）效果、多item布局等,各模块之间灵活、解耦、通用、又能相互组合使用。
 
 ************************************
 ### adapter适配器
 [back to top](#readme) 
 * [CymChad/BaseRecyclerViewAdapterHelper（推荐）](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 * [crazysunj/MultiTypeRecyclerViewAdapter](https://github.com/crazysunj/MultiTypeRecyclerViewAdapter)
-<details><summary><code>效果图</code>🔥🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/crazysunj/crazysunj.github.io/blob/master/img/adapterHelper10.gif" width="50%">
- </details> 
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+     <div style="display:flex;">
+       <img alt="image" src="https://github.com/crazysunj/crazysunj.github.io/blob/master/img/adapterHelper10.gif" width="50%">
+    </details> 
 * [MEiDIK/SlimAdapter](https://github.com/MEiDIK/SlimAdapter)
 * [drakeet/MultiType](https://github.com/drakeet/MultiType)
-  <details><summary><code>效果图</code>🔥🔥🔥</summary>
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
     <img alt="image" src="https://github.com/drakeet/MultiType/blob/3.x/art/screenshot-normal.png" width="30%">
     <img alt="image" src="https://github.com/drakeet/MultiType/blob/3.x/art/screenshot-bilibili.png" width="30%">
     <img alt="image" src="https://github.com/drakeet/MultiType/blob/3.x/art/screenshot-multigrid.png" width="30%">
-   </details>
+    </details>
 * [LastAdapter](https://github.com/nitrico/LastAdapter) - 不需再写RecyclerView 的 adapter 和 ViewHolder 🔥🔥🔥
-* [tianzhijiexian/CommonAdapter](https://github.com/tianzhijiexian/CommonAdapter) - 通过封装BaseAdapter和RecyclerView.Adapter得到的通用的，简易的Adapter
+* [tianzhijiexian/CommonAdapter](https://github.com/tianzhijiexian/CommonAdapter) - 通过封装BaseAdapter和    RecyclerView.Adapter得到的通用的，简易的Adapter
    <details><summary><code>效果图</code>🔥🔥🔥</summary>
      <div style="display:flex;">
       <img alt="image" src="https://github.com/tianzhijiexian/CommonAdapter/blob/master/demo/ios_demo.png" width="50%">
@@ -320,7 +320,7 @@
 * [垂直纵向的TabLayout,qstumn/VerticalTabLayout](https://github.com/qstumn/VerticalTabLayout)
 * [armcha/Space-Navigation-View](https://github.com/armcha/Space-Navigation-View)
 * [ittianyu/BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx) - 一个增强BottomNavigationView的安卓库
- <details><summary><code>效果图</code>🔥🔥🔥</summary>
+  <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
     <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/no_animation.gif" width="30%">
     <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/center_fab.jpg" width="30%">
@@ -428,7 +428,7 @@
       <img alt="image" src="https://github.com/steelkiwi/cropiwa/blob/master/assets/3J8gYWC.gif" width="30%">
     </details>
 * [jdamcd/android-crop](https://github.com/jdamcd/android-crop) - Android library project for cropping images
- <details><summary><code>效果图</code>🔥🔥🔥</summary>
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
     <img alt="image" src="https://github.com/jdamcd/android-crop/blob/master/screenshot.png" width="30%">
    </details>
@@ -444,12 +444,12 @@
 * [pruas/Biscuit](https://github.com/pruas/Biscuit) - 一款Android 便捷高效图片压缩库，更多自定义，灵活配置，缩放部分逆向微信朋友圈压缩效果推算得来，效果非常接近！
 #### 水印涂鸦功能
 * [jarlen/PhotoEdit](https://github.com/jarlen/PhotoEdit) - For Android studio 图片处理 1、图片编辑(图片添加，文字添加)，实现图片编辑中的图片添加，旋转，缩放，删除；文字的添加，大小缩放，字体更换，颜色更换，删除； 2，基本滤镜实现与接口封装； 涂鸦(画笔的样式，粗细，颜色，橡皮擦，贴图)； 相框(简单相框，酷炫相框)； 马赛就克(基本马赛克，酷炫马赛克，橡皮擦)及其接口封装 3，接下来， 图像剪切，旋转等功能实现测试接口封装
-<details><summary><code>效果图</code>🔥🔥🔥</summary>
+  <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
        <img alt="image" src="https://github.com/jarlen/PhotoEdit/blob/master/app/snapshot/device-2016-10-10-092603.png" width="30%">
        <img alt="image" src="https://github.com/jarlen/PhotoEdit/blob/master/app/snapshot/device-2016-10-10-092630.png" width="30%">
        <img alt="image" src="https://github.com/jarlen/PhotoEdit/blob/master/app/snapshot/device-2016-10-10-093013.png" width="30%">
- </details>
+  </details>
 * [huangyz0918/AndroidWM](https://github.com/huangyz0918/AndroidWM) - 一个轻量级的 Android 图片水印框架，支持隐形数字水印。
 * [1993hzw/Doodle](https://github.com/1993hzw/Doodle) - Android图片涂鸦，具有撤消，缩放，移动，添加文字，贴图等功能。还是一个功能强大，可自定义和可扩展的涂鸦框架、多功能画板
 * [kareluo/Imaging](https://github.com/kareluo/Imaging) - Android Image Edit Lib. Android 图片编辑库，微信图片编辑库
@@ -458,10 +458,10 @@
 * [kikoso/android-stackblur](https://github.com/kikoso/android-stackblur) - Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.
 #### 长图大图效果
 * [LuckyJayce/LargeImage](https://github.com/LuckyJayce/LargeImage) - Android 加载大图 可以高清显示10000*10000像素的图片，轻松实现微博长图功能
- <details><summary><code>效果图</code>🔥🔥🔥</summary>
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
        <img alt="image" src="https://github.com/LuckyJayce/LargeImage/blob/master/raw/demo.gif" width="50%">
- </details>
+   </details>
 * [davemorrissey/subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) - Android library (AAR). Highly configurable, easily extendable deep zoom view for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.
    
 ************************************
@@ -482,7 +482,7 @@
 * [仿ios选择器 Android-AlertView](https://github.com/saiwu-bigkoo/Android-AlertView)
 * [pedant/sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)
 * [Nightonke/BoomMenu](https://github.com/Nightonke/BoomMenu) - A menu which can ... BOOM! - Android
-  <details><summary><code>效果图</code>🔥🔥🔥</summary>
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
        <img alt="image" src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/text-inside-button.gif" width="30%">
        <img alt="image" src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/ham-button.gif" width="30%">
@@ -492,12 +492,12 @@
     <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
        <img alt="image" src="https://raw.githubusercontent.com/afollestad/material-dialogs/master/art/showcase20.jpg" width="100%">
- </details>
+  </details>
 * [linroid/FilterMenu](https://github.com/linroid/FilterMenu) - An implemention of Filter Menu concept for android 
    <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
        <img alt="image" src="https://github.com/linroid/FilterMenu/blob/master/screenshots/device-2015-03-12-215100.png" width="30%">
- </details>
+  </details>
        
 ************************************
 ### Popwindow相关
@@ -600,7 +600,7 @@
           <img alt="image" src="https://github.com/AlexLiuSheng/CheckVersionLib/blob/master/gif/V2.gif" width="40%">
     </details>
 * [yangchong211/YCUpdateApp](https://github.com/yangchong211/YCUpdateApp) - 轻量级版本更新弹窗，弹窗上支持更新进度条，可以设置普通，强制等更新
- <details><summary><code>效果图</code>🔥</summary>
+   <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
         <img alt="image" src="https://github.com/yangchong211/YCUpdateApp/blob/master/image/1001.jpg" width="30%">
           <img alt="image" src="https://github.com/yangchong211/YCUpdateApp/blob/master/image/1002.jpg" width="30%">
@@ -635,23 +635,23 @@
 ### ViewPager相关
 * [alibaba/UltraViewPager](https://github.com/alibaba/UltraViewPager) - UltraViewPager是一个封装多种特性的ViewPager，主要是为多页面切换场景提供统一解决方案。
 * [LillteZheng/ViewPagerHelper](https://github.com/LillteZheng/ViewPagerHelper) - 这个一个 viewpager 工具类，能够帮你快速实现导航栏轮播图，app引导页，viewpager + fragment；内置多种tab指示器，让你告别 viewpager 的繁琐操作，专注逻辑功能
- <details><summary><code>效果图</code>🔥</summary>
+   <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
           <img alt="image" src="https://raw.githubusercontent.com/LillteZheng/ViewPagerHelper/master/gif/loop_scale.gif" width="30%">
          <img alt="image" src="https://raw.githubusercontent.com/LillteZheng/ViewPagerHelper/master/gif/loop_arc.gif" width="30%">
          <img alt="image" src="https://raw.githubusercontent.com/LillteZheng/ViewPagerHelper/master/gif/loop_line.gif" width="30%">
-  </details>
+   </details>
 * [Nightonke/WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - Combine ViewPager and Animations to provide a simple way to create applications' guide pages.
    <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
           <img alt="image" src="https://github.com/Nightonke/WoWoViewPager/blob/master/Pictures/GuidePage1.gif" width="50%">
           <img alt="image" src="https://github.com/Nightonke/WoWoViewPager/blob/master/Pictures/GuidePage2.gif" width="50%">
-  </details>
+   </details>
 * [githubwing/ExpandableViewpager](https://github.com/githubwing/ExpandableViewpager) - A Cool Viewpager ~ 可以展开缩放的Viewpager
-  <details><summary><code>效果图</code>🔥</summary>
+   <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
           <img alt="image" src="https://raw.githubusercontent.com/githubwing/ExpandableViewpager/master/img.gif" width="50%">
-  </details>
+   </details>
 * [qs-lll/ExpandingPager](https://github.com/qs-lll/ExpandingPager) - ExpandingPager is a card peek/pop controller
 * [tommybuonomo/creative-viewpager](https://github.com/tommybuonomo/creative-viewpager) - Creative View Pager easy to use in Android
       <details><summary><code>效果图</code>🔥</summary>
@@ -662,14 +662,14 @@
      <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
           <img alt="image" src="https://github.com/crazysunj/crazysunj.github.io/blob/master/img/vp_card5.gif" width="50%">
-  </details>
+   </details>
 * [JakeWharton/ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator) - Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
 * [ronaldsmartin/Material-ViewPagerIndicator](https://github.com/ronaldsmartin/Material-ViewPagerIndicator) - Dot-based Android ViewPager indicator with Material Design animations. 
 * [rbro112/Android-Indefinite-Pager-Indicator](https://github.com/rbro112/Android-Indefinite-Pager-Indicator) - A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & ViewPagers.
      <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
           <img alt="image" src="https://github.com/rbro112/Android-Indefinite-Pager-Indicator/blob/master/readme_assets/preview.gif" width="50%">
-  </details>
+   </details>
 * [hackware1993/MagicIndicator](https://github.com/hackware1993/MagicIndicator) - 强大、可定制、易扩展的 ViewPager 指示器框架。是ViewPagerIndicator、TabLayout、PagerSlidingTabStrip的最佳替代品。支持角标，更支持在非ViewPager场景下使用（使用hide()、show()切换Fragment或使用setVisibility切换FrameLayout里的View等
     <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
@@ -702,11 +702,11 @@
 
 #### 日历控件
 * [xiaojianglaile/Calendar](https://github.com/xiaojianglaile/Calendar) - Android日历 仿小米 华为 滴答清单 365日历（农历），周视图 月视图 平滑滚动 节假日 五六行周切换 week or month calendar
-<details><summary><code>效果图</code>🔥</summary>
+   <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
           <img alt="image" src="https://github.com/xiaojianglaile/Calendar/blob/master/raw/jeek_image_1.gif" width="50%">
          <img alt="image" src="https://github.com/xiaojianglaile/Calendar/blob/master/raw/jeek_image_2.png" width="50%">
-  </details>
+   </details>
 * [仿小米，日历NCalendar](https://github.com/yannecer/NCalendar)
 * [maning0303/MNCalendar](https://github.com/maning0303/MNCalendar)
 * [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView)
@@ -739,7 +739,7 @@
 #### TextView处理
 * [lygttpod/SuperTextView](https://github.com/lygttpod/SuperTextView)
 * [chenBingX/SuperTextView（推荐）](https://github.com/chenBingX/SuperTextView)
- <details><summary><code>效果图</code>🔥🔥🔥</summary>
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
     <img alt="image" src="https://camo.githubusercontent.com/7c9efe479c88360e69a53a159fd2921ec4b3af4e/68747470733a2f2f67772e616c6963646e2e636f6d2f7466732f5442314a4550537248395942754e6a7930466758586378635858612d313139352d3632322e676966">
    </details>
