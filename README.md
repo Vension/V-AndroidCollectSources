@@ -531,10 +531,10 @@
 * [Werb/MediaUtils](https://github.com/Werb/MediaUtils)
 * [pqpo/SmartCamera](https://github.com/pqpo/SmartCamera) - 一个 Android 相机拓展库，能够实时采集并且识别相机内物体边框是否吻合指定区域。
 * [wildma/IDCardCamera](https://github.com/wildma/IDCardCamera) - Android自定义相机实现身份证拍照，并加入自动对焦与图片不规则裁剪
-    <details><summary><code>效果图</code>🔥🔥🔥</summary>
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
        <img alt="image" src="https://github.com/wildma/IDCardCamera/blob/master/screenshots/screenshot.jpg" width="80%">
- </details>
+   </details>
 * [weizongwei5/AndroidScreenShot_SysApi](https://github.com/weizongwei5/AndroidScreenShot_SysApi) - 非常优雅的方案实现屏幕截图，利用android 5.0之后的录屏API实现截屏。
 * [algolia/voice-overlay-android](https://github.com/algolia/voice-overlay-android) - (录音效果)An overlay that gets your user’s voice permission and input as text in a customizable UI 
 * [RedApparat/Fotoapparat](https://github.com/RedApparat/Fotoapparat) - Making Camera for Android more friendly.
@@ -789,7 +789,7 @@
 
 #### 自定义RecyclerViewLayoutManager
 * [DingMouRen/LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup) - Customize the LayoutManager of RecyclerView(自定义LayoutManager)
-<details><summary><code>效果图</code>🔥</summary>
+   <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
           <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img1.gif" width="30%">
           <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img2.gif" width="30%">
@@ -799,7 +799,7 @@
           <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img6.gif" width="30%">
   </details>
 * [wuyr/PathLayoutManager](https://github.com/wuyr/PathLayoutManager) - RecyclerView的LayoutManager，轻松实现各种炫酷、特殊效果，再也不怕产品经理为难！
-<details><summary><code>效果图</code>🔥</summary>
+   <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
           <img alt="image" src="https://raw.githubusercontent.com/wuyr/PathLayoutManager/master/previews/preview.gif" width="30%">
           <img alt="image" src="https://raw.githubusercontent.com/wuyr/PathLayoutManager/master/previews/preview4.gif" width="30%">
