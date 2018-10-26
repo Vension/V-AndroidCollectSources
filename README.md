@@ -334,6 +334,13 @@
 ### adapter适配器
 [back to top](#readme) 
 * [CymChad/BaseRecyclerViewAdapterHelper（推荐）](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+* [wuhenzhizao/kotlin-adapter](https://github.com/wuhenzhizao/kotlin-adapter) - RecyclerView，AbsListView适配器, 支持多种视图样式, 支持吸顶、侧滑删除、拖拽效果
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+     <div style="display:flex;">
+       <img alt="image" src="https://github.com/wuhenzhizao/kotlin-adapter/blob/master/screenshots/20171220_221506.gif" width="30%">
+        <img alt="image" src="https://github.com/wuhenzhizao/kotlin-adapter/blob/master/screenshots/20171220_221813.gif" width="30%">
+        <img alt="image" src="https://github.com/wuhenzhizao/kotlin-adapter/blob/master/screenshots/20171220_222633.gif" width="30%">
+    </details> 
 * [crazysunj/MultiTypeRecyclerViewAdapter](https://github.com/crazysunj/MultiTypeRecyclerViewAdapter)
    <details><summary><code>效果图</code>🔥🔥🔥</summary>
      <div style="display:flex;">
@@ -580,6 +587,7 @@
     <div style="display:flex;">
        <img alt="image" src="https://github.com/linroid/FilterMenu/blob/master/screenshots/device-2015-03-12-215100.png" width="30%">
    </details>
+* [wuhenzhizao/android-sku](https://github.com/wuhenzhizao/android-sku) - Android Sku属性选择器, 类似于淘宝，天猫，京东，支持MVVM，直接使用
        
 ************************************
 ### Popwindow相关
