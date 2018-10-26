@@ -812,12 +812,12 @@
     <img alt="image" src="https://github.com/DanielMartinus/Konfetti/raw/master/media/konfetti_demo.gif" width="30%">
    </details>
 * [android-snowfall](https://github.com/JetradarMobile/android-snowfall) - 完全自定义实现的下雪效果
-   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+   <details><summary><code>效果图</code></summary>
     <div style="display:flex;">
     <img alt="image" src="https://raw.githubusercontent.com/JetradarMobile/android-snowfall/master/art/hotellook-demo.gif" width="30%">
    </details>
 * [glomadrian/Grav](https://github.com/glomadrian/Grav) - Configurable animations based on points
-     <details><summary><code>效果图</code>🔥🔥🔥</summary>
+     <details><summary><code>效果图</code></summary>
     <div style="display:flex;">
       <img alt="image" src="https://github.com/glomadrian/Grav/blob/master/art/wave.gif" width="30%">
        <img alt="image" src="https://github.com/glomadrian/Grav/blob/master/art/login.gif" width="30%">
@@ -825,6 +825,13 @@
    </details>
 * [yyued/SVGAPlayer-Android](https://github.com/yyued/SVGAPlayer-Android) - 使用 SVGAPlayer 在 Android、iOS、Web中播放 After Effects / Animate CC (Flash) 动画。
 * [florent37/KotlinPleaseAnimate](https://github.com/florent37/KotlinPleaseAnimate) - A Kotlin way to declare and run beautiful animations
+* [varunest/TheGlowingLoader](https://github.com/varunest/TheGlowingLoader) - GooLoopLoad是高度可配置的库，用于指示进度，并且是为Android平台原创性创建的。这是一个由Shashank Sahay设计的实现。
+    <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/varunest/TheGlowingLoader/blob/master/art/default.gif" width="30%">
+       <img alt="image" src="https://github.com/varunest/TheGlowingLoader/blob/master/art/black_green.gif" width="30%">
+       <img alt="image" src="https://github.com/varunest/TheGlowingLoader/blob/master/art/grey_blue.gif" width="30%">
+   </details>  
         
 ************************************
 ### 阴影效果
