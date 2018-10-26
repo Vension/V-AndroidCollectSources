@@ -73,6 +73,7 @@
 * [图片处理相关](#图片处理相关)
     * [圆形圆角图片](#圆形圆角图片)
     * [图片预览效果](#图片预览效果)
+    * [九宫格效果](#九宫格效果)
     * [水印涂鸦功能](#水印涂鸦功能)
     * [图片压缩相关](#图片压缩相关)
     * [高斯模糊效果](#高斯模糊效果)
@@ -129,6 +130,7 @@
    * [自定义键盘](#自定义键盘)
    * [屏幕锁控件](#屏幕锁控件)
    * [仪表盘效果](#仪表盘效果)
+   * [自定义歌词控件](#自定义歌词控件)
    * [翻页效果](#翻页效果)
    
 * [工具相关](#工具相关)
@@ -420,6 +422,7 @@
 * [AndPermission](https://github.com/yanzhenjie/AndPermission)
 * [Kovenant](https://github.com/mplatvoet/kovenant) - Kotlin 的 Promises 库
 * [QuickPermissions/QuickPermissions](https://github.com/QuickPermissions/QuickPermissions) - The most easiest way to handle Android Runtime Permissions
+* [permissions-dispatcher/PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions.
 
 ************************************
 ### Android侧滑返回
@@ -522,6 +525,22 @@
 * [alexvasilkov/GestureViews](https://github.com/alexvasilkov/GestureViews) - ImageView and FrameLayout with gestures control and position animation
 * [saket/Flick](https://github.com/saket/Flick) - 仿微信预览图片可拖拽返回
 
+#### 九宫格效果
+* [jeasonlzy/NineGridView](https://github.com/jeasonlzy/NineGridView) - 类似QQ空间，微信朋友圈，微博主页等，展示图片的九宫格控件，自动根据图片的数量确定图片大小和控件大小，使用Adapter模式设置图片，对外提供接口回调，使用接口加载图片,支持任意的图片加载框架,如 Glide,ImageLoader,Fresco,xUtils3,Picasso 等，支持点击图片全屏预览大图。
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/jeasonlzy/Screenshots/blob/master/NineGridView/demo10.gif" width="30%">
+       <img alt="image" src="https://github.com/jeasonlzy/Screenshots/blob/master/NineGridView/demo12.png" width="30%">
+       <img alt="image" src="https://github.com/jeasonlzy/Screenshots/blob/master/NineGridView/demo3.png" width="30%">
+  </details>
+* [Naoki2015/CircleDemo](https://github.com/Naoki2015/CircleDemo) - 仿微信(weixin wechat)实现的朋友圈，模拟与后台交互实现了点赞、评论、删除等功能，RecyclerView可以根据键盘的显示或隐藏实现联动。增加短视频拍摄功能，与后台交互采用mvp模式。关键字：wechat weixin 微信朋友圈
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/Naoki2015/CircleDemo/blob/master/CircleDemo/imgs/1.png" width="30%">
+       <img alt="image" src="https://github.com/Naoki2015/CircleDemo/blob/master/CircleDemo/imgs/2.png" width="30%">
+       <img alt="image" src="https://github.com/Naoki2015/CircleDemo/blob/master/CircleDemo/imgs/3.png" width="30%">
+  </details>
+      
 #### 图片压缩相关
 * [Curzibn/Luban（推荐）](https://github.com/Curzibn/Luban)
 * [Sunzxyong/Tiny](https://github.com/Sunzxyong/Tiny)
@@ -994,10 +1013,6 @@
 * [onlyloveyd/LazyKeyboard](https://github.com/onlyloveyd/LazyKeyboard) - 字母，符号，数字&自定义安全键盘
 * [w446108264/XhsEmoticonsKeyboard](https://github.com/w446108264/XhsEmoticonsKeyboard) - 最良心的开源表情键盘解决方案。
 
-#### 仪表盘效果
-* [jenly1314/SpinCounterView](https://github.com/jenly1314/SpinCounterView) - 一个类似于码表变化的旋转计数器动画控件
-* [glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view) - A velocimeter View for Android
-
 #### 屏幕锁控件
 * [aritraroy/PinLockView](https://github.com/aritraroy/PinLockView) - A clean, minimal, highly customizable pin lock view for Android
 * [aritraroy/PatternLockView](https://github.com/aritraroy/PatternLockView) - An easy-to-use, customizable, Material Design ready Pattern Lock view for Android.
@@ -1008,6 +1023,23 @@
    </details>
 * [lizixian18/AppLock](https://github.com/lizixian18/AppLock) - AppLock应用锁，保护你的隐私。
 * [Nightonke/BlurLockView](https://github.com/Nightonke/BlurLockView) - Lock view with blur effect. Easy to customise.
+   
+#### 仪表盘效果
+* [jenly1314/SpinCounterView](https://github.com/jenly1314/SpinCounterView) - 一个类似于码表变化的旋转计数器动画控件
+* [glomadrian/velocimeter-view](https://github.com/glomadrian/velocimeter-view) - A velocimeter View for Android
+
+#### 自定义歌词控件
+* [wangchenyan/lrcview](https://github.com/wangchenyan/lrcview) - Android歌词控件，支持上下拖动歌词，歌词自动换行，自定义属性。
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://raw.githubusercontent.com/wangchenyan/lrcview/master/art/screenshot.gif">
+   </details>
+* [zhengken/LyricViewDemo](https://github.com/zhengken/LyricViewDemo) - LyricView is a powerful and flexible custom view to display lyrics within music player under Android
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/zhengken/LyricViewDemo/blob/master/screenshot/lyricview.png">
+       <img alt="image" src="https://github.com/zhengken/LyricViewDemo/blob/master/screenshot/lyricview.png">
+   </details>
    
 #### 翻页效果
 * [eschao/android-PageFlip](https://github.com/eschao/android-PageFlip) - 3D Style Page Flip on Android
