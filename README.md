@@ -28,6 +28,8 @@
 
 
 ## 目录
+* [学习资料](#学习资料)
+
 * [开发框架](#开发框架)
     * [MVP](#MVP)
     * [MVVM](#MVVM)
@@ -145,6 +147,16 @@
 ```
 点击 ► 展示效果图
 ```
+************************************
+### 学习资料
+* [LyndonChin/kotlin-docs-zh](https://github.com/LyndonChin/kotlin-docs-zh) - 为了彻底掌握 Kotlin 语法，花了好几个月把官方文档翻译了一遍
+* [MindorksOpenSource/from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
+* [Freelander/Android_Data](https://github.com/Freelander/Android_Data) - Android 学习资料收集
+* [linsir6/AndroidNote](https://github.com/linsir6/AndroidNote) - Android基础知识、Android进阶知识、Android自定义View相关、面试相关的知识，欢迎fork，star～
+* [JsonChao/Awesome-Android-Interview](https://github.com/JsonChao/Awesome-Android-Interview) - 从十几份顶级面试仓库和200多篇高质量面经中总结出一份全面而详尽的Android面试题集。
+* [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) - Spring Boot教程 http://blog.didispace.com
+* [paascloud/paascloud-master](https://github.com/paascloud/paascloud-master) - spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。
+* [UCodeUStory/DataStructure](https://github.com/UCodeUStory/DataStructure) - 数据结构、算法总结、学习算法的时间复杂度、空间复杂度、分析算法特点以及应用、Java面试难题、Android面试难题
 
 ************************************
 ### 开发框架
@@ -370,6 +382,9 @@
 [back to top](#readme) 
 * [youth5201314/banner](https://github.com/youth5201314/banner)
 * [bingoogolapple/BGABanner-Android（推荐）](https://github.com/bingoogolapple/BGABanner-Android)
+* [Bigkoo/Android-ConvenientBanner](https://github.com/Bigkoo/Android-ConvenientBanner) - Simple and convenient banner, loop viewpager with 3D effects
+* [xiaohaibin/XBanner](https://github.com/xiaohaibin/XBanner) - 【图片轮播】支持图片无限轮播，支持自定义指示点、显示提示文字、切换动画、自定义布局，一屏显示多个等
+* [pinguo-zhouwei/MZBannerView](https://github.com/pinguo-zhouwei/MZBannerView) - 仿魅族BannerView,图片轮播控件,支持多种模式切换：普通ViewPager使用，普通Banner使用，仿魅族Banner使用。
 
 **********************************
 ### 通用标题栏
@@ -397,7 +412,23 @@
    </details>
 * [Yalantis/Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android) - Side menu with some categories to choose. 
 * [tommybuonomo/morph-bottom-navigation](https://github.com/tommybuonomo/morph-bottom-navigation) - This library represents a Bottom Navigation with an awesome morph effect on top of the selected item
-
+* [yingLanNull/AlphaTabsIndicator](https://github.com/yingLanNull/AlphaTabsIndicator) - 高仿微信底部状态栏的轻量级库，
+* [mehrtarh/CircleButtonBar](https://github.com/mehrtarh/CircleButtonBar) - CircleBottomBar library for Android(中间圆形凸起)  
+    <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+      <img alt="image" src="https://github.com/mehrtarh/CircleButtonBar/blob/master/app/src/main/res/drawable/bottom_bar.png" width="50%">
+   </details>
+* [10clouds/FluidBottomNavigation-android](https://github.com/10clouds/FluidBottomNavigation-android) - Android流体底层导航库 
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+      <img alt="image" src="https://github.com/10clouds/FluidBottomNavigation-android/blob/master/static/sample.gif">
+   </details>
+* [Hamadakram/JustBar](https://github.com/Hamadakram/JustBar) - Just a bar
+    <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+      <img alt="image" src="https://github.com/Hamadakram/JustBar/blob/master/art/banner.gif">
+   </details>
+      
 ************************************
 ### 侧滑菜单
 [back to top](#readme) 
