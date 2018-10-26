@@ -113,6 +113,7 @@
    * [背景渐变效果](#背景渐变效果)
    * [水波纹效果](#水波纹效果)
    * [自定义RecyclerViewLayoutManager](#自定义RecyclerViewLayoutManager)
+   * [自定义shape效果](#自定义shape效果)
    * [日历控件](#日历控件)
    * [加载动画](#加载动画)
    * [流式布局](#流式布局)
@@ -577,6 +578,7 @@
        <img alt="image" src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/ham-button.gif" width="30%">
        <img alt="image" src="https://github.com/Nightonke/BoomMenu/blob/master/Pictures/actionbar-example.gif" width="30%">
    </details>
+* [ogaclejapan/ArcLayout](https://github.com/ogaclejapan/ArcLayout) - A very simple arc layout library for Android
 * [afollestad/material-dialogs](https://github.com/afollestad/material-dialogs) - A beautiful and fluid dialogs API for Kotlin & Android
     <details><summary><code>效果图</code>🔥🔥🔥</summary>
       <div style="display:flex;">
@@ -891,6 +893,24 @@
           <img alt="image" src="https://raw.githubusercontent.com/wuyr/PathLayoutManager/master/previews/preview7.gif" width="30%">
   </details>
 
+#### 自定义shape效果
+* [JavaNoober/BackgroundLibrary](https://github.com/JavaNoober/BackgroundLibrary) - 通过标签直接生成shape，无需再写shape.xml
+    <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://raw.githubusercontent.com/JavaNoober/BackgroundLibrary/master/test/gif.gif" width="50%">
+   </details>
+* [duanhong169/DrawableToolbox](https://github.com/duanhong169/DrawableToolbox) - 功能完备的Drawable工具箱，通过代码构建种类多样的Drawable，摆脱枯燥重复的drawable.xml文件。
+   <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/duanhong169/DrawableToolbox/blob/master/art/screen-video-1.gif" width="30%">
+          <img alt="image" src="https://github.com/duanhong169/DrawableToolbox/blob/master/art/screen-video-2.gif" width="30%">
+   </details>
+* [michaelxs/Android-CommonShapeButton](https://github.com/michaelxs/Android-CommonShapeButton) - 自定义实现shape效果
+    <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/michaelxs/Android-CommonShapeButton/blob/master/screenshots/show.gif" width="30%">
+   </details>
+       
 #### 日历控件
 * [xiaojianglaile/Calendar](https://github.com/xiaojianglaile/Calendar) - Android日历 仿小米 华为 滴答清单 365日历（农历），周视图 月视图 平滑滚动 节假日 五六行周切换 week or month calendar
    <details><summary><code>效果图</code>🔥</summary>
