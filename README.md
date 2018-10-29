@@ -201,6 +201,13 @@
 ### 优秀完整项目
 [back to top](#readme)
 #### WanAndroid系列  
+* [leiyun1993/WanAndroid](https://github.com/leiyun1993/WanAndroid) - 基于玩安卓开放api的App
+    <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+      <img alt="image" src="https://raw.githubusercontent.com/leiyun1993/WanAndroid/master/screenshot/11.png" width="30%">
+       <img alt="image" src="https://github.com/leiyun1993/WanAndroid/raw/master/screenshot/1.png" width="30%">
+        <img alt="image" src="https://raw.githubusercontent.com/leiyun1993/WanAndroid/master/screenshot/2.png" width="30%">
+     </details>
 * [jenly1314/WanAndroid](https://github.com/jenly1314/WanAndroid) - 基于Architecture Components dependencies （Lifecycles，LiveData，ViewModel，Room）的WanAndroid开源项目
      <details><summary><code>效果图</code></summary>
      <div style="display:flex;">
@@ -1121,6 +1128,7 @@
 
 ************************************
 ### Flutter相关
+* [hurshi/wanandroid](https://github.com/hurshi/wanandroid) - 一款使用Flutter编写的，Material Design风格的WanAndroid客户端
 * [OpenFlutter/Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) - 日更的FlutterDemo合集，今天你fu了吗
 * [HackSoul/zhihu-flutter](https://github.com/HackSoul/zhihu-flutter) - Flutter 高仿知乎 UI，非常漂亮，也非常流畅，flutter build apk 或 flutter build ios 之后更流畅
 * [canhuah/WanAndroid-Flutter](https://github.com/canhuah/WanAndroid-Flutter) - Flutter版WanAndroid客户端 适合Flutter入门学习
