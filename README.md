@@ -121,6 +121,7 @@
    * [加载动画](#加载动画)
    * [流式布局](#流式布局)
    * [FloatButton](#FloatButton)
+   * [item侧滑删除](#item侧滑删除)
    * [富文本相关](#富文本相关)
    * [微章控件](#微章控件)
    * [TextView处理](#TextView处理)
@@ -861,7 +862,12 @@
 * [xmuSistone/AndroidPileLayout](https://github.com/xmuSistone/AndroidPileLayout) - 一种不规则的水平ListVIEW，具有伸展和收缩效应的桩布局。
 * [Ramotion/cardslider-android](https://github.com/Ramotion/cardslider-android) - CasLoLoad是一种material design设计UI控制器，卡片抽屉滑动动画。
 * [Ramotion/expanding-collection-android](https://github.com/Ramotion/expanding-collection-android) - ExpandingCollection is a material design card peek/pop controller.
-       
+* [githubwing/ZoomHeader](https://github.com/githubwing/ZoomHeader) - 模仿饿了么详情页可以跟随手指移动 viewpager变详情页
+   <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://raw.githubusercontent.com/githubwing/ZoomHeader/master/img.gif" width="50%">
+  </details>
+      
 ************************************
 ### 炫酷动画合集
 [back to top](#readme)
@@ -1035,6 +1041,9 @@
 * [Clans/FloatingActionButton](https://github.com/Clans/FloatingActionButton) - Android Floating Action Button based on Material Design specification
 * [futuresimple/android-floating-action-button](https://github.com/futuresimple/android-floating-action-button) - 基于Design 设计规范的Android浮动操作按钮
 
+#### item侧滑删除
+* [daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) - The Most Powerful Swipe Layout!
+
 #### 富文本相关
 * [CarGuo/RickText](https://github.com/CarGuo/RickText)
 * [limedroid/XRichText](https://github.com/limedroid/XRichText)
@@ -1155,8 +1164,9 @@
 * [koin](https://github.com/Ekito/koin) - 简明实用的 Kotlin 依赖注入框架 🔥🔥🔥
 * [koin](https://github.com/Ekito/koin) - 没有代理，没有代码生成，没有反射；用简洁实用的方式编写依赖注入的轻量库。🔥🔥🔥
 * [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) Activity 启动生成器，更简单的方式传递多个参数 🔥🔥
+* [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - 一个强大易用的安卓工具类库，它合理地封装了安卓开发中常用的函数，具有完善的 Demo 和单元测试，利用其封装好的 APIs 可以大大提高开发效率
+* [yjfnypeu/EasyAndroid](https://github.com/yjfnypeu/EasyAndroid) - 一系列简单、轻量、方便的Android开发工具集合(持续更新中)
 * [vondear/RxTools（推荐）](https://github.com/vondear/RxTools)
-* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
 * [joda-time](https://github.com/JodaOrg/joda-time) - joda-time  日期的替代使用库
 
 ************************************
