@@ -237,7 +237,13 @@
    
 #### 开眼系列
 * [AndyJennifer/SimpleEyes](https://github.com/AndyJennifer/SimpleEyes) - 基于kotlin 仿开眼app
-
+* [KotlinMvp（推荐）](https://github.com/git-xuhao/KotlinMvp) -  基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP
+    <details><summary><code>效果图</code></summary>
+      <div style="display:flex;">
+      <img alt="image" src="https://github.com/git-xuhao/KotlinMvp/raw/master/screenshot/kotlin-mvp-1.gif" width="30%">
+      </div>
+    </details>
+    
 #### Gank妹子系列
 * [wazing/Gank](https://github.com/wazing/Gank) - 干货 - LiveData, ViewModel, Retrofit, RxJava, Dagger2 架构，采用kotlin语言开发，仅用于学习。
 
@@ -267,13 +273,6 @@
       <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_category.jpg" width="30%">
      </div>
    </details>
-
-* [KotlinMvp（推荐）](https://github.com/git-xuhao/KotlinMvp) -  基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP
-    <details><summary><code>效果图</code></summary>
-      <div style="display:flex;">
-      <img alt="image" src="https://github.com/git-xuhao/KotlinMvp/raw/master/screenshot/kotlin-mvp-1.gif" width="30%">
-      </div>
-    </details>
 
 * [GeekNews](https://github.com/codeestX/GeekNews) - Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide
     <details><summary><code>效果图</code></summary>
@@ -324,15 +323,6 @@
     <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
     </div>
    </details>
-
-* [Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - 拍照 APP
-   <details><summary><code>效果图</code>🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
-    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
-    </div>
-   </details>
-
 * [Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - 文件管理器
    <details><summary><code>效果图</code>🔥</summary>
     <div style="display:flex;">
@@ -654,6 +644,13 @@
 ************************************
 ### 拍照录像录音相关
 [back to top](#readme)
+* [Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - 拍照 APP
+   <details><summary><code>效果图</code>🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Camera/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
+    </div>
+   </details>
 * [仿微信拍照Android控件（轻触拍照，长按摄像）CameraView](https://github.com/CJT2325/CameraView)
 * [Werb/MediaUtils](https://github.com/Werb/MediaUtils)
 * [pqpo/SmartCamera](https://github.com/pqpo/SmartCamera) - 一个 Android 相机拓展库，能够实时采集并且识别相机内物体边框是否吻合指定区域。
