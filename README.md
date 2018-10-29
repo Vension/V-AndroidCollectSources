@@ -54,6 +54,8 @@
 
 * [导航栏相关](#导航栏相关)
 
+* [多状态Layout](#多状态Layout)
+
 * [侧滑菜单](#侧滑菜单)
 
 * [数据库相关](#数据库相关)
@@ -444,7 +446,20 @@
     <div style="display:flex;">
       <img alt="image" src="https://github.com/Hamadakram/JustBar/blob/master/art/banner.gif">
    </details>
-      
+
+************************************
+### 多状态Layout
+* [qyxxjd/MultipleStatusView](https://github.com/qyxxjd/MultipleStatusView) - 一个支持多种状态的自定义View,可以方便的切换到：加载中视图、错误视图、空数据视图、网络异常视图、内容视图。
+    <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+      <img alt="image" src="https://github.com/qyxxjd/MultipleStatusView/blob/master/screenshots/demo.gif">
+   </details>
+* [Hankkin/PageLayoutDemo](https://github.com/Hankkin/PageLayoutDemo) - 一款简单的page切换 空布局、错误布局、加载布局，支持一键配置、定义，不需要xml编写
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+      <img alt="image" src="https://camo.githubusercontent.com/0d88eb557d0373f9eaab5429aba841b1fa9e3739/687474703a2f2f6c632d34377364326966762e636e2d6e312e6c6366696c652e636f6d2f61326137383735313164646230343631626662312e676966">
+   </details>
+   
 ************************************
 ### 侧滑菜单
 [back to top](#readme) 
