@@ -565,6 +565,19 @@
 * [saket/Flick](https://github.com/saket/Flick) - 仿微信预览图片可拖拽返回
 
 #### 九宫格效果
+* [panyiho/NineGridView](https://github.com/panyiho/NineGridView) - 一个九宫格自定义控件，实现类似微信和微博的九宫格图片显示
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://blog.csdn.net/u012650948/article/details/43638427" width="30%">
+       <img alt="image" src="https://blog.csdn.net/u012650948/article/details/43638427" width="30%">
+        <img alt="image" src="https://blog.csdn.net/u012650948/article/details/43638427" width="30%">
+  </details>
+* [hewenyuAndroid/NinePhotoLayout](https://github.com/hewenyuAndroid/NinePhotoLayout) - 本项目是仿照微信朋友圈中的图片九宫格布局，支持单张图片时，根据图片的长宽比例显示，四张图片时，显示22布局，其它显示33布局显示
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/hewenyuAndroid/NinePhotoLayout/blob/master/screen/normal.gif" width="30%">
+       <img alt="image" src="https://github.com/hewenyuAndroid/NinePhotoLayout/blob/master/screen/listview.gif" width="30%">
+  </details>
 * [HMY314/NineGridLayout](https://github.com/HMY314/NineGridLayout) - 一个仿微信朋友圈和QQ空间的九宫格图片展示自定义控件。
   <details><summary><code>效果图</code></summary>
     <div style="display:flex;">
