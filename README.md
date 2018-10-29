@@ -521,7 +521,7 @@
 * [Bilibili/boxing](https://github.com/Bilibili/boxing)
 * [qingmei2/RxImagePicker](https://github.com/qingmei2/RxImagePicker) - 灵活的Android图片选择器，提供了知乎和微信主题的支持
 * [TakePhoto](https://github.com/crazycodeboy/TakePhoto)
-* [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android)
+* [BGAPhotoPicker-Android](https://github.com/bingoogolapple/BGAPhotoPicker-Android) - Android 图片选择、预览、九宫格图片控件、拖拽排序九宫格图片控件
 * [PictureSelector](https://github.com/LuckSiege/PictureSelector)
 * [donkingliang / ImageSelector](https://github.com/donkingliang/ImageSelector)
 * [LQRImagePicker](https://github.com/GitLqr/LQRImagePicker)
