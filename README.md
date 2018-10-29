@@ -202,6 +202,13 @@
 ### 优秀完整项目
 [back to top](#readme)
 #### WanAndroid系列  
+* [Hankkin/Reading](https://github.com/Hankkin/Reading) - Reading是一款基于WanAndroid OpenApi开发的阅读类工具， 同时Reading中还包含"英文单词"、"账号本子"、"天气"、"查单词"、"快递查询"等小工具。项目基于"Kotlin+MVP"架构开发，风格大概也许属于Material Desgin原质化风格，包含主题颜色切换、百变Logo、 等功能。
+  <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+      <img alt="image" src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/reading.gif" width="30%">
+       <img alt="image" src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/1.jpeg" width="30%">
+        <img alt="image" src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/3.jpeg" width="30%">
+   </details>
 * [leiyun1993/WanAndroid](https://github.com/leiyun1993/WanAndroid) - 基于玩安卓开放api的App
     <details><summary><code>效果图</code></summary>
      <div style="display:flex;">
