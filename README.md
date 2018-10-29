@@ -707,7 +707,12 @@
        <img alt="image" src="https://github.com/JoaquimLey/faboptions/blob/master/art/faboptions_materialup_demo.gif" width="30%">
        <img alt="image" src="https://github.com/JoaquimLey/faboptions/blob/master/art/faboptions_demo.gif" width="30%">
    </details>
-       
+ * [kyleduo/BlurPopupWindow](https://github.com/kyleduo/BlurPopupWindow) - PopupWindow with blurred background.
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/kyleduo/BlurPopupWindow/blob/master/preview/preview.jpg">
+   </details>
+      
 ************************************
 ### 选择器Piker
 [back to top](#readme) 
