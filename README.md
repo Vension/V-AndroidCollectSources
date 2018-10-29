@@ -553,6 +553,7 @@
 * [kongnanlive/android-combination-avatar](https://github.com/kongnanlive/android-combination-avatar) - 模仿QQ讨论组头像
 * [vitorhugods/AvatarView](https://github.com/vitorhugods/AvatarView) - 炫酷的头像控件，包括进度动画和带有边界和渐变颜色的高亮状态。
 * [SheHuan/CombineBitmap](https://github.com/SheHuan/CombineBitmap) - Android 仿钉钉、微信 群聊组合头像
+* [GitLqr/LQRNineGridImageView](https://github.com/GitLqr/LQRNineGridImageView) - 仿微信群头像九宫格控件
 
 #### 图片预览效果
 * [maning0303/MNImageBrowser](https://github.com/maning0303/MNImageBrowser) - 一个图片浏览框架,类似微信图片浏览,手势向下滑动关闭,图片加载引擎自定义,支持长按,单击监听,切换监听,自定义任意的遮罩层，实现各种效果,支持横竖屏切换,简单方便。
