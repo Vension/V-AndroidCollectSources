@@ -120,6 +120,7 @@
    * [日历控件](#日历控件)
    * [加载动画](#加载动画)
    * [流式布局](#流式布局)
+   * [FloatButton](#FloatButton)
    * [富文本相关](#富文本相关)
    * [微章控件](#微章控件)
    * [TextView处理](#TextView处理)
@@ -1022,6 +1023,10 @@
 * [hanhailong/FlowTag](https://github.com/hanhailong/FlowTag)
 * [2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup)
 * [whilu/AndroidTagView](https://github.com/whilu/AndroidTagView) - A TagView library for Android. Customize your own & Drag effect.
+
+#### FloatButton
+* [Clans/FloatingActionButton](https://github.com/Clans/FloatingActionButton) - Android Floating Action Button based on Material Design specification
+* [futuresimple/android-floating-action-button](https://github.com/futuresimple/android-floating-action-button) - 基于Design 设计规范的Android浮动操作按钮
 
 #### 富文本相关
 * [CarGuo/RickText](https://github.com/CarGuo/RickText)
