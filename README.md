@@ -315,14 +315,6 @@
     <img alt="image" src="https://github.com/armcha/Ribble/raw/master/art/ribble_demo.gif" width="30%">
     </div>
     </details>
-
-* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 相册 APP
-   <details><summary><code>效果图</code>🔥🔥</summary>
-    <div style="display:flex;">
-    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
-    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
-    </div>
-   </details>
 * [Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - 文件管理器
    <details><summary><code>效果图</code>🔥</summary>
     <div style="display:flex;">
@@ -558,6 +550,13 @@
    </details>
 * [igreenwood/SimpleCropView](https://github.com/igreenwood/SimpleCropView) - A simple image cropping library for Android.
 * [huburt-Hu/ImagePicker](https://github.com/huburt-Hu/ImagePicker) - 用Kotlin实现的一个仿微信的图片选择库
+* [Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 相册 APP
+   <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.jpg" width="30%">
+    <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
+    </div>
+   </details>
       
 ************************************
 ### 图片处理相关
