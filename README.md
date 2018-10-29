@@ -564,6 +564,13 @@
 * [saket/Flick](https://github.com/saket/Flick) - 仿微信预览图片可拖拽返回
 
 #### 九宫格效果
+* [HMY314/NineGridLayout](https://github.com/HMY314/NineGridLayout) - 一个仿微信朋友圈和QQ空间的九宫格图片展示自定义控件。
+  <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/HMY314/NineGridLayout/blob/master/imageCache/GIF.gif" width="30%">
+       <img alt="image" src="https://github.com/HMY314/NineGridLayout/blob/master/imageCache/img1.png" width="30%">
+       <img alt="image" src="https://github.com/HMY314/NineGridLayout/blob/master/imageCache/img4.png" width="30%">
+  </details>
 * [jeasonlzy/NineGridView](https://github.com/jeasonlzy/NineGridView) - 类似QQ空间，微信朋友圈，微博主页等，展示图片的九宫格控件，自动根据图片的数量确定图片大小和控件大小，使用Adapter模式设置图片，对外提供接口回调，使用接口加载图片,支持任意的图片加载框架,如 Glide,ImageLoader,Fresco,xUtils3,Picasso 等，支持点击图片全屏预览大图。
    <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
