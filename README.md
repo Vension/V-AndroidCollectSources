@@ -244,6 +244,14 @@
     </details>
     
 #### Gank妹子系列
+* [miaoMiaoDaShi/YangYanNew(养眼)](https://github.com/miaoMiaoDaShi/YangYanNew) - 新养眼,项目基于框架MVPArms,全程使用kotlin编写.
+  <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_splash.jpg" width="30%">
+      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_login.jpg" width="30%">
+      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_category.jpg" width="30%">
+     </div>
+   </details>
 * [wazing/Gank](https://github.com/wazing/Gank) - 干货 - LiveData, ViewModel, Retrofit, RxJava, Dagger2 架构，采用kotlin语言开发，仅用于学习。
 
 #### 仿今日头条系列
@@ -264,15 +272,6 @@
 * [yanxuwen/toutaio](https://github.com/yanxuwen/toutaio) - 模仿今日头条app
 
 * [danxinzhicheng/IThouse](https://github.com/danxinzhicheng/IThouse/tree/version-2.0) - 一款高仿IT之家的Android APP 2.0版本，力求原汁原味，还原那个熟悉的之家。
-* [miaoMiaoDaShi/YangYanNew(养眼)](https://github.com/miaoMiaoDaShi/YangYanNew) - 新养眼,项目基于框架MVPArms,全程使用kotlin编写.
-  <details><summary><code>效果图</code></summary>
-     <div style="display:flex;">
-      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_splash.jpg" width="30%">
-      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_login.jpg" width="30%">
-      <img alt="image" src="https://github.com/miaoMiaoDaShi/YangYanNew/blob/master/screenshot/Screenshot_category.jpg" width="30%">
-     </div>
-   </details>
-
 * [GeekNews](https://github.com/codeestX/GeekNews) - Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide
     <details><summary><code>效果图</code></summary>
        <div style="display:flex;">
