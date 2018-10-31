@@ -204,6 +204,13 @@
 ### 优秀完整项目
 [back to top](#readme)
 #### WanAndroid系列  
+* [iceCola7/WanAndroid(推荐)](https://github.com/iceCola7/WanAndroid) - 项目采用 Kotlin 语言，基于 MVP + RxJava + Retrofit + Glide + EventBus 等架构设计，努力打造一款优秀的 http://www.wanandroid.com 客户端
+   <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+        <img alt="image" src="https://github.com/iceCola7/WanAndroid/blob/master/art/01.png">
+        <img alt="image" src="https://github.com/iceCola7/WanAndroid/blob/master/art/02.png">
+        <img alt="image" src="https://github.com/iceCola7/WanAndroid/blob/master/art/03.png">
+   </details>
 * [Hankkin/Reading](https://github.com/Hankkin/Reading) - Reading是一款基于WanAndroid OpenApi开发的阅读类工具， 同时Reading中还包含"英文单词"、"账号本子"、"天气"、"查单词"、"快递查询"等小工具。项目基于"Kotlin+MVP"架构开发，风格大概也许属于Material Desgin原质化风格，包含主题颜色切换、百变Logo、 等功能。
   <details><summary><code>效果图</code></summary>
      <div style="display:flex;">
@@ -211,7 +218,7 @@
        <img alt="image" src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/1.jpeg" width="30%">
         <img alt="image" src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/3.jpeg" width="30%">
    </details>
-* [leiyun1993/WanAndroid](https://github.com/leiyun1993/WanAndroid) - 基于玩安卓开放api的App
+* [leiyun1993/WanAndroid](https://github.com/leiyun1993/WanAndroid) - 基于玩安卓开放api使用 kotlin+mvp+retrofit+anko+eventbus+glide的App
     <details><summary><code>效果图</code></summary>
      <div style="display:flex;">
       <img alt="image" src="https://raw.githubusercontent.com/leiyun1993/WanAndroid/master/screenshot/11.png" width="30%">
@@ -223,7 +230,6 @@
      <div style="display:flex;">
       <img alt="image" src="https://github.com/jenly1314/WanAndroid/blob/master/GIF.gif" width="50%">
      </details>
-* [iceCola7/WanAndroid](https://github.com/iceCola7/WanAndroid) - 项目采用 Kotlin 语言，基于 MVP + RxJava + Retrofit + Glide + EventBus 等架构设计，努力打造一款优秀的 http://www.wanandroid.com 客户端
 * [JsonChao/Awesome-WanAndroid](https://github.com/JsonChao/Awesome-WanAndroid) - 致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n
 * [wangzailfm/WanAndroidClient](https://github.com/wangzailfm/WanAndroidClient) - Try to build a www.wanandroid.com client for kotlin.
   <details><summary><code>效果图</code></summary>
