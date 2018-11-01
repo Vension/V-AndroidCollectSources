@@ -113,6 +113,7 @@
 
 * [其他自定义控件](#其他自定义控件)
    * [验证码效果](#验证码效果)
+   * [搜索控件](#搜索控件)
    * [点赞收藏效果](#点赞收藏效果)
    * [RatingBar效果](#RatingBar效果)
    * [背景渐变效果](#背景渐变效果)
@@ -669,6 +670,11 @@
 ************************************
 ### Dialog相关
 [back to top](#readme)
+* [limuyang2/LDialog](https://github.com/limuyang2/LDialog) - (Support AndroidX)基于DialogFragment封装的库，丰富的属性，帮助你化繁为简
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/limuyang2/LDialog/blob/master/screenshot/kap.gif">
+   </details>
 * [Hamadakram/AlertView](https://github.com/Hamadakram/AlertView) - 一个通过简单定制轻松创建简单dialog的库。
 * [mylhyl/Android-CircleDialog(推荐)](https://github.com/mylhyl/Android-CircleDialog)
 * [仿ios选择器 Android-AlertView](https://github.com/saiwu-bigkoo/Android-AlertView)
@@ -692,7 +698,13 @@
        <img alt="image" src="https://github.com/linroid/FilterMenu/blob/master/screenshots/device-2015-03-12-215100.png" width="30%">
    </details>
 * [wuhenzhizao/android-sku](https://github.com/wuhenzhizao/android-sku) - Android Sku属性选择器, 类似于淘宝，天猫，京东，支持MVVM，直接使用
-       
+* [BCsl/CursorWheelLayout](https://github.com/BCsl/CursorWheelLayout) - 一个用于选择在轮子上旋转的项目的Android小部件。
+    <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/BCsl/CursorWheelLayout/blob/master/screenshot/gif2.gif" width="30%">
+       <img alt="image" src="https://github.com/BCsl/CursorWheelLayout/blob/master/screenshot/gif3.gif" width="30%">
+   </details>
+      
 ************************************
 ### Popwindow相关
 [back to top](#readme)
@@ -979,6 +991,19 @@
 * [jineshfrancs/CaptchaImageView](https://github.com/jineshfrancs/CaptchaImageView) - 图片验证码
 * [mcxtzhang/SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha) -  Android 平台的滑动验证码
 
+#### 搜索控件
+* [limuyang2/CardSearchView(推荐)](https://github.com/limuyang2/CardSearchView) - 一个自定义搜索框
+    <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/limuyang2/CardSearchView/blob/master/appPreview/GIF.gif">
+   </details>
+* [mancj/MaterialSearchBar](https://github.com/mancj/MaterialSearchBar) - Material Design Search Bar for Android
+   <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/mancj/MaterialSearchBar/blob/master/art/preview.gif">
+   </details>
+* [renaudcerrato/FloatingSearchView](https://github.com/renaudcerrato/FloatingSearchView) - 一个浮动搜索视图实现，也称为持久搜索。
+       
 #### 点赞收藏效果
 * [wajahatkarim3/MediumClap-Android](https://github.com/wajahatkarim3/MediumClap-Android) - 基于Kotlin实现的点赞效果
 * [UFreedom/FloatingView](https://github.com/UFreedom/FloatingView) - FloatingView can make the target view floating above the anchor view with cool animation
