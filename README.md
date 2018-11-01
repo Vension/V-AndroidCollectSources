@@ -947,7 +947,12 @@
     <div style="display:flex;">
     <img alt="image" src="https://camo.githubusercontent.com/5f388182db2cf6e039befbfdc41a7e195e93f5a4/68747470733a2f2f692e696d6775722e636f6d2f6c356f385847352e676966">
     </details>
-   
+* [limuyang2/LShadowLayout](https://github.com/limuyang2/LShadowLayout) - (Support AndroidX)一个阴影控件，可调整阴影颜色深浅、扩散面积、圆角 
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+     <img alt="image" src="https://github.com/limuyang2/LShadowLayout/blob/master/screen/demo.gif">
+    </details>
+      
 ************************************
 ### 图表库Charts
 [back to top](#readme)
