@@ -127,6 +127,7 @@
    * [流式布局](#流式布局)
    * [FloatButton](#FloatButton)
    * [item侧滑删除](#item侧滑删除)
+   * [3D-TouchView](#3D-TouchView)
    * [富文本相关](#富文本相关)
    * [微章控件](#微章控件)
    * [TextView处理](#TextView处理)
@@ -1117,6 +1118,14 @@
 #### item侧滑删除
 * [daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) - The Most Powerful Swipe Layout!
 
+#### 3D-TouchView
+* [armcha/ElasticView](https://github.com/armcha/ElasticView) - 弹性视图触摸弯曲效果。
+    <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+     <img alt="image" src="https://github.com/armcha/ElasticView/blob/master/screens/first.gif">
+     <img alt="image" src="https://github.com/armcha/ElasticView/blob/master/screens/second.gif">
+   </details>
+   
 #### 富文本相关
 * [CarGuo/RickText](https://github.com/CarGuo/RickText)
 * [limedroid/XRichText](https://github.com/limedroid/XRichText)
