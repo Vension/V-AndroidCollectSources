@@ -802,6 +802,13 @@
           <img alt="image" src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_03.png?raw=true" width="100%">
            <img alt="image" src="https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/image/example_05.png" width="100%">
     </details>
+* [azhon/AppUpdate](https://github.com/azhon/AppUpdate) - 一个简单、轻量、可随意定制 的Android版本更新库
+   <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/azhon/AppUpdate/blob/master/img/02.png">
+          <img alt="image" src="https://github.com/azhon/AppUpdate/blob/master/img/03.png">
+          <img alt="image" src="https://github.com/azhon/AppUpdate/blob/master/img/04.png">
+    </details>
 * [czy1121/update](https://github.com/czy1121/update) - 清晰灵活简单易用的应用更新库
    <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
