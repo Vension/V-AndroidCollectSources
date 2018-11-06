@@ -149,6 +149,8 @@
    
 * [Flutter相关](#Flutter相关)
 
+* [ReactNative相关](#ReactNative相关)
+
 * [小程序UI库](#小程序UI库)
 
 * [JS相关](#JS相关)
@@ -637,7 +639,13 @@
 * [huangyz0918/AndroidWM](https://github.com/huangyz0918/AndroidWM) - 一个轻量级的 Android 图片水印框架，支持隐形数字水印。
 * [1993hzw/Doodle](https://github.com/1993hzw/Doodle) - Android图片涂鸦，具有撤消，缩放，移动，添加文字，贴图等功能。还是一个功能强大，可自定义和可扩展的涂鸦框架、多功能画板
 * [kareluo/Imaging](https://github.com/kareluo/Imaging) - Android Image Edit Lib. Android 图片编辑库，微信图片编辑库
-   
+* [muukii/Pixel](https://github.com/muukii/Pixel) - An image editor and engine using CoreImage 
+    <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/muukii/Pixel/blob/master/top.png">
+       <img alt="image" src="https://github.com/muukii/Pixel/blob/master/preview.gif">
+  </details>
+       
 #### 高斯模糊效果
 * [kikoso/android-stackblur](https://github.com/kikoso/android-stackblur) - Android StackBlur is a library that can perform a blurry effect on a Bitmap based on a gradient or radius, and return the result. The library is based on the code of Mario Klingemann.
 #### 长图大图效果
@@ -1261,6 +1269,17 @@
 * [CarGuo/GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter) - 超完整的Flutter项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative三个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，跨框架对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验～～Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex 、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp
 * [wtus/flutter_kaiyan](https://github.com/wtus/flutter_kaiyan) - 使用Google跨平台框架Flutter仿写一个开眼视频(Eyepetizer )
 * [yubo725/flutter-osc](https://github.com/yubo725/flutter-osc) - 基于Google Flutter的开源中国客户端，支持Android和iOS。
+
+************************************
+### ReactNative相关
+[back to top](#readme) 
+* [ljunb/react-native-iShiWuPai](https://github.com/ljunb/react-native-iShiWuPai) - 一个基于 React Native 和 Redux、MobX 实现的展示型 Demo。
+    <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/ljunb/react-native-iShiWuPai/blob/alpha/screenshot/food.png">
+    <img alt="image" src="https://github.com/ljunb/react-native-iShiWuPai/blob/alpha/screenshot/feed.png">
+    <img alt="image" src="https://github.com/ljunb/react-native-iShiWuPai/blob/alpha/screenshot/profile.png">
+   </details>
 
 ************************************
 ### 小程序UI库
