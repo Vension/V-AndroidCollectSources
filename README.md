@@ -722,7 +722,12 @@
 * [条件筛选菜单](https://github.com/dongjunkun/DropDownMenu)
 * [zawadz88/MaterialPopupMenu](https://github.com/zawadz88/MaterialPopupMenu)
 * [CustomPopwindow](https://github.com/pinguo-zhouwei/CustomPopwindow)
-* [razerdp/BasePopup](https://github.com/razerdp/BasePopup)
+* [razerdp/BasePopup](https://github.com/razerdp/BasePopup) - 打造通用的popupwindow
+* [zyyoona7/EasyPopup](https://github.com/zyyoona7/EasyPopup) - PopupWindow Wrapper. 对 PopupWindow 的封装。可指定相对于 anchor view 各个方位弹出，设置背景变暗，指定 ViewGroup 背景变暗等特性。
+    <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/zyyoona7/EasyPopup/blob/master/images/easy_popup.gif" width="50%">
+   </details>
 * [wanglu1209/WPopup](https://github.com/wanglu1209/WPopup) - 一个简单使用并且高度定制的Popupwindow。超简单实现朋友圈点赞效果，并且只用一个WPopup！完全不用担心复用问题！点击切换动画效果等！
 * [JoaquimLey/faboptions](https://github.com/JoaquimLey/faboptions) - A multi-functional FAB component with customizable options 
     <details><summary><code>效果图</code>🔥🔥🔥</summary>
