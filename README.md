@@ -1033,6 +1033,12 @@
 * [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
 * [limccn/Android-Charts](https://github.com/limccn/Android-Charts) - Open-source native Android graph/chart framework includes line chart,stick chart,candlestick chart,pie chart,spider-web chart etc.
 * [xcltapestry/XCL-Charts](https://github.com/xcltapestry/XCL-Charts) - Android图表库(XCL-Charts is a free charting library for Android platform.),基于Android Canvas来绘制各种图表,使用简便,定制灵活。目前支持3D/非3D/背向式/横向/竖向柱形图(Bar Chart)、3D/非3D饼图(Pie Chart)、堆叠图(Stacked Bar Chart)、面积图(Area Chart)、 折线图(Line Chart)、曲线图(Spline Chart)、环形图(Dount Chart)、南丁格尔玫瑰图(Rose Chart)、仪表盘(Dial Chart)、刻度盘(Gauge Chart)、雷达图(Radar Chart)、漏斗图(Funnel Chart)、圆形图
+* [qstumn/RadarChart](https://github.com/qstumn/RadarChart) - 支持自由定制外观、手势旋转的雷达图表 android radarchart
+  <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://raw.githubusercontent.com/qstumn/RadarChart/master/logo.png" width="40%">
+         <img alt="image" src="https://github.com/qstumn/RadarView/blob/master/demo.gif?raw=true" width="40%">
+   </details>
 
 ************************************
 ### 弹幕效果
@@ -1169,8 +1175,8 @@
 * [limedroid/XRichText](https://github.com/limedroid/XRichText)
 
 #### 微章控件
-* [MaterialBadgeTextView（推荐）](https://github.com/matrixxun/MaterialBadgeTextView) - 一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
-* [BadgeView](https://github.com/qstumn/BadgeView) - 一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
+* [matrixxun/MaterialBadgeTextView（推荐）](https://github.com/matrixxun/MaterialBadgeTextView) - 一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
+* [qstumn/BadgeView](https://github.com/qstumn/BadgeView) - 一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
 * [bingoogolapple/BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android) - Android 徽章控件
 
 #### TextView处理
