@@ -180,6 +180,12 @@
 * [zhanghacker/MVPHabit(Java)](https://github.com/zhanghacker/MVPHabit) - 一套适合敏捷开发，基于MVP模式开发框架，整合Rxjava+Retrofit+Dagger+Butterknife等主流模块，加入中一些比较常用的工具类，进行一些抽取和整理，让你更专注于业务自身的逻辑。
 
 #### MVVM
+* [CarGuo/GSYGithubAppKotlin](https://github.com/CarGuo/GSYGithubAppKotlin) - 超完整的Android Kotlin 项目，使用Retrofit2 + RxJava2 + Dagger2 + DataBinding + LiveData + Navigation 等，MVVM 配合 Android JetPack
+  <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+       <img alt="image" src="https://github.com/CarGuo/GSYGithubAppKotlin/blob/master/1.jpg">
+       <img alt="image" src="https://github.com/CarGuo/GSYGithubAppKotlin/blob/master/2.jpg">
+   </details>
 * [SelfZhangTQ/T-MVVM（Java-推荐）](https://github.com/SelfZhangTQ/T-MVVM) - This repository contains a detailed sample app that implements MVVM architecture using LiveData,ViewModel,Retrofit,Rxjava
 * [goldze/MVVMHabit(Java)](https://github.com/goldze/MVVMHabit) - 基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个健壮、易维护的Android应用。
 * [BennyWang/KBinding(Kotlin)](https://github.com/BennyWang/KBinding) - 使用kotlin实现的Android MVVM框架，基于anko，比databinding更简单易用。 
