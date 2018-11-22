@@ -1207,6 +1207,18 @@
 * [Solartisan/WaveSideBar](https://github.com/Solartisan/WaveSideBar) - 一个快速跳跃分组的侧边栏控件，示例中配合RecyclerView实现。
 
 #### 倒计时控件
+* [iwgang/CountdownView](https://github.com/iwgang/CountdownView) - Android倒计时控件，使用Canvas绘制，支持多种样式
+    <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+      <img alt="image" src="https://raw.githubusercontent.com/iwgang/CountdownView/master/screenshot/s_main.png" width="30%">
+      <img alt="image" src="https://raw.githubusercontent.com/iwgang/CountdownView/master/screenshot/g_config.gif" width="30%">
+      <img alt="image" src="https://raw.githubusercontent.com/iwgang/CountdownView/master/screenshot/s_list.jpg" width="30%">
+   </details>
+* [SuperKotlin/CountDownView](https://github.com/SuperKotlin/CountDownView) - 启动页圆形倒计时加载view
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+      <img alt="image" src="https://github.com/SuperKotlin/CountDownView/blob/master/art/countdownview.gif">
+   </details>
 * [CaMnter/EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - Easy count down by TextureView
 
 #### 时光轴效果TimeLine&StepView
