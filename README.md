@@ -478,6 +478,7 @@
 ************************************
 ### 数据库相关
 [back to top](#readme) 
+* [LitePalFramework/LitePal](https://github.com/LitePalFramework/LitePal) - 郭大神写的数据库框架LitePal
 * [requery](https://github.com/requery/requery) - 轻量强大的ORM数据库
 * [DBFlow](https://github.com/Raizlabs/DBFlow) - 一个健壮, 强大, 非常简单的 ORM android 数据库
 
