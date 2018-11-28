@@ -1004,6 +1004,11 @@
 ************************************
 ### 阴影效果
 [back to top](#readme)
+* [linwg1988/LCardView](https://github.com/linwg1988/LCardView) - 卡片布局，可设置阴影颜色，透明度，圆角大小，阴影宽度
+  <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/linwg1988/LCardView/blob/master/dem2.gif">
+   </details>
 * [zhengcx/ShadowHelper](https://github.com/zhengcx/ShadowHelper) - 一个方便为Android View添加自然的阴影的库
 * [yingLanNull/ShadowImageView](https://github.com/yingLanNull/ShadowImageView) - 可以根据图片内容变阴影颜色，更加细腻的阴影效果
 * [DingMouRen/PaletteImageView](https://github.com/DingMouRen/PaletteImageView) - 懂得智能配色的ImageView,还能给自己设置多彩的阴影哦
