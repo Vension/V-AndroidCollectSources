@@ -109,9 +109,13 @@
 
 * [图表库Charts](#图表库Charts)
 
+* [小说阅读器](#小说阅读器)
+
 * [弹幕效果](#弹幕效果)
 
 * [悬浮窗效果](#悬浮窗效果)
+
+* [树状图TreeView](#树状图TreeView)
 
 * [其他自定义控件](#其他自定义控件)
    * [验证码效果](#验证码效果)
@@ -1047,6 +1051,17 @@
    </details>
 
 ************************************
+### 小说阅读器
+[back to top](#readme)
+* [GarrettLance/Reader](https://github.com/GarrettLance/Reader) - 易于集成和扩展的阅读器
+   <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+         <img alt="image" src="https://github.com/GarrettLance/Reader/blob/master/images/20181123_204344.gif" width="30%">
+         <img alt="image" src="https://github.com/GarrettLance/Reader/blob/master/images/video2gif_20181123_183236.gif" width="30%">
+         <img alt="image" src="https://github.com/GarrettLance/Reader/blob/master/images/20181123_204344.gif" width="30%">
+   </details>
+
+************************************
 ### 弹幕效果
 [back to top](#readme)
 * [Bilibili/DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster) - Android开源弹幕引擎·烈焰弹幕使 ～ http://app.bilibili.com/
@@ -1056,6 +1071,24 @@
 ### 悬浮窗效果
 [back to top](#readme)
 * [yhaolpz/FloatWindow](https://github.com/yhaolpz/FloatWindow) - Andorid 任意界面悬浮窗，实现悬浮窗如此简单 
+
+************************************
+### 树状图TreeView
+[back to top](#readme)
+* [bmelnychuk/AndroidTreeView(推荐)](https://github.com/bmelnychuk/AndroidTreeView) - AndroidTreeView. TreeView implementation for android
+  <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+         <img alt="image" src="https://camo.githubusercontent.com/e30f6694c99cc4404b7654f74e3d1598665792ea/68747470733a2f2f6c68342e67677068742e636f6d2f787a6b62334e35384c48325473625f6747733075335f783831564f4c776c6863702d6634707a5f73525f69523376414b58664a6f416377426a4e37344c767a70564c453d683930302d7277" width="30%">
+         <img alt="image" src="https://camo.githubusercontent.com/e600e1392139be2db0f466f30c63ecd84af39080/68747470733a2f2f6c68352e67677068742e636f6d2f55743642795f69556e6b4e667a49626150427363386842655165466a5f3255584a685f3174667744646c544171476b6869523732415f417751304c304748334f4661673d683930302d7277" width="30%">
+         <img alt="image" src="https://camo.githubusercontent.com/96e3288de9a2793dd4a17b6676070543962c8af3/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d30423368733645586e353557554e7a4a6d656c6b33636d527a634545" width="30%">
+   </details>
+
+* [shineM/TreeView](https://github.com/shineM/TreeView) - An android tree view with high performance and rich functions
+    <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+         <img alt="image" src="https://github.com/shineM/TreeView/blob/master/images/show_demo_select.gif" width="30%">
+         <img alt="image" src="https://github.com/shineM/TreeView/blob/master/images/show_demo_more_featrue.gif" width="30%">
+   </details>
 
 ************************************
 ### 其他自定义控件
