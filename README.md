@@ -99,6 +99,8 @@
 
 * [Glide辅助工具](#Glide辅助工具)
 
+* [RecyclerView相关](#RecyclerView相关)
+
 * [ViewPager相关](#ViewPager相关)
 
 * [WebView相关](#WebView相关)
@@ -617,12 +619,14 @@
        <img alt="image" src="https://blog.csdn.net/u012650948/article/details/43638427" width="30%">
        <img alt="image" src="https://blog.csdn.net/u012650948/article/details/43638427" width="30%">
         <img alt="image" src="https://blog.csdn.net/u012650948/article/details/43638427" width="30%">
+       </div>
   </details>
 * [hewenyuAndroid/NinePhotoLayout](https://github.com/hewenyuAndroid/NinePhotoLayout) - 本项目是仿照微信朋友圈中的图片九宫格布局，支持单张图片时，根据图片的长宽比例显示，四张图片时，显示22布局，其它显示33布局显示
    <details><summary><code>效果图</code></summary>
     <div style="display:flex;">
        <img alt="image" src="https://github.com/hewenyuAndroid/NinePhotoLayout/blob/master/screen/normal.gif" width="30%">
        <img alt="image" src="https://github.com/hewenyuAndroid/NinePhotoLayout/blob/master/screen/listview.gif" width="30%">
+       </div>
   </details>
 * [HMY314/NineGridLayout](https://github.com/HMY314/NineGridLayout) - 一个仿微信朋友圈和QQ空间的九宫格图片展示自定义控件。
   <details><summary><code>效果图</code></summary>
@@ -630,6 +634,7 @@
        <img alt="image" src="https://github.com/HMY314/NineGridLayout/blob/master/imageCache/GIF.gif" width="30%">
        <img alt="image" src="https://github.com/HMY314/NineGridLayout/blob/master/imageCache/img1.png" width="30%">
        <img alt="image" src="https://github.com/HMY314/NineGridLayout/blob/master/imageCache/img4.png" width="30%">
+       </div>
   </details>
 * [jeasonlzy/NineGridView](https://github.com/jeasonlzy/NineGridView) - 类似QQ空间，微信朋友圈，微博主页等，展示图片的九宫格控件，自动根据图片的数量确定图片大小和控件大小，使用Adapter模式设置图片，对外提供接口回调，使用接口加载图片,支持任意的图片加载框架,如 Glide,ImageLoader,Fresco,xUtils3,Picasso 等，支持点击图片全屏预览大图。
    <details><summary><code>效果图</code>🔥🔥🔥</summary>
@@ -696,7 +701,19 @@
    <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
        <img alt="image" src="https://github.com/wildma/IDCardCamera/blob/master/screenshots/screenshot.jpg" width="80%">
+    </div>
    </details>
+* [pqpo/SmartCropper](https://github.com/pqpo/SmartCropper) - 能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪。
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/pqpo/SmartCropper/blob/master/art/smart_crop_1.png" width="30%">
+       <img alt="image" src="https://github.com/pqpo/SmartCropper/blob/master/art/cropped_1.png.png" width="30%">
+       <img alt="image" src="https://github.com/pqpo/SmartCropper/blob/master/art/advance_crop_2.png" width="30%">
+       <img alt="image" src="https://github.com/pqpo/SmartCropper/blob/master/art/smartcropper_photo.gif" width="30%">
+       <img alt="image" src="https://github.com/pqpo/SmartCropper/blob/master/art/smartcropper_album_1.gif" width="30%">
+    </div>
+   </details>
+      
 * [weizongwei5/AndroidScreenShot_SysApi](https://github.com/weizongwei5/AndroidScreenShot_SysApi) - 非常优雅的方案实现屏幕截图，利用android 5.0之后的录屏API实现截屏。
 * [algolia/voice-overlay-android](https://github.com/algolia/voice-overlay-android) - (录音效果)An overlay that gets your user’s voice permission and input as text in a customizable UI 
 * [RedApparat/Fotoapparat](https://github.com/RedApparat/Fotoapparat) - Making Camera for Android more friendly.
@@ -891,6 +908,26 @@
 * [GlidePalette](https://github.com/florent37/GlidePalette) - 一个可以在Glide加载时很方便使用Palette的库。
 
 ************************************
+### RecyclerView相关
+[back to top](#readme)
+* [TakuSemba/MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView) - Android library for multiple snapping of RecyclerView
+  <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/TakuSemba/MultiSnapRecyclerView/blob/master/arts/gravity.gif" width="30%">
+          <img alt="image" src="https://github.com/TakuSemba/MultiSnapRecyclerView/blob/master/arts/snap_count.gif" width="30%">
+    </details>
+* [Ramotion/garland-view-android](https://github.com/Ramotion/garland-view-android) - GarlandView在多个内容列表之间无缝转换
+    <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/Ramotion/garland-view-android/blob/master/preview.gif" width="30%">
+    </details>
+* [xmuSistone/VegaLayoutManager](https://github.com/xmuSistone/VegaLayoutManager) - 这是一个自定义的布局管理器——滚动时缩小并淡出头部。这是受到Dribble项目的启发。
+   <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/xmuSistone/VegaLayoutManager/blob/master/capture.gif" width="30%">
+    </details>
+      
+************************************
 ### ViewPager相关
 [back to top](#readme)
 * [alibaba/UltraViewPager](https://github.com/alibaba/UltraViewPager) - UltraViewPager是一个封装多种特性的ViewPager，主要是为多页面切换场景提供统一解决方案。
@@ -1003,7 +1040,15 @@
        <img alt="image" src="https://github.com/varunest/TheGlowingLoader/blob/master/art/default.gif" width="30%">
        <img alt="image" src="https://github.com/varunest/TheGlowingLoader/blob/master/art/black_green.gif" width="30%">
        <img alt="image" src="https://github.com/varunest/TheGlowingLoader/blob/master/art/grey_blue.gif" width="30%">
-   </details>  
+   </div>  
+  </details> 
+* [yuerLoveCoding/MySvgYuyahaoDrawChinaMap](https://github.com/yuerLoveCoding/MySvgYuyahaoDrawChinaMap) - 用SVG打造一个精美的中国地图         <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://camo.githubusercontent.com/ebe57eac38d722d9e1a11f7d773bce59f6164fd1/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f343631343633332d303964316435623964666536386431632e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="30%">
+       <img alt="image" src="https://camo.githubusercontent.com/2e9d75dff77135bb0fd29cd232c6ceffb7ba1079/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f343631343633332d633436626361646164636463383061632e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970" width="30%">
+       <img alt="image" src="https://camo.githubusercontent.com/8c80579c37022560e4d4146901874e837a89ee3b/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f343631343633332d303333383464613361323066383933372e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" width="30%">
+       </div> 
+   </details> 
         
 ************************************
 ### 阴影效果
@@ -1173,6 +1218,7 @@
       <div style="display:flex;">
           <img alt="image" src="https://github.com/xiaojianglaile/Calendar/blob/master/raw/jeek_image_1.gif" width="50%">
          <img alt="image" src="https://github.com/xiaojianglaile/Calendar/blob/master/raw/jeek_image_2.png" width="50%">
+         </div>
    </details>
 * [仿小米，日历NCalendar](https://github.com/yannecer/NCalendar)
 * [maning0303/MNCalendar](https://github.com/maning0303/MNCalendar)
@@ -1181,6 +1227,22 @@
 * [yinjinyj/SuperCalendar](https://github.com/yinjinyj/SuperCalendar) - 日历控件
 * [prolificinteractive/material-calendarview](https://github.com/prolificinteractive/material-calendarview) - A Material design back port of Android's CalendarView
 * [traex/CalendarListview](https://github.com/traex/CalendarListview) - Implementation of a calendar in a ListView. One month by row
+* [savvisingh/DateRangePicker](https://github.com/savvisingh/DateRangePicker) - Date Range Picker是具有改进UI的自定义日期范围选择器。
+   <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/savvisingh/DateRangePicker/blob/master/device-2017-06-23-154706.png" width="50%">
+         <img alt="image" src="https://github.com/savvisingh/DateRangePicker/blob/master/device-2017-06-23-154757.png" width="50%">
+         </div>
+   </details>
+* [AppliKeySolutions/CosmoCalendar](https://github.com/AppliKeySolutions/CosmoCalendar) - 这是一个可以自定义日历的库，它可以提供很多功能和UI设置
+   <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/pictures/Calendar-single_2.jpg" width="50%">
+         <img alt="image" src="https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/pictures/Calendar-multiple-years_2.jpg" width="50%">
+         <img alt="image" src="https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/pictures/Calendar-range-years_2.jpg" width="50%">
+         <img alt="image" src="https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/pictures/Calendar-dialogue-dark_2.jpg" width="50%">
+         </div>
+   </details>
    
 #### 加载动画
 * [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - 加载动画view  （AV与NV效果一样）
@@ -1210,6 +1272,15 @@
    </details>
    
 #### 富文本相关
+* [Even201314/MRichEditor](https://github.com/Even201314/MRichEditor) - 这是一个丰富的文本编辑器（基于summernote）
+它支持多种功能，包括粗体、斜体、下划线、快捷键、标题（包括六级标题）、段落、引用，有（无）序列表、代码、水平规则、链接、图像，对齐方式（居中、两端对齐、左对齐、右对齐）、下标、上标、字体名称和大小、缩进、减少缩进、撤消/还原。
+    <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/Even201314/MRichEditor/blob/master/gif/Screenshot_1.gif" width="30%">
+       <img alt="image" src="https://github.com/Even201314/MRichEditor/blob/master/gif/Screenshot_2.gif" width="30%">
+       <img alt="image" src="https://github.com/Even201314/MRichEditor/blob/master/gif/Screenshot_3.png" width="30%">
+   </div>
+   </details>
 * [CarGuo/RickText](https://github.com/CarGuo/RickText)
 * [limedroid/XRichText](https://github.com/limedroid/XRichText)
 
@@ -1248,8 +1319,16 @@
 * [rubensousa/PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar) - A SeekBar suited for showing a preview of something. As seen in Google Play Movies.
 * [rey5137/material](https://github.com/rey5137/material) - A library to bring fully animated Material Design components to pre-Lolipop Android.
 * [oli107/material-range-bar](https://github.com/oli107/material-range-bar) - Android widget for selecting a range of values.
+* [shts/StoriesProgressView](https://github.com/shts/StoriesProgressView) - show horizontal progress like instagram stories.
+    <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+      <img alt="image" src="https://github.com/shts/StoriesProgressView/blob/master/image/capture.png" width="30%">
+      <img alt="image" src="https://github.com/shts/StoriesProgressView/blob/master/image/image.gif" width="30%">
+        </div>
+   </details>
 #### SideBar导航栏效果
 * [Solartisan/WaveSideBar](https://github.com/Solartisan/WaveSideBar) - 一个快速跳跃分组的侧边栏控件，示例中配合RecyclerView实现。
+
 
 #### 倒计时控件
 * [iwgang/CountdownView](https://github.com/iwgang/CountdownView) - Android倒计时控件，使用Canvas绘制，支持多种样式
@@ -1271,7 +1350,8 @@
 * [shuhart/StepView](https://github.com/shuhart/StepView) - A simple animated step view for Android. Backward and forward animations is supported.
 * [vipulasri/Timeline-View](https://github.com/vipulasri/Timeline-View) - Android Timeline View is used to display views like Tracking of shipment/order, steppers etc.
 * [sangcomz/StickyTimeLine](https://github.com/sangcomz/StickyTimeLine) - StickyTimeLine is timeline view for android.
-
+* [fython/MaterialStepperView](https://github.com/fython/MaterialStepperView) - Steppers - Material Design Components for Android
+   
 #### 自定义键盘
 * [xuejinwei/NumberKeyboard](https://github.com/xuejinwei/NumberKeyboard) - 仿造android端闲鱼发布选择价格数字键盘，自定义数字键盘
 * [onlyloveyd/LazyKeyboard](https://github.com/onlyloveyd/LazyKeyboard) - 字母，符号，数字&自定义安全键盘
