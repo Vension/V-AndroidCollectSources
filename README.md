@@ -101,6 +101,8 @@
 
 * [RecyclerView相关](#RecyclerView相关)
 
+* [骨架屏效果](#骨架屏效果)
+
 * [ViewPager相关](#ViewPager相关)
 
 * [WebView相关](#WebView相关)
@@ -126,7 +128,6 @@
    * [RatingBar效果](#RatingBar效果)
    * [背景渐变效果](#背景渐变效果)
    * [水波纹效果](#水波纹效果)
-   * [自定义RecyclerViewLayoutManager](#自定义RecyclerViewLayoutManager)
    * [自定义shape效果](#自定义shape效果)
    * [日历控件](#日历控件)
    * [加载动画](#加载动画)
@@ -927,6 +928,52 @@
           <img alt="image" src="https://github.com/xmuSistone/VegaLayoutManager/blob/master/capture.gif" width="30%">
     </details>
       
+#### 自定义RecyclerViewLayoutManager
+* [DingMouRen/LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup) - Customize the LayoutManager of RecyclerView(自定义LayoutManager)
+   <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img1.gif" width="30%">
+          <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img2.gif" width="30%">
+          <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img3.gif" width="30%">
+         <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img4.gif" width="30%">
+          <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img5.gif" width="30%">
+          <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img6.gif" width="30%">
+  </details>
+* [wuyr/PathLayoutManager](https://github.com/wuyr/PathLayoutManager) - RecyclerView的LayoutManager，轻松实现各种炫酷、特殊效果，再也不怕产品经理为难！
+   <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://raw.githubusercontent.com/wuyr/PathLayoutManager/master/previews/preview.gif" width="30%">
+          <img alt="image" src="https://raw.githubusercontent.com/wuyr/PathLayoutManager/master/previews/preview4.gif" width="30%">
+          <img alt="image" src="https://raw.githubusercontent.com/wuyr/PathLayoutManager/master/previews/preview7.gif" width="30%">
+  </details>
+
+************************************
+### 骨架屏效果
+[back to top](#readme)
+* [ethanhua/Skeleton(推荐)](https://github.com/ethanhua/Skeleton) - 这个库提供了一种显示骨架加载视图的简便方法，它现在使用闪存动画的内存优化版本，因此速度更快，您也可以设置更大的布局动画。
+     <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/ethanhua/Skeleton/blob/master/screenshots/01.gif" width="30%">
+         <img alt="image" src="https://github.com/ethanhua/Skeleton/blob/master/screenshots/02.gif" width="30%">
+         <img alt="image" src="https://github.com/ethanhua/Skeleton/blob/master/screenshots/03.gif" width="30%">
+    </div>
+  </details>
+* [willowtreeapps/spruce-android](https://github.com/willowtreeapps/spruce-android) - Spruce 是一个轻量级动画库，可帮助编排屏幕上的动画。该库同时支持 iOS。
+  <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/willowtreeapps/spruce-android/blob/master/imgs/recycler-example.gif" width="30%">
+    </div>
+  </details>
+* [sharish/ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView) - A custom recycler view with shimmer views to indicate that views are loading 
+  <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/list_demo.gif" width="30%">
+         <img alt="image" src="https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/grid_demo.gif" width="30%">
+         <img alt="image" src="https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/second_list_demo.gif" width="30%">
+         <img alt="image" src="https://github.com/ethanhua/Skeleton/blob/master/screenshots/04.gif" width="30%">
+    </div>
+  </details>
+
 ************************************
 ### ViewPager相关
 [back to top](#readme)
@@ -1174,25 +1221,6 @@
 
 #### 水波纹效果
 * [scwang90/MultiWaveHeader](https://github.com/scwang90/MultiWaveHeader) - Android 炫酷的多重水波纹 MultiWaveHeader Wave
-
-#### 自定义RecyclerViewLayoutManager
-* [DingMouRen/LayoutManagerGroup](https://github.com/DingMouRen/LayoutManagerGroup) - Customize the LayoutManager of RecyclerView(自定义LayoutManager)
-   <details><summary><code>效果图</code>🔥</summary>
-      <div style="display:flex;">
-          <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img1.gif" width="30%">
-          <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img2.gif" width="30%">
-          <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img3.gif" width="30%">
-         <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img4.gif" width="30%">
-          <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img5.gif" width="30%">
-          <img alt="image" src="https://raw.githubusercontent.com/DingMouRen/LayoutManagerGroup/master/picture/img6.gif" width="30%">
-  </details>
-* [wuyr/PathLayoutManager](https://github.com/wuyr/PathLayoutManager) - RecyclerView的LayoutManager，轻松实现各种炫酷、特殊效果，再也不怕产品经理为难！
-   <details><summary><code>效果图</code>🔥</summary>
-      <div style="display:flex;">
-          <img alt="image" src="https://raw.githubusercontent.com/wuyr/PathLayoutManager/master/previews/preview.gif" width="30%">
-          <img alt="image" src="https://raw.githubusercontent.com/wuyr/PathLayoutManager/master/previews/preview4.gif" width="30%">
-          <img alt="image" src="https://raw.githubusercontent.com/wuyr/PathLayoutManager/master/previews/preview7.gif" width="30%">
-  </details>
 
 #### 自定义shape效果
 * [JavaNoober/BackgroundLibrary](https://github.com/JavaNoober/BackgroundLibrary) - 通过标签直接生成shape，无需再写shape.xml
