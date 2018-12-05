@@ -760,6 +760,14 @@
 ************************************
 ### Popwindow相关
 [back to top](#readme)
+* [xujiaji/HappyBubble(推荐)](https://github.com/xujiaji/HappyBubble) - BubbleLayout随意变化的气泡布局，BubbleDialog根据点击View的位置定位它的位置，BubbleDialog可定制方向等！
+    <details><summary><code>效果图</code>🔥🔥🔥</summary>
+     <div style="display:flex;">
+       <img alt="image" src="https://raw.githubusercontent.com/xujiaji/xujiaji.github.io/pictures/github/HappyBubble/en/1.1.3.gif" width="30%">
+       <img alt="image" src="https://raw.githubusercontent.com/xujiaji/xujiaji.github.io/pictures/github/HappyBubble/en/1.1.0.gif" width="30%">
+         <img alt="image" src="https://raw.githubusercontent.com/xujiaji/xujiaji.github.io/pictures/github/HappyBubble/en/gif1.gif" width="30%">
+     </div>
+    </details>
 * [条件筛选菜单](https://github.com/dongjunkun/DropDownMenu)
 * [zawadz88/MaterialPopupMenu](https://github.com/zawadz88/MaterialPopupMenu)
 * [CustomPopwindow](https://github.com/pinguo-zhouwei/CustomPopwindow)
@@ -775,6 +783,7 @@
     <div style="display:flex;">
        <img alt="image" src="https://github.com/JoaquimLey/faboptions/blob/master/art/faboptions_materialup_demo.gif" width="30%">
        <img alt="image" src="https://github.com/JoaquimLey/faboptions/blob/master/art/faboptions_demo.gif" width="30%">
+    </div>
    </details>
  * [kyleduo/BlurPopupWindow](https://github.com/kyleduo/BlurPopupWindow) - PopupWindow with blurred background.
    <details><summary><code>效果图</code>🔥🔥🔥</summary>
@@ -1180,8 +1189,15 @@
       <div style="display:flex;">
          <img alt="image" src="https://github.com/shineM/TreeView/blob/master/images/show_demo_select.gif" width="30%">
          <img alt="image" src="https://github.com/shineM/TreeView/blob/master/images/show_demo_more_featrue.gif" width="30%">
-   </details>
-
+       </div>
+    </details>
+* [rosuH/AndroidFilePicker](https://github.com/rosuH/AndroidFilePicker) - FilePicker 是一个小巧快速的文件选择器框架，以快速集成、高自定义化和可配置化为目标不断前进
+     <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+         <img alt="image" src="https://github.com/rosuH/AndroidFilePicker/blob/master/Android_FilePicker_Banner.png">
+       </div>
+    </details>
+    
 ************************************
 ### 其他自定义控件
 [back to top](#readme) 
