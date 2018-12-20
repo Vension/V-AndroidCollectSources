@@ -794,6 +794,15 @@
 ************************************
 ### 选择器Piker
 [back to top](#readme) 
+* [addappcn/android-pickers](https://github.com/addappcn/android-pickers) - 安卓选择器类库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、职业、学历、星座等）、城市地址选择器（分省级、地级及县级）、数字选择器（可用于年龄、身高、体重、温度等）等……可以切换不同的模式（目前有普通模式，3d滚轮模式）
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+     <div style="display:flex;">
+       <img alt="image" src="https://github.com/addappcn/android-pickers/blob/master/screenshots/Screenshot_2017-04-21-15-46-11.png" width="30%">
+         <img alt="image" src="https://github.com/addappcn/android-pickers/blob/master/screenshots/Screenshot_2017-04-21-15-56-00.png" width="30%">
+         <img alt="image" src="https://github.com/addappcn/android-pickers/blob/master/screenshots/Screenshot_2017-04-21-15-56-22.png" width="30%">
+         <img alt="image" src="https://github.com/addappcn/android-pickers/blob/master/screenshots/Screenshot_2017-04-21-15-56-38.png.png" width="30%">
+     </div>
+   </details>
 * [Bigkoo/Android-PickerView(推荐)](https://github.com/Bigkoo/Android-PickerView)
 * [选择器gzu-liyujiang/AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker)
 
