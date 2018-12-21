@@ -507,6 +507,12 @@
 ************************************
 ### Android侧滑返回
 [back to top](#readme)
+* [ikew0ng/SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout) -  An Android library that help you to build app with swipe back gesture.
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+     <img alt="image" src="https://raw.githubusercontent.com/ikew0ng/SwipeBackLayout/master/art/screenshot.png" width="30%"/>
+    </div>
+  </details>
 * [chaychan/SlideCloseLib（极简）](https://github.com/chaychan/SlideCloseLib) - 一个类实现侧滑返回效果
 * [gongwen/SwipeBackLayout（推荐）](https://github.com/gongwen/SwipeBackLayout)
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
