@@ -1511,16 +1511,16 @@
 ### 小程序UI库
 [back to top](#readme) 
 * [opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) - 微信小程序开源项目库汇总
-* [meili/minui（推荐）](https://github.com/meili/minui) - 蘑菇街  
-* [youzan/zanui-weapp](https://github.com/youzan/zanui-weapp) - 有赞  
+* [meili/minui（推荐）](https://github.com/meili/minui) - 蘑菇街-基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化  
+* [youzan/vant-weapp](https://github.com/youzan/vant-weapp) - 有赞-轻量、可靠的小程序 UI 组件库 https://youzan.github.io/vant-weapp
 * [Tencent/weui](https://github.com/Tencent/weui) - WeChat
-* [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
-* [NervJS/taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。
 * [weilanwl/ColorUI](https://github.com/weilanwl/ColorUI) - 鲜亮的高饱和色彩，专注视觉的小程序组件库 
 * [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp) - 一套高质量的微信小程序 UI 组件库 https://weapp.iviewui.com
 * [wux-weapp/wux-weapp](https://github.com/wux-weapp/wux-weapp) - 微信小程序自定义 UI 组件 https://wux-weapp.github.io/wux-weapp…
 * [Shaman05/wxCharts](https://github.com/Shaman05/wxCharts) - 微信小程序中的股票分时图、K线图
 * [qindiandadudu/TianguoguoXiaopu](https://github.com/qindiandadudu/TianguoguoXiaopu) - 基于EastWorld的微信小程序商城
+* [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
+* [NervJS/taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。
 
 *************************************
 ### JS相关
