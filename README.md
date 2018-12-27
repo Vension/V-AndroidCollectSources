@@ -1517,6 +1517,8 @@
 * [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
 * [NervJS/taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。
 * [weilanwl/ColorUI](https://github.com/weilanwl/ColorUI) - 鲜亮的高饱和色彩，专注视觉的小程序组件库 
+* [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp) - 一套高质量的微信小程序 UI 组件库 https://weapp.iviewui.com
+* [wux-weapp/wux-weapp](https://github.com/wux-weapp/wux-weapp) - 微信小程序自定义 UI 组件 https://wux-weapp.github.io/wux-weapp…
 * [Shaman05/wxCharts](https://github.com/Shaman05/wxCharts) - 微信小程序中的股票分时图、K线图
 * [qindiandadudu/TianguoguoXiaopu](https://github.com/qindiandadudu/TianguoguoXiaopu) - 基于EastWorld的微信小程序商城
 
