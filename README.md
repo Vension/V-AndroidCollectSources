@@ -265,14 +265,7 @@
       <img alt="image" src="https://github.com/jenly1314/WanAndroid/blob/master/GIF.gif" width="50%">
      </details>
 * [JsonChao/Awesome-WanAndroid](https://github.com/JsonChao/Awesome-WanAndroid) - 致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n
-* [wangzailfm/WanAndroidClient](https://github.com/wangzailfm/WanAndroidClient) - Try to build a www.wanandroid.com client for kotlin.
-  <details><summary><code>效果图</code></summary>
-     <div style="display:flex;">
-      <img alt="image" src="https://camo.githubusercontent.com/3fcd3f407d48f5a28115a3c50436f51d2b62bab1/687474703a2f2f6f766c686c697337322e626b742e636c6f7564646e2e636f6d2f31382d312d342f32303538363831322e6a70673f696d61676556696577322f322f772f3330302f712f3935" width="30%">
-      <img alt="image" src="https://camo.githubusercontent.com/243501a12344ea1bb576deb9cb63076bca5156a3/687474703a2f2f6f766c686c697337322e626b742e636c6f7564646e2e636f6d2f31372d31322d32382f35373335363831342e6a70673f696d61676556696577322f322f772f3330302f712f3935" width="30%">
-      <img alt="image" src="https://camo.githubusercontent.com/a9fb4611eaff7325403eb9b7d0bda54a356d5d64/687474703a2f2f6f766c686c697337322e626b742e636c6f7564646e2e636f6d2f31372d31322d32382f37373431383637352e6a70673f696d61676556696577322f322f772f3330302f712f3935" width="30%">
-     </div>
-   </details>
+
    
 #### 开眼系列
 * [AndyJennifer/SimpleEyes](https://github.com/AndyJennifer/SimpleEyes) - 基于kotlin 仿开眼app
