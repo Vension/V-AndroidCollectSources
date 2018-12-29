@@ -1360,6 +1360,7 @@
 * [Chen-Sir/ExpandableTextView](https://github.com/Chen-Sir/ExpandableTextView) - 可以扩展和折叠的Android TextView。
 * [Bakumon/NumberAnimTextView](https://github.com/Bakumon/NumberAnimTextView) - 数字增加和降低动画 TextView
 * [robinhood/ticker](https://github.com/robinhood/ticker) - An Android text view with scrolling text change animation
+* [iYaoy/easy_at](https://github.com/iYaoy/easy_at) - Android 如何优雅地实现@人功能？——仿微博、仿QQ、仿微信、零入侵、高扩展性
    
 #### 跑马灯效果
 * [gongwen/MarqueeViewLibrary](https://github.com/gongwen/MarqueeViewLibrary) - 一个帮您快速实现跑马灯效果的library
