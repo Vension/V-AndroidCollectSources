@@ -230,10 +230,13 @@
 ### 优秀完整项目
 [back to top](#readme)
 #### WanAndroid系列  
-* [AlexTiti/WanAndroid](https://github.com/AlexTiti/WanAndroid) - 使用Kotlin语言,封装Paging组件实现下拉刷新、上拉加载,使用ViewModel保存数据,使用Room数据库组件,使用LiveData监听数据的变化,使用Navigation实现Fragment的导航
-   <details><summary><code>效果图</code></summary>
+* [senonwx/WanAndroid（组件化推荐）](https://github.com/senonwx/WanAndroid) - 运用MVP+Retrofit+Rxjava+Rxlifecycle+Glide+Eventbus+ARouter等架构，构建一个最简洁的组件化玩安卓app。
+  <details><summary><code>效果图</code></summary>
      <div style="display:flex;">
-        <img alt="image" src="https://github.com/AlexTiti/WanAndroid/blob/master/screenshot/wanandroid.gif">
+        <img alt="image" src="https://github.com/senonwx/WanAndroid/blob/master/screenshot/main2.png"/>
+        <img alt="image" src="https://github.com/senonwx/WanAndroid/blob/master/screenshot/main.png"/>
+        <img alt="image" src="https://github.com/senonwx/WanAndroid/blob/master/screenshot/main3.png"/>
+    </div>
    </details>
 * [iceCola7/WanAndroid(推荐)](https://github.com/iceCola7/WanAndroid) - 项目采用 Kotlin 语言，基于 MVP + RxJava + Retrofit + Glide + EventBus 等架构设计，努力打造一款优秀的 http://www.wanandroid.com 客户端
    <details><summary><code>效果图</code></summary>
@@ -242,6 +245,13 @@
         <img alt="image" src="https://github.com/iceCola7/WanAndroid/blob/master/art/02.png">
         <img alt="image" src="https://github.com/iceCola7/WanAndroid/blob/master/art/03.png">
    </details>
+   
+* [AlexTiti/WanAndroid](https://github.com/AlexTiti/WanAndroid) - 使用Kotlin语言,封装Paging组件实现下拉刷新、上拉加载,使用ViewModel保存数据,使用Room数据库组件,使用LiveData监听数据的变化,使用Navigation实现Fragment的导航
+   <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+        <img alt="image" src="https://github.com/AlexTiti/WanAndroid/blob/master/screenshot/wanandroid.gif">
+   </details>
+
 * [Hankkin/Reading](https://github.com/Hankkin/Reading) - Reading是一款基于WanAndroid OpenApi开发的阅读类工具， 同时Reading中还包含"英文单词"、"账号本子"、"天气"、"查单词"、"快递查询"等小工具。项目基于"Kotlin+MVP"架构开发，风格大概也许属于Material Desgin原质化风格，包含主题颜色切换、百变Logo、 等功能。
   <details><summary><code>效果图</code></summary>
      <div style="display:flex;">
