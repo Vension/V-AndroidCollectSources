@@ -252,13 +252,6 @@
        <img alt="image" src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/1.jpeg" width="30%">
         <img alt="image" src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/3.jpeg" width="30%">
    </details>
-* [leiyun1993/WanAndroid](https://github.com/leiyun1993/WanAndroid) - 基于玩安卓开放api使用 kotlin+mvp+retrofit+anko+eventbus+glide的App
-    <details><summary><code>效果图</code></summary>
-     <div style="display:flex;">
-      <img alt="image" src="https://raw.githubusercontent.com/leiyun1993/WanAndroid/master/screenshot/11.png" width="30%">
-       <img alt="image" src="https://github.com/leiyun1993/WanAndroid/raw/master/screenshot/1.png" width="30%">
-        <img alt="image" src="https://raw.githubusercontent.com/leiyun1993/WanAndroid/master/screenshot/2.png" width="30%">
-     </details>
 * [jenly1314/WanAndroid](https://github.com/jenly1314/WanAndroid) - 基于Architecture Components dependencies （Lifecycles，LiveData，ViewModel，Room）的WanAndroid开源项目
      <details><summary><code>效果图</code></summary>
      <div style="display:flex;">
