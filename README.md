@@ -252,11 +252,6 @@
        <img alt="image" src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/1.jpeg" width="30%">
         <img alt="image" src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/3.jpeg" width="30%">
    </details>
-* [jenly1314/WanAndroid](https://github.com/jenly1314/WanAndroid) - 基于Architecture Components dependencies （Lifecycles，LiveData，ViewModel，Room）的WanAndroid开源项目
-     <details><summary><code>效果图</code></summary>
-     <div style="display:flex;">
-      <img alt="image" src="https://github.com/jenly1314/WanAndroid/blob/master/GIF.gif" width="50%">
-     </details>
 * [JsonChao/Awesome-WanAndroid](https://github.com/JsonChao/Awesome-WanAndroid) - 致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n
 
    
