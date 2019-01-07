@@ -137,7 +137,7 @@
    * [3D-TouchView](#3D-TouchView)
    * [富文本相关](#富文本相关)
    * [微章控件](#微章控件)
-   * [TextView处理](#TextView处理)
+   * [TextView处理](#TextView处理) 
    * [跑马灯效果](#跑马灯效果)
    * [开关按钮效果](#开关按钮效果)
    * [进度条效果](#进度条效果)
@@ -1048,7 +1048,14 @@
       <div style="display:flex;">
           <img alt="image" src="https://raw.githubusercontent.com/githubwing/ZoomHeader/master/img.gif" width="50%">
   </details>
-
+* [Nightonke/WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - Combine ViewPager and Animations to provide a simple way to create applications' guide pages.
+    <details><summary><code>效果图</code>🔥🔥🔥</summary>
+     <div style="display:flex;">
+       <img alt="image" src="https://github.com/Nightonke/WoWoViewPager/blob/master/Pictures/GuidePage1.gif" width="30%"/>
+       <img alt="image" src="https://github.com/Nightonke/WoWoViewPager/blob/master/Pictures/GuidePage2.gif" width="30%"/>
+     </div>
+   </details>
+       
 ************************************
 ### WebView相关
 [back to top](#readme)
@@ -1363,7 +1370,13 @@
 
 #### 开关按钮效果
 * [SwitchButton](https://github.com/kyleduo/SwitchButton) - 仿ios移动按钮
-* [ToggleButton](https://github.com/zcweng/ToggleButton) - 仿ios移动按钮
+* [zcweng/SwitchButton](https://github.com/zcweng/SwitchButton) - SwitchButton.An beautiful+lightweight+custom-style-easy
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+      <img alt="image" src="https://github.com/zcweng/SwitchButton/blob/master/21879.gif" width="40%"/>
+      <img alt="image" src="https://github.com/zcweng/SwitchButton/blob/master/device-capture.png" width="40%"/>
+    </div>
+   </details>
 * [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) - 仿ios移动按
 
 #### 进度条效果
