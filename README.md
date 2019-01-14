@@ -1306,8 +1306,8 @@
 * [zhangke3016/LoadingViewExp](https://github.com/zhangke3016/LoadingViewExp) - a LoadingView demo.
   <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
-         <img alt="image" src="https://github.com/zhangke3016/LoadingViewExp/blob/master/art/loading.gif" width="50%">
-         <img alt="image" src="https://github.com/zhangke3016/LoadingViewExp/blob/master/art/loading2.gif" width="50%">
+         <img alt="image" src="https://github.com/zhangke3016/LoadingViewExp/blob/master/art/loading.gif" width="30%"/>
+         <img alt="image" src="https://github.com/zhangke3016/LoadingViewExp/blob/master/art/loading2.gif" width="30%"/>
        </div>
    </details>
    
