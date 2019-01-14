@@ -1303,7 +1303,14 @@
 * [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - 加载动画view  （AV与NV效果一样）
 * [android——AVLoadingIndicatorView（推荐）](https://github.com/81813780/AVLoadingIndicatorView) - 加载动画view  （AV与NV效果一样）
 * [ios——NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView)
-
+* [zhangke3016/LoadingViewExp](https://github.com/zhangke3016/LoadingViewExp) - a LoadingView demo.
+  <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+         <img alt="image" src="https://github.com/zhangke3016/LoadingViewExp/blob/master/art/loading.gif" width="50%">
+         <img alt="image" src="https://github.com/zhangke3016/LoadingViewExp/blob/master/art/loading2.gif" width="50%">
+       </div>
+   </details>
+   
 #### 流式布局
 * [AndroidFlexBoxLayout(推荐)](https://github.com/Vension/AndroidFlexBoxLayout) - 使用Google的flexbox实现demo
 * [FlowLayout](https://github.com/hongyangAndroid/FlowLayout)
