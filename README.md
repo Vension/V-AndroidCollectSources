@@ -1005,12 +1005,6 @@
          <img alt="image" src="https://raw.githubusercontent.com/LillteZheng/ViewPagerHelper/master/gif/loop_arc.gif" width="30%">
          <img alt="image" src="https://raw.githubusercontent.com/LillteZheng/ViewPagerHelper/master/gif/loop_line.gif" width="30%">
    </details>
-* [Nightonke/WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - Combine ViewPager and Animations to provide a simple way to create applications' guide pages.
-   <details><summary><code>效果图</code>🔥</summary>
-      <div style="display:flex;">
-          <img alt="image" src="https://github.com/Nightonke/WoWoViewPager/blob/master/Pictures/GuidePage1.gif" width="50%">
-          <img alt="image" src="https://github.com/Nightonke/WoWoViewPager/blob/master/Pictures/GuidePage2.gif" width="50%">
-   </details>
 * [githubwing/ExpandableViewpager](https://github.com/githubwing/ExpandableViewpager) - A Cool Viewpager ~ 可以展开缩放的Viewpager
    <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
