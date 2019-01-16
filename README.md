@@ -132,6 +132,7 @@
    * [日历控件](#日历控件)
    * [加载动画](#加载动画)
    * [流式布局](#流式布局)
+   * [标签控件LableView](#标签控件LableView)
    * [FloatButton](#FloatButton)
    * [item侧滑删除](#item侧滑删除)
    * [3D-TouchView](#3D-TouchView)
@@ -1318,6 +1319,21 @@
 * [2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup)
 * [whilu/AndroidTagView](https://github.com/whilu/AndroidTagView) - A TagView library for Android. Customize your own & Drag effect.
 
+#### 标签控件LableView
+* [Vension/V-HotLableView（推荐）](https://github.com/Vension/V-HotLableView) - 一个简单实用的标签控件,轻松添加最新最热等标签
+  <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+         <img alt="image" src="https://github.com/Vension/V-HotLableView/blob/master/images/GIF.gif" width="30%"/>
+       </div>
+  </details>
+* [skydoves/AndroidRibbon](https://github.com/skydoves/AndroidRibbon) - 一个可以让你使用缎带的图书馆,并且很容易就能轻松地模仿动画. 
+  <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+         <img alt="image" src="https://user-images.githubusercontent.com/24237865/51105497-7873e680-182c-11e9-954a-1bf767d15312.gif" width="30%"/>
+         <img alt="image" src="https://user-images.githubusercontent.com/24237865/51105671-fb953c80-182c-11e9-8288-7ce97d5474e8.gif" width="30%"/>
+       </div>
+  </details>
+   
 #### FloatButton
 * [Clans/FloatingActionButton](https://github.com/Clans/FloatingActionButton) - Android Floating Action Button based on Material Design specification
 * [futuresimple/android-floating-action-button](https://github.com/futuresimple/android-floating-action-button) - 基于Design 设计规范的Android浮动操作按钮
