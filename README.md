@@ -966,7 +966,7 @@
           <img alt="image" src="https://raw.githubusercontent.com/wuyr/PathLayoutManager/master/previews/preview4.gif" width="30%">
           <img alt="image" src="https://raw.githubusercontent.com/wuyr/PathLayoutManager/master/previews/preview7.gif" width="30%">
   </details>
-* [Cleveroad/FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager) - 
+* [Cleveroad/FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager) - 使用风扇布局管理器，可以实现水平列表，其中的项像风扇叶片一样移动。
    <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
           <img alt="image" src="https://github.com/Cleveroad/FanLayoutManager/blob/master/images/demo_.gif"/>
