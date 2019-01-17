@@ -965,8 +965,14 @@
           <img alt="image" src="https://raw.githubusercontent.com/wuyr/PathLayoutManager/master/previews/preview.gif" width="30%">
           <img alt="image" src="https://raw.githubusercontent.com/wuyr/PathLayoutManager/master/previews/preview4.gif" width="30%">
           <img alt="image" src="https://raw.githubusercontent.com/wuyr/PathLayoutManager/master/previews/preview7.gif" width="30%">
-  </details>
-
+  </details>
+* [Cleveroad/FanLayoutManager](https://github.com/Cleveroad/FanLayoutManager) - 
+   <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+          <img alt="image" src="https://github.com/Cleveroad/FanLayoutManager/blob/master/images/demo_.gif"/>
+      </div>
+   </details>
+      
 ************************************
 ### 骨架屏效果
 [back to top](#readme)
