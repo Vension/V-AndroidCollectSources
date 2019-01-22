@@ -249,13 +249,21 @@
 * [Hankkin/Reading](https://github.com/Hankkin/Reading) - Reading是一款基于WanAndroid OpenApi开发的阅读类工具， 同时Reading中还包含"英文单词"、"账号本子"、"天气"、"查单词"、"快递查询"等小工具。项目基于"Kotlin+MVP"架构开发，风格大概也许属于Material Desgin原质化风格，包含主题颜色切换、百变Logo、 等功能。
   <details><summary><code>效果图</code></summary>
      <div style="display:flex;">
-      <img alt="image" src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/reading.gif" width="30%">
-       <img alt="image" src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/1.jpeg" width="30%">
-        <img alt="image" src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/3.jpeg" width="30%">
+      <img alt="image" src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/reading.gif" width="30%"/>
+       <img alt="image" src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/1.jpeg" width="30%"/>
+        <img alt="image" src="https://github.com/Hankkin/Reading/blob/develop-1.0.0/sceenshot/3.jpeg" width="30%"/>
+       </div>
    </details>
 * [JsonChao/Awesome-WanAndroid](https://github.com/JsonChao/Awesome-WanAndroid) - 致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n
-
-   
+* [hyzhan43/PlayAndroid](https://github.com/hyzhan43/PlayAndroid) - Kotlin 版 玩Android (采用的是 LiveData+ViewModel+RxJava+okHttp+Retrofit+Glide 架构 )
+   <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+       <img alt="image" src="https://camo.githubusercontent.com/2e9a9cd140c080dea054fd1f0bf3e59e02f9ec69/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303138313032393137343432353138342e706e673f782d6f73732d70726f636573733d696d6167652f77617465726d61726b2c747970655f5a6d46755a33706f5a57356e6147567064476b2c736861646f775f31302c746578745f6148523063484d364c7939696247396e4c6d4e7a5a473475626d56304c33646c61586870626c38304d4455354e5455784e673d3d2c73697a655f31362c636f6c6f725f4646464646462c745f3730" width="30%"/>
+       <img alt="image" src="https://camo.githubusercontent.com/73bb17405edde860ce90bef8399213fd99723e1e/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303138313032393137343833363437322e706e673f782d6f73732d70726f636573733d696d6167652f77617465726d61726b2c747970655f5a6d46755a33706f5a57356e6147567064476b2c736861646f775f31302c746578745f6148523063484d364c7939696247396e4c6d4e7a5a473475626d56304c33646c61586870626c38304d4455354e5455784e673d3d2c73697a655f31362c636f6c6f725f4646464646462c745f3730" width="30%"/>
+       <img alt="image" src="https://camo.githubusercontent.com/062a6707612cef02b7961867c238c0215aeb631a/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303138313032393137353032303833312e706e673f782d6f73732d70726f636573733d696d6167652f77617465726d61726b2c747970655f5a6d46755a33706f5a57356e6147567064476b2c736861646f775f31302c746578745f6148523063484d364c7939696247396e4c6d4e7a5a473475626d56304c33646c61586870626c38304d4455354e5455784e673d3d2c73697a655f31362c636f6c6f725f4646464646462c745f3730" width="30%"/>
+     </div>
+   </details>
+       
 #### 开眼系列
 * [AndyJennifer/SimpleEyes](https://github.com/AndyJennifer/SimpleEyes) - 基于kotlin 仿开眼app
 * [KotlinMvp（推荐）](https://github.com/git-xuhao/KotlinMvp) -  基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP
