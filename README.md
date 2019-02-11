@@ -1527,6 +1527,21 @@
 
 ************************************
 ### Flutter相关
+* [Sky24n/flutter_wanandroid（推荐）](https://github.com/Sky24n/flutter_wanandroid) - Flutter完整项目，WanAndroid客户端，BLoC、RxDart 、国际化、主题色、启动页、引导页，拥有较好的项目结构&比较规范的代码！
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppImgs/flutter_wanandroid/home.gif" width="30%"/>
+    <img alt="image" src="https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppImgs/flutter_wanandroid/splash.gif" width="30%"/>
+    <img alt="image" src="https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppImgs/flutter_wanandroid/slide_back.gif" width="30%"/>
+<img alt="image" src="https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppImgs/flutter_wanandroid/scroll_top.gif" width="30%"/>
+<img alt="image" src="https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppImgs/flutter_wanandroid/tree.gif" width="30%"/>
+<img alt="image" src="https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppImgs/flutter_wanandroid/intl.gif" width="30%"/>
+<img alt="image" src="https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppImgs/flutter_wanandroid/theme_color.gif" width="30%"/>
+<img alt="image" src="https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppImgs/flutter_wanandroid/2018-11-23_13_05_08.gif" width="30%"/>
+<img alt="image" src="https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppImgs/flutter_wanandroid/2018-11-19_12_35_32.gif" width="30%"/>
+    </div >
+   </details>
+
 * [hurshi/wanandroid](https://github.com/hurshi/wanandroid) - 一款使用Flutter编写的，Material Design风格的WanAndroid客户端
 * [OpenFlutter/Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) - 日更的FlutterDemo合集，今天你fu了吗
 * [HackSoul/zhihu-flutter](https://github.com/HackSoul/zhihu-flutter) - Flutter 高仿知乎 UI，非常漂亮，也非常流畅，flutter build apk 或 flutter build ios 之后更流畅
