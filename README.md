@@ -19,7 +19,7 @@
 ************************************
 
 ## 关于
-本项目是一个专注于收集Github上用于Android 开发的开源库、扩展、工具、优秀开源项目、资料等高质量资源的集合进行整理https://github.com/Vension/V-AndroidCollectSources
+本项目是一个专注于收集Github上（主要是Android，也包括Fultter，微信小程序，ReactNative，JS等）优秀的的开源库、扩展、工具、优秀开源项目、资料等高质量资源的集合进行整理。https://github.com/Vension/V-AndroidCollectSources
 
 
 ## Thanks
