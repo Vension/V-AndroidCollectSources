@@ -597,6 +597,13 @@
 ### 图片处理相关
 [back to top](#readme)
 #### 圆形圆角特殊头像效果
+* [ai2101039/YLCircleImageView](https://github.com/ai2101039/YLCircleImageView) - 描边/内间距/四个角不同弧度（包括圆角）
+  <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/ai2101039/YLCircleImageView/blob/master/screenshots/12.gif" width="30%">
+    <img alt="image" src="https://github.com/ai2101039/YLCircleImageView/blob/master/screenshots/13.gif" width="30%">
+    </div>
+   </details>
 * [hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView) - 经典的圆形图片效果
 * [kongnanlive/android-combination-avatar](https://github.com/kongnanlive/android-combination-avatar) - 模仿QQ讨论组头像
 * [vitorhugods/AvatarView](https://github.com/vitorhugods/AvatarView) - 炫酷的头像控件，包括进度动画和带有边界和渐变颜色的高亮状态。
