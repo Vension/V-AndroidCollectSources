@@ -149,6 +149,7 @@
    * [屏幕锁控件](#屏幕锁控件)
    * [仪表盘效果](#仪表盘效果)
    * [自定义歌词控件](#自定义歌词控件)
+   * [左右拖拽卡片效果](#左右拖拽卡片效果)
    * [翻页效果](#翻页效果)
    
 * [工具相关](#工具相关)
@@ -1489,6 +1490,14 @@
     <div style="display:flex;">
        <img alt="image" src="https://github.com/zhengken/LyricViewDemo/blob/master/screenshot/lyricview.png">
        <img alt="image" src="https://github.com/zhengken/LyricViewDemo/blob/master/screenshot/lyricview.png">
+   </details>
+
+#### 左右拖拽卡片效果
+* [yuyakaido/CardStackView](https://github.com/yuyakaido/CardStackView) - Tinder like swipeable card view for Android
+  <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/yuyakaido/CardStackView/blob/master/images/sample-overview.gif">
+    </div>
    </details>
    
 #### 翻页效果
