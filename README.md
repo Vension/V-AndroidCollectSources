@@ -1417,7 +1417,13 @@
     </div>
    </details>
 * [Android-SwitchIcon](https://github.com/zagum/Android-SwitchIcon) - 仿ios移动按
-
+* [bitvale/PacButton](https://github.com/bitvale/PacButton) - Android implementation of switch animation https://dribbble.com/shots/5487871-Video-Photo-Switcher-Exploration from Oleg Frolov https://dribbble.com/Volorf
+  <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/bitvale/PacButton/blob/master/art/preview.gif" />
+    </div>
+   </details>
+   
 #### 进度条效果
 * [daimajia/NumberProgressBar](https://github.com/daimajia/NumberProgressBar) - ProgressBar相关
 * [woxingxiao/BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar) - 自定义SeekBar，进度变化更以可视化气泡样式呈现
@@ -1496,7 +1502,7 @@
 * [yuyakaido/CardStackView](https://github.com/yuyakaido/CardStackView) - Tinder like swipeable card view for Android
   <details><summary><code>效果图</code></summary>
     <div style="display:flex;">
-       <img alt="image" src="https://github.com/yuyakaido/CardStackView/blob/master/images/sample-overview.gif">
+       <img alt="image" src="https://github.com/yuyakaido/CardStackView/blob/master/images/sample-overview.gif" />
     </div>
    </details>
    
