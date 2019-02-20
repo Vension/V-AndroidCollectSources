@@ -1381,6 +1381,14 @@
        <img alt="image" src="https://github.com/Even201314/MRichEditor/blob/master/gif/Screenshot_3.png" width="30%">
    </div>
    </details>
+   
+* [youlookwhat/RichEditorView](https://github.com/youlookwhat/RichEditorView) - 基于WebView的富文本编辑器 - Android
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+     <img alt="image" src="https://github.com/youlookwhat/RichEditorView/blob/master/file/richeditor.jpeg" width="30%" />
+    </div>
+   </details>
+   
 * [CarGuo/RickText](https://github.com/CarGuo/RickText)
 * [limedroid/XRichText](https://github.com/limedroid/XRichText)
 
