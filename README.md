@@ -1320,8 +1320,24 @@
          <img alt="image" src="https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/pictures/Calendar-range-years_2.jpg" width="50%">
          <img alt="image" src="https://github.com/ApplikeySolutions/CosmoCalendar/blob/master/pictures/Calendar-dialogue-dark_2.jpg" width="50%">
          </div>
-   </details>
+   </details>
    
+* [SimpleMobileTools/Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - 一款用kotlin写的轻量级日历应用
+   <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+         <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Calendar/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%" />
+         <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Calendar/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_4.png" width="30%" />
+         <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Calendar/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_5.png" width="30%" />
+       </div>
+  </details>
+
+* [senlinxuefeng/RSQMonthCalendar](https://github.com/senlinxuefeng/RSQMonthCalendar) - 朝夕、滴答日历、月视图、周视图 month or week canlendar
+   <details><summary><code>效果图</code>🔥</summary>
+      <div style="display:flex;">
+         <img alt="image" src="https://raw.githubusercontent.com/senlinxuefeng/RSQMonthCalendar/master/picture/222.gif" width="30%" />
+       </div>
+  </details>
+
 #### 加载动画
 * [Android-SpinKit](https://github.com/ybq/Android-SpinKit) - 加载动画view  （AV与NV效果一样）
 * [android——AVLoadingIndicatorView（推荐）](https://github.com/81813780/AVLoadingIndicatorView) - 加载动画view  （AV与NV效果一样）
@@ -1386,6 +1402,13 @@
    <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
      <img alt="image" src="https://github.com/youlookwhat/RichEditorView/blob/master/file/richeditor.jpeg" width="30%" />
+    </div>
+   </details>
+
+* [chinalwb/Android-Rich-text-Editor](https://github.com/chinalwb/Android-Rich-text-Editor) - Android Rich Text Editor With customized spans - 富文本编辑器 - Don't miss this one :)
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+     <img alt="image" src="https://github.com/chinalwb/Android-Rich-text-Editor/blob/master/ARE/demo/are_demo.gif" width="30%" />
     </div>
    </details>
    
