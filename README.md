@@ -265,7 +265,8 @@
        <img alt="image" src="https://camo.githubusercontent.com/062a6707612cef02b7961867c238c0215aeb631a/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303138313032393137353032303833312e706e673f782d6f73732d70726f636573733d696d6167652f77617465726d61726b2c747970655f5a6d46755a33706f5a57356e6147567064476b2c736861646f775f31302c746578745f6148523063484d364c7939696247396e4c6d4e7a5a473475626d56304c33646c61586870626c38304d4455354e5455784e673d3d2c73697a655f31362c636f6c6f725f4646464646462c745f3730" width="30%"/>
      </div>
    </details>
-       
+* [haoshiy/kotlin_wanandroid](https://github.com/haoshiy/kotlin_wanandroid) - 用kotlin语言编写的玩Android，基于mvvm+rxjava+retrofit+dagger2+jetpack组件等设计
+   
 #### 开眼系列
 * [AndyJennifer/SimpleEyes](https://github.com/AndyJennifer/SimpleEyes) - 基于kotlin 仿开眼app
 * [KotlinMvp（推荐）](https://github.com/git-xuhao/KotlinMvp) -  基于Kotlin+MVP+Retrofit+RxJava+Glide 等架构实现的短视频类的APP
@@ -458,7 +459,36 @@
     <div style="display:flex;">
       <img alt="image" src="https://github.com/Hamadakram/JustBar/blob/master/art/banner.gif">
    </details>
+* [shetmobile/MeowBottomNavigation](https://github.com/shetmobile/MeowBottomNavigation) - Android Meow Bottm Navigation http://etebarian.com
+   <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+      <img alt="image" src="https://raw.githubusercontent.com/shetmobile/MeowBottomNavigation/master/resources/meow-bottom-navigation-normal.gif" />
+     </div>
+   </details>
+* [gauravk95/bubble-navigation](https://github.com/gauravk95/bubble-navigation) - A light-weight library to easily make beautiful Navigation Bar with ton of 🎨 customization option.
+   <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+      <img alt="image" src="https://raw.githubusercontent.com/gauravk95/bubble-navigation/master/sample/bn_two.gif" width="30%" />
+        <img alt="image" src="https://raw.githubusercontent.com/gauravk95/bubble-navigation/master/sample/bn_one.gif" width="30%" />
+        <img alt="image" src="https://raw.githubusercontent.com/gauravk95/bubble-navigation/master/sample/bn_four.gif" width="30%" />
+        <img alt="image" src="https://raw.githubusercontent.com/gauravk95/bubble-navigation/master/sample/bn_three.gif" width="30%" />
+     </div>
+   </details> 
+       
+* [st235/ExpandableBottomBar](https://github.com/st235/ExpandableBottomBar) - A new way to implement navigation in your app 
+    <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+      <img alt="image" src="https://raw.githubusercontent.com/st235/ExpandableBottomBar/master/images/video.gif" />
+     </div>
+   </details>
 
+* [AkashBang/Engorgio-Bottom-Bar](https://github.com/AkashBang/Engorgio-Bottom-Bar) - A bottom bar with an expanding title effect for android
+   <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+      <img alt="image" src="https://raw.githubusercontent.com/AkashBang/Engorgio-Bottom-Bar/master/images/demo_gif.gif" />
+     </div>
+   </details>
+   
 ************************************
 ### 多状态Layout
 * [qyxxjd/MultipleStatusView](https://github.com/qyxxjd/MultipleStatusView) - 一个支持多种状态的自定义View,可以方便的切换到：加载中视图、错误视图、空数据视图、网络异常视图、内容视图。
