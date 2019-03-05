@@ -431,15 +431,17 @@
 * [ittianyu/BottomNavigationViewEx](https://github.com/ittianyu/BottomNavigationViewEx) - 一个增强BottomNavigationView的安卓库
   <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
-    <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/no_animation.gif" width="30%">
-    <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/center_fab.jpg" width="30%">
-      <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/view_badger.gif" width="30%">
+    <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/no_animation.gif" width="30%" />
+    <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/center_fab.jpg" width="30%" />
+      <img alt="image" src="https://github.com/ittianyu/BottomNavigationViewEx/blob/master/read_me_images/view_badger.gif" width="30%" />
+   </div>
    </details>
 * [chaychan/BottomBarLayout](https://github.com/chaychan/BottomBarLayout) - 一个轻量级的底部导航控件)A simple and lightly widget to accomplish bottom Navigation，可设置未读数、提示点、提示消息
    <details><summary><code>效果图</code>🔥🔥🔥</summary>
     <div style="display:flex;">
-      <img alt="image" src="https://github.com/chaychan/BottomBarLayout/blob/master/intro_img/display1.gif" width="50%">
-      <img alt="image" src="https://github.com/chaychan/BottomBarLayout/blob/master/intro_img/4.png" width="50%">
+      <img alt="image" src="https://github.com/chaychan/BottomBarLayout/blob/master/intro_img/display1.gif" width="50%" />
+      <img alt="image" src="https://github.com/chaychan/BottomBarLayout/blob/master/intro_img/4.png" width="50%" />
+   </div>
    </details>
 * [Yalantis/Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android) - Side menu with some categories to choose. 
 * [tommybuonomo/morph-bottom-navigation](https://github.com/tommybuonomo/morph-bottom-navigation) - This library represents a Bottom Navigation with an awesome morph effect on top of the selected item
@@ -447,17 +449,20 @@
 * [mehrtarh/CircleButtonBar](https://github.com/mehrtarh/CircleButtonBar) - CircleBottomBar library for Android(中间圆形凸起)  
     <details><summary><code>效果图</code></summary>
     <div style="display:flex;">
-      <img alt="image" src="https://github.com/mehrtarh/CircleButtonBar/blob/master/app/src/main/res/drawable/bottom_bar.png" width="50%">
+      <img alt="image" src="https://github.com/mehrtarh/CircleButtonBar/blob/master/app/src/main/res/drawable/bottom_bar.png" width="50%" />
+   </div>
    </details>
 * [10clouds/FluidBottomNavigation-android](https://github.com/10clouds/FluidBottomNavigation-android) - Android流体底层导航库 
    <details><summary><code>效果图</code></summary>
     <div style="display:flex;">
-      <img alt="image" src="https://github.com/10clouds/FluidBottomNavigation-android/blob/master/static/sample.gif">
+      <img alt="image" src="https://github.com/10clouds/FluidBottomNavigation-android/blob/master/static/sample.gif" />
+   </div>
    </details>
 * [Hamadakram/JustBar](https://github.com/Hamadakram/JustBar) - Just a bar
     <details><summary><code>效果图</code></summary>
     <div style="display:flex;">
-      <img alt="image" src="https://github.com/Hamadakram/JustBar/blob/master/art/banner.gif">
+      <img alt="image" src="https://github.com/Hamadakram/JustBar/blob/master/art/banner.gif" />
+   </div>
    </details>
 * [shetmobile/MeowBottomNavigation](https://github.com/shetmobile/MeowBottomNavigation) - Android Meow Bottm Navigation http://etebarian.com
    <details><summary><code>效果图</code></summary>
