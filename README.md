@@ -1046,15 +1046,17 @@
   </details>
   
 * [sharish/ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView) - A custom recycler view with shimmer views to indicate that views are loading 
-  <details><summary><code>效果图</code>🔥</summary>
-      <div style="display:flex;">
-          <img alt="image" src="https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/list_demo.gif" width="30%"/>
-         <img alt="image" src="https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/grid_demo.gif" width="30%"/>
-         <img alt="image" src="https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/second_list_demo.gif" width="30%"/>
-         <img alt="image" src="https://github.com/ethanhua/Skeleton/blob/master/screenshots/04.gif" width="30%"/>
-    </div>
-  </details>
-
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/list_demo.gif" width="30%" />
+       <img alt="image" src="https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/grid_demo.gif" width="30%" />
+        <img alt="image" src="https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/second_list_demo.gif" width="30%" />
+       <img alt="image" src="https://github.com/ethanhua/Skeleton/blob/master/screenshots/04.gif" width="30%" />
+    </div>
+   </details>
+   
+* [florent37/FiftyShadesOf](https://github.com/florent37/FiftyShadesOf) - An elegant context-care loading placeholder for Android 
+  
 ************************************
 ### ViewPager相关
 [back to top](#readme)
