@@ -1032,24 +1032,26 @@
 * [ethanhua/Skeleton(推荐)](https://github.com/ethanhua/Skeleton) - 这个库提供了一种显示骨架加载视图的简便方法，它现在使用闪存动画的内存优化版本，因此速度更快，您也可以设置更大的布局动画。
      <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
-          <img alt="image" src="https://github.com/ethanhua/Skeleton/blob/master/screenshots/01.gif" width="30%">
-         <img alt="image" src="https://github.com/ethanhua/Skeleton/blob/master/screenshots/02.gif" width="30%">
-         <img alt="image" src="https://github.com/ethanhua/Skeleton/blob/master/screenshots/03.gif" width="30%">
+          <img alt="image" src="https://github.com/ethanhua/Skeleton/blob/master/screenshots/01.gif" width="30%"/>
+         <img alt="image" src="https://github.com/ethanhua/Skeleton/blob/master/screenshots/02.gif" width="30%"/>
+         <img alt="image" src="https://github.com/ethanhua/Skeleton/blob/master/screenshots/03.gif" width="30%"/>
     </div>
   </details>
+  
 * [willowtreeapps/spruce-android](https://github.com/willowtreeapps/spruce-android) - Spruce 是一个轻量级动画库，可帮助编排屏幕上的动画。该库同时支持 iOS。
   <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
-          <img alt="image" src="https://github.com/willowtreeapps/spruce-android/blob/master/imgs/recycler-example.gif" width="30%">
+          <img alt="image" src="https://github.com/willowtreeapps/spruce-android/blob/master/imgs/recycler-example.gif" width="30%"/>
     </div>
   </details>
+  
 * [sharish/ShimmerRecyclerView](https://github.com/sharish/ShimmerRecyclerView) - A custom recycler view with shimmer views to indicate that views are loading 
   <details><summary><code>效果图</code>🔥</summary>
       <div style="display:flex;">
-          <img alt="image" src="https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/list_demo.gif" width="30%">
-         <img alt="image" src="https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/grid_demo.gif" width="30%">
-         <img alt="image" src="https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/second_list_demo.gif" width="30%">
-         <img alt="image" src="https://github.com/ethanhua/Skeleton/blob/master/screenshots/04.gif" width="30%">
+          <img alt="image" src="https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/list_demo.gif" width="30%"/>
+         <img alt="image" src="https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/grid_demo.gif" width="30%"/>
+         <img alt="image" src="https://github.com/sharish/ShimmerRecyclerView/blob/master/screenshots/second_list_demo.gif" width="30%"/>
+         <img alt="image" src="https://github.com/ethanhua/Skeleton/blob/master/screenshots/04.gif" width="30%"/>
     </div>
   </details>
 
@@ -1619,6 +1621,16 @@
 ************************************
 ### Flutter相关
 [back to top](#readme) 
+* [alibaba/flutter-go](https://github.com/alibaba/flutter-go) - flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
+  <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://camo.githubusercontent.com/ffae0b94a434cb962babdb7f48db28060fb9f5ea/68747470733a2f2f696d672e616c6963646e2e636f6d2f7466732f5442314d6f694e457854704b31526a535a464758586348714658612d3336322d3735312e676966" width="30%" />
+       <img alt="image" src="https://camo.githubusercontent.com/9fda71677b2f0ec7602d8a9442804b07b32ab2af/68747470733a2f2f696d672e616c6963646e2e636f6d2f7466732f5442316f65696342686a614b31526a535a4641585862644c4658612d3334352d3731372e676966" width="30%" />
+        <img alt="image" src="https://camo.githubusercontent.com/b65b06d4c09cef5b04a5db48ec4c7f45a772f5fe/68747470733a2f2f696d672e616c6963646e2e636f6d2f7466732f544231574a4e75426d7a714b31526a535a506358586254657058612d3334352d3731372e676966" width="30%" />
+    </div>
+   </details>
+* [alibaba/fish-redux](https://github.com/alibaba/fish-redux) - An assembled flutter application framework. https://github.com/alibaba/fish-redux
+
 * [Sky24n/flutter_wanandroid（推荐）](https://github.com/Sky24n/flutter_wanandroid) - Flutter完整项目，WanAndroid客户端，BLoC、RxDart 、国际化、主题色、启动页、引导页，拥有较好的项目结构&比较规范的代码！
    <details><summary><code>效果图</code></summary>
     <div style="display:flex;">
