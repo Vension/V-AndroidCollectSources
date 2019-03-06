@@ -218,6 +218,7 @@
 * [mqzhangw/JIMU](https://github.com/mqzhangw/JIMU) - 一种简单有效的android组件化方案，支持组件的代码资源隔离、单独调试、集成调试、组件交互、UI跳转、生命周期等完整功能。
 * [NewFastFrame](https://github.com/HelloChenJinJun/NewFastFrame) - 终极组件化框架项目方案
 * [guiying712/AndroidModulePattern](https://github.com/guiying712/AndroidModulePattern) - Android项目组件化示例代码，支持Fragment和View
+* [yangchong211/LifeHelper](https://github.com/yangchong211/LifeHelper) - 组件化综合案例，包含微信新闻，头条视频，美女图片，百度音乐，干活集中营，玩Android，豆瓣读书电影，知乎日报等等模块。架构模式：组件化+MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5+腾讯bugly。安装阿里编码规约插件，不断修正不合理代码和最大程度去除黄色警告！！！融合开发中需要的各种小案例！
 
 #### 插件化
 * [ManbangGroup/Phantom](https://github.com/ManbangGroup/Phantom) - Phantom — 唯一零 Hook 稳定占坑类 Android 热更新插件化方案
