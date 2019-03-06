@@ -1455,7 +1455,13 @@
    
 * [CarGuo/RickText](https://github.com/CarGuo/RickText)
 * [limedroid/XRichText](https://github.com/limedroid/XRichText)
-
+* [zzhoujay/RichText](https://github.com/zzhoujay/RichText) -Android平台下的富文本解析器，支持Html和Markdown 
+     <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+      <img alt="image" src="https://github.com/zzhoujay/RichText/blob/master/image/image.jpg" width="30%" />
+    </div>
+   </details>
+   
 #### 微章控件
 * [matrixxun/MaterialBadgeTextView（推荐）](https://github.com/matrixxun/MaterialBadgeTextView) - 一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
 * [qstumn/BadgeView](https://github.com/qstumn/BadgeView) - 一个可以自由定制外观、支持拖拽消除的MaterialDesign风格Android BadgeView（小红点）
