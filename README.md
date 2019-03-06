@@ -759,7 +759,15 @@
        <img alt="image" src="https://github.com/pqpo/SmartCropper/blob/master/art/smartcropper_album_1.gif" width="30%">
     </div>
    </details>
-      
+* [aserbao/AndroidCamera](https://github.com/aserbao/AndroidCamera) - 自定义Android相机(仿抖音)，其中功能包括视频人脸识别贴纸，分段录制，回滚删除，倒计时录制，视频裁剪，视频帧处理，视频旋转，滤镜添加，水印添加，动态贴纸添加，文字转视频，图片转视频。
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/aserbao/AndroidCamera/blob/master/app/src/main/assets/images/1.gif" width="30%" />
+       <img alt="image" src="https://github.com/aserbao/AndroidCamera/blob/master/app/src/main/assets/images/%E9%80%89%E5%B0%81%E9%9D%A22.gif" width="30%" />
+       <img alt="image" src="https://github.com/aserbao/AndroidCamera/blob/master/app/src/main/assets/images/%E7%BC%96%E8%BE%913.gif" width="30%" />
+    </div>
+   </details>
+   
 * [weizongwei5/AndroidScreenShot_SysApi](https://github.com/weizongwei5/AndroidScreenShot_SysApi) - 非常优雅的方案实现屏幕截图，利用android 5.0之后的录屏API实现截屏。
 * [algolia/voice-overlay-android](https://github.com/algolia/voice-overlay-android) - (录音效果)An overlay that gets your user’s voice permission and input as text in a customizable UI 
 * [RedApparat/Fotoapparat](https://github.com/RedApparat/Fotoapparat) - Making Camera for Android more friendly.
@@ -1663,7 +1671,15 @@
 * [CarGuo/GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter) - 超完整的Flutter项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative三个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，跨框架对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验～～Σ(￣。￣ﾉ)ﾉ。同款Weex版本 ： https://github.com/CarGuo/GSYGithubAppWeex 、同款React Native版本 ： https://github.com/CarGuo/GSYGithubApp
 * [wtus/flutter_kaiyan](https://github.com/wtus/flutter_kaiyan) - 使用Google跨平台框架Flutter仿写一个开眼视频(Eyepetizer )
 * [yubo725/flutter-osc](https://github.com/yubo725/flutter-osc) - 基于Google Flutter的开源中国客户端，支持Android和iOS。
-
+* [huanxsd/flutter_shuqi](https://github.com/huanxsd/flutter_shuqi) - 高仿书旗小说 Flutter版，支持iOS、Android 
+   <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/huanxsd/flutter_shuqi/blob/master/screenshot/ios_0.png" />
+       <img alt="image" src="https://github.com/huanxsd/flutter_shuqi/blob/master/screenshot/ios_1.png" />
+       <img alt="image" src="https://github.com/huanxsd/flutter_shuqi/blob/master/screenshot/ios_2.png" />
+    </div>
+   </details>
+   
 ************************************
 ### ReactNative相关
 [back to top](#readme) 
