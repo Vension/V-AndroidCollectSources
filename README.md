@@ -220,7 +220,15 @@
 * [NewFastFrame](https://github.com/HelloChenJinJun/NewFastFrame) - 终极组件化框架项目方案
 * [guiying712/AndroidModulePattern](https://github.com/guiying712/AndroidModulePattern) - Android项目组件化示例代码，支持Fragment和View
 * [yangchong211/LifeHelper](https://github.com/yangchong211/LifeHelper) - 组件化综合案例，包含微信新闻，头条视频，美女图片，百度音乐，干活集中营，玩Android，豆瓣读书电影，知乎日报等等模块。架构模式：组件化+MVP+Rx+Retrofit+Desgin+Dagger2+阿里VLayout+腾讯X5+腾讯bugly。安装阿里编码规约插件，不断修正不合理代码和最大程度去除黄色警告！！！融合开发中需要的各种小案例！
-
+* [viyski/Pluto](https://github.com/viyski/Pluto) - Kotlin模块化，MVP Retrofit + Okhttp + Rxjava Dagger ARouter 
+* [GraceJoJo/Designer](https://github.com/GraceJoJo/Designer) - 组件化+Kotlin开发-一个充满设计感的开源App 
+   <details><summary><code>效果图</code>🔥</summary>
+    <div style="display:flex;">
+     <img alt="image" src="https://camo.githubusercontent.com/ed872e18d811479e51220287f9a6a4dfbc38d6f0/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333832383833352d323733646639363663366561623239322e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" />
+       <img alt="image" src="https://camo.githubusercontent.com/c5c6425e1fd00e4353fc8db9771a64cd768484b3/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333832383833352d336563356264303739643064653034392e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430" />
+    </div>
+   </details>
+   
 #### 插件化
 * [ManbangGroup/Phantom](https://github.com/ManbangGroup/Phantom) - Phantom — 唯一零 Hook 稳定占坑类 Android 热更新插件化方案
 * [wequick/Small](https://github.com/wequick/Small) - 做最轻巧的跨平台插件化框架
