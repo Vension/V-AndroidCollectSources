@@ -197,15 +197,17 @@
        <img alt="image" src="https://github.com/CarGuo/GSYGithubAppKotlin/blob/master/1.jpg">
        <img alt="image" src="https://github.com/CarGuo/GSYGithubAppKotlin/blob/master/2.jpg">
    </details>
-* [qingmei2/MVVM-Rhine](https://github.com/qingmei2/MVVM-Rhine) - The MVVM Architecture in Android（MVVM+Jetpack的Github客户端）
+* [SelfZhangTQ/T-MVVM（Java-推荐）](https://github.com/SelfZhangTQ/T-MVVM) - This repository contains a detailed sample app that implements MVVM architecture using LiveData,ViewModel,Retrofit,Rxjava
    <details><summary><code>效果图</code></summary>
      <div style="display:flex;">
-       <img alt="image" src="https://github.com/qingmei2/MVVM-Rhine/blob/master/screenshots/login.png" width="30%">
-       <img alt="image" src="https://github.com/qingmei2/MVVM-Rhine/blob/master/screenshots/home.png" width="30%">
-       <img alt="image" src="https://github.com/qingmei2/MVVM-Rhine/blob/master/screenshots/repos.png" width="30%">
+       <img alt="image" src="https://github.com/SelfZhangTQ/T-MVVM/raw/master/screenshots/1_video.gif" width="30%">
+       <img alt="image" src="https://raw.githubusercontent.com/SelfZhangTQ/T-MVVM/master/screenshots/2_video.gif" width="30%">
+       <img alt="image" src="https://github.com/SelfZhangTQ/T-MVVM/raw/master/screenshots/3_video.gif" width="30%">
+       <img alt="image" src="https://github.com/SelfZhangTQ/T-MVVM/raw/master/screenshots/4_video.gif" width="30%">
+       <img alt="image" src="https://raw.githubusercontent.com/SelfZhangTQ/T-MVVM/master/screenshots/5_video.gif" width="30%">
+       <img alt="image" src="https://raw.githubusercontent.com/SelfZhangTQ/T-MVVM/master/screenshots/6_video.gif" width="30%">
    </details>
-* [SelfZhangTQ/T-MVVM（Java-推荐）](https://github.com/SelfZhangTQ/T-MVVM) - This repository contains a detailed sample app that implements MVVM architecture using LiveData,ViewModel,Retrofit,Rxjava
-* [goldze/MVVMHabit(Java)](https://github.com/goldze/MVVMHabit) - 基于谷歌最新AAC架构，MVVM设计模式的一套快速开发库，整合Okhttp+RxJava+Retrofit+Glide等主流模块，满足日常开发需求。使用该框架可以快速开发一个健壮、易维护的Android应用。
+      
 * [BennyWang/KBinding(Kotlin)](https://github.com/BennyWang/KBinding) - 使用kotlin实现的Android MVVM框架，基于anko，比databinding更简单易用。 
 
 #### 组件化
