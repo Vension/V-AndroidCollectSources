@@ -489,7 +489,13 @@
         <img alt="image" src="https://raw.githubusercontent.com/gauravk95/bubble-navigation/master/sample/bn_three.gif" width="30%" />
      </div>
    </details> 
-       
+* [iammert/ReadableBottomBar](https://github.com/iammert/ReadableBottomBar) - Yet another material bottom bar library for Android
+    <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+      <img alt="image" src="https://raw.githubusercontent.com/iammert/ReadableBottomBar/master/art/readablebottombar.png" width="30%" />
+       <img alt="image" src="https://raw.githubusercontent.com/iammert/ReadableBottomBar/master/art/preview.gif" width="30%" />
+     </div>
+   </details>
 * [st235/ExpandableBottomBar](https://github.com/st235/ExpandableBottomBar) - A new way to implement navigation in your app 
     <details><summary><code>效果图</code></summary>
      <div style="display:flex;">
