@@ -602,12 +602,20 @@
 * [caiyonglong/MusicLake](https://github.com/caiyonglong/MusicLake) - 音乐播放器，可播放本地音乐，百度音乐，qq音乐，虾米音乐，网易云音乐
 * [DuanJiaNing/Musicoco](https://github.com/DuanJiaNing/Musicoco) - 音乐播放器，功能：通过耳机和通知栏快捷控制音乐播放、创建歌单、本地歌曲搜索、记忆播放、自动切换到夜间模式、定时停止播放、应用主题自定义以及播放界面风格选择等功能。
 * [hefuyicoder/ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer) - A Grace Material Design Music Player
-* [乐乐音乐5.0](https://github.com/zhangliangming/HappyPlayer5)
+* [zhangliangming/HappyPlayer5](https://github.com/zhangliangming/HappyPlayer5) - 乐乐音乐主要是基于ijkplayer框架开发的Android音乐播放器，它支持多种音频格式(mp3,ape,flac,wav等)、lrc歌词和动感歌词(ksc,krc,hrc、网易云API歌词等)、翻译和音译歌词和桌面歌词及制作动感歌词、翻译歌词和音译歌词，以及MV功能。界面高仿酷狗。
 * [波尼音乐](https://github.com/wangchenyan/PonyMusic)
 * [lizixian18/NiceMusic](https://github.com/lizixian18/NiceMusic) - A Nice MusicPlayer Powered by MusicLibrary
 * [aa112901/remusic](https://github.com/aa112901/remusic) - 仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载
 * [thevpaliy/Melophile](https://github.com/thevpaliy/Melophile) - Music App built using RxJava2, Retrofit2, Dagger2 and clean architecture.
-
+* [lynn01247/TataMusic](https://github.com/lynn01247/TataMusic) - Tata音乐，音乐你我她。Tata音乐是一款结合本地曲库，在线音乐的音乐播放软件。可以搜索歌曲，在线下载；也可以登录收藏歌曲，实时同步，多客户端共享。更有黑胶音乐效果，歌词展示等。
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+        <img alt="image" src="https://raw.githubusercontent.com/lynn01247/TataMusic/master/pic/1.png" width="33.33%"/>
+        <img alt="image" src="https://raw.githubusercontent.com/lynn01247/TataMusic/master/pic/2.png" width="33.33%"/>
+        <img alt="image" src="https://raw.githubusercontent.com/lynn01247/TataMusic/master/pic/3.png" width="33.33%"/>
+    </div>
+   </details>
+   
 ************************************
 ### 相册选择器裁剪
 [back to top](#readme) 
