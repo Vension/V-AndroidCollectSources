@@ -1729,6 +1729,13 @@
 * [qindiandadudu/TianguoguoXiaopu](https://github.com/qindiandadudu/TianguoguoXiaopu) - 基于EastWorld的微信小程序商城
 * [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
 * [NervJS/taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。
+* [kuckboy1994/mp_canvas_drawer](https://github.com/kuckboy1994/mp_canvas_drawer) - 微信小程序上canvas绘制图片助手，一个json就制作分享朋友圈图片
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://camo.githubusercontent.com/c59f25a0d35e4f1095b173348fdf06790fdd0cab/687474703a2f2f7778332e73696e61696d672e636e2f6d773639302f656334643737383067793166743765696866396630673230367530626e6864772e676966" width="30%">
+    <img alt="image" src="https://camo.githubusercontent.com/536d39760a0862a8b63c4e63795f63cf1f6549ab/687474703a2f2f7778322e73696e61696d672e636e2f6d773639302f6563346437373830677931667437683271657a69646a32313134307177316b782e6a7067" width="30%">
+    <img alt="image" src="https://camo.githubusercontent.com/536d39760a0862a8b63c4e63795f63cf1f6549ab/687474703a2f2f7778322e73696e61696d672e636e2f6d773639302f6563346437373830677931667437683271657a69646a32313134307177316b782e6a7067" width="70%">
+   </details>
 
 *************************************
 ### JS相关
