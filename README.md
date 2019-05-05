@@ -1643,7 +1643,12 @@
 * [RxDownload](https://github.com/ssseasonnn/RxDownload) - 基于RxJava的多线程下载工具
 * [lingochamp/okdownload](https://github.com/lingochamp/okdownload) - 可靠，灵活，高性能以及强大的下载引擎。
 * [Justson/Downloader](https://github.com/Justson/Downloader) - Downloader 是一个非常轻巧以及功能强大快速下载库，只有50KB 左右大小，对于大多数应用来说，性价比最高的一个下载库， 相比系统提供DownloadManager、FileDownloader 来说，Downloader 提供的API更简单、轻量且Downloader提供同步下载，系统通知进度等功能。
-   
+* [StevenYan88/MultiThreadDownload](https://github.com/StevenYan88/MultiThreadDownload) - 多线程下载文件，支持断点 
+     <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://camo.githubusercontent.com/ca55fa59f2f1c130859a3ddee41bc5684c3a2cb9/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313437323435332d616133643831633835636436393432632e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f333230" width="40%">
+   </details>
+        
 #### 路由框架
 [back to top](#readme) 
 * [alibaba/ARouter](https://github.com/alibaba/ARouter) - 一个用于帮助 Android App 进行组件化改造的框架 —— 支持模块间的路由、通信、解耦
