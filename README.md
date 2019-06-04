@@ -1723,6 +1723,7 @@
 ************************************
 ### 小程序UI库
 [back to top](#readme) 
+* [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 💯
 * [opendigg/awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) - 微信小程序开源项目库汇总
 * [weilanwl/ColorUI（推荐）](https://github.com/weilanwl/ColorUI) - 鲜亮的高饱和色彩，专注视觉的小程序组件库 
 * [meili/minui](https://github.com/meili/minui) - 蘑菇街-基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化  
