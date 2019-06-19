@@ -144,6 +144,7 @@
    * [进度条效果](#进度条效果)
    * [SideBar导航栏效果](#SideBar导航栏效果)
    * [倒计时控件](#倒计时控件)
+   * [抽屉效果](#抽屉效果)
    * [时光轴效果TimeLine&StepView](#时光轴效果TimeLine&StepView)
    * [自定义键盘](#自定义键盘)
    * [屏幕锁控件](#屏幕锁控件)
@@ -1584,6 +1585,17 @@
       <img alt="image" src="https://github.com/SuperKotlin/CountDownView/blob/master/art/countdownview.gif">
    </details>
 * [CaMnter/EasyCountDownTextureView](https://github.com/CaMnter/EasyCountDownTextureView) - Easy count down by TextureView
+
+#### 抽屉效果
+* [TayfunCesur/CurvedBottomSheet](https://github.com/TayfunCesur/CurvedBottomSheet) - Curved-Waved-Animated BottomSheet 😎 It uses Cubic Bezier Curves. This project can be a good start to drawing whatever you want!
+    <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+      <img alt="image" src="https://github.com/TayfunCesur/CurvedBottomSheet/blob/master/art/bottomAndConcave.gif" width="30%">
+      <img alt="image" src="https://github.com/TayfunCesur/CurvedBottomSheet/blob/master/art/bottomAndConvex.gif" width="30%">
+      <img alt="image" src="https://github.com/TayfunCesur/CurvedBottomSheet/blob/master/art/topAndConcave.gif" width="30%">
+      <img alt="image" src="https://github.com/TayfunCesur/CurvedBottomSheet/blob/master/art/topAndConvex.gif" width="30%">
+      <img alt="image" src="https://github.com/TayfunCesur/CurvedBottomSheet/blob/master/art/waved.gif" width="30%">
+   </details>
 
 #### 时光轴效果TimeLine&StepView
 * [VictorAlbertos/BreadcrumbsView](https://github.com/VictorAlbertos/BreadcrumbsView) - A customizable Android view for paginated forms
