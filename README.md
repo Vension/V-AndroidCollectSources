@@ -168,6 +168,7 @@
 ```
 ************************************
 ### 学习资料
+* [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 * [LyndonChin/kotlin-docs-zh](https://github.com/LyndonChin/kotlin-docs-zh) - 为了彻底掌握 Kotlin 语法，花了好几个月把官方文档翻译了一遍
 * [MindorksOpenSource/from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 * [Freelander/Android_Data](https://github.com/Freelander/Android_Data) - Android 学习资料收集
@@ -252,7 +253,18 @@
         <img alt="image" src="https://github.com/senonwx/WanAndroid/blob/master/screenshot/main3.png"/>
     </div>
    </details>
-* [iceCola7/WanAndroid(推荐)](https://github.com/iceCola7/WanAndroid) - 项目采用 Kotlin 语言，基于 MVP + RxJava + Retrofit + Glide + EventBus 等架构设计，努力打造一款优秀的 http://www.wanandroid.com 客户端
+* [Sbingo/WanAndroid-MVVM(MVVM推荐)](https://github.com/Sbingo/WanAndroid-MVVM) - 玩 Android 客户端，采用 kotlin 语言，Material Design 风格，根据 MVVM 架构使用 Jetpack 架构组件搭建了整套框架
+  <details><summary><code>效果图</code></summary>
+     <div style="display:flex;">
+        <img alt="image" src="https://github.com/Sbingo/WanAndroid-MVVM/blob/master/images/wan9.png" width="30%"/>
+         <img alt="image" src="https://github.com/Sbingo/WanAndroid-MVVM/blob/master/images/wan8.png" width="30%"/>
+         <img alt="image" src="https://github.com/Sbingo/WanAndroid-MVVM/blob/master/images/wan2.png" width="30%"/>
+         <img alt="image" src="https://github.com/Sbingo/WanAndroid-MVVM/blob/master/images/wan3.png" width="30%"/>
+         <img alt="image" src="https://github.com/Sbingo/WanAndroid-MVVM/blob/master/images/wan4.png" width="30%"/>
+         <img alt="image" src="https://github.com/Sbingo/WanAndroid-MVVM/blob/master/images/wan5.png" width="30%"/>
+    </div>
+   </details>
+* [iceCola7/WanAndroid(MVP推荐)](https://github.com/iceCola7/WanAndroid) - 项目采用 Kotlin 语言，基于 MVP + RxJava + Retrofit + Glide + EventBus 等架构设计，努力打造一款优秀的 http://www.wanandroid.com 客户端
    <details><summary><code>效果图</code></summary>
      <div style="display:flex;">
         <img alt="image" src="https://github.com/iceCola7/WanAndroid/blob/master/art/01.png">
@@ -798,6 +810,11 @@
 ************************************
 ### Dialog相关
 [back to top](#readme)
+* [kongzue/DialogV3](https://github.com/kongzue/DialogV3) - 空祖家的对话框工具V3版，集成三种风格+夜间模式对话框，以及等待、提示、分享等特色对话框，支持花式自定义
+  <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://raw.githubusercontent.com/kongzue/Res/master/app/src/main/res/mipmap-xxxhdpi/img_dialog_v3.png">
+   </details>
 * [limuyang2/LDialog](https://github.com/limuyang2/LDialog) - (Support AndroidX)基于DialogFragment封装的库，丰富的属性，帮助你化繁为简
    <details><summary><code>效果图</code></summary>
     <div style="display:flex;">
@@ -1676,7 +1693,17 @@
     </div>
    </details>
 * [alibaba/fish-redux](https://github.com/alibaba/fish-redux) - An assembled flutter application framework. https://github.com/alibaba/fish-redux
-
+* [simplezhli/flutter_deer(推荐)](https://github.com/simplezhli/flutter_deer) - Flutter 练习项目。包括完整UI设计图，更贴近真实项目的练习。
+     <details><summary><code>效果图</code></summary>
+    <div style="display:flex;">
+       <img alt="image" src="https://github.com/simplezhli/flutter_deer/blob/master/preview/Screenshot_1.png" width="30%" />
+       <img alt="image" src="https://github.com/simplezhli/flutter_deer/blob/master/preview/Screenshot_2.png" width="30%" />
+       <img alt="image" src="https://github.com/simplezhli/flutter_deer/blob/master/preview/Screenshot_3.png" width="30%" />
+       <img alt="image" src="https://github.com/simplezhli/flutter_deer/blob/master/preview/Screenshot_4.png" width="30%" />
+       <img alt="image" src="https://github.com/simplezhli/flutter_deer/blob/master/preview/Screenshot_5.png" width="30%" />
+       <img alt="image" src="https://github.com/simplezhli/flutter_deer/blob/master/preview/Screenshot_6.png" width="30%" />
+    </div>
+   </details>
 * [Sky24n/flutter_wanandroid（推荐）](https://github.com/Sky24n/flutter_wanandroid) - Flutter完整项目，WanAndroid客户端，BLoC、RxDart 、国际化、主题色、启动页、引导页，拥有较好的项目结构&比较规范的代码！
    <details><summary><code>效果图</code></summary>
     <div style="display:flex;">
