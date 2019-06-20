@@ -169,7 +169,6 @@
 ```
 ************************************
 ### 学习资料
-* [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 * [LyndonChin/kotlin-docs-zh](https://github.com/LyndonChin/kotlin-docs-zh) - 为了彻底掌握 Kotlin 语法，花了好几个月把官方文档翻译了一遍
 * [MindorksOpenSource/from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 * [Freelander/Android_Data](https://github.com/Freelander/Android_Data) - Android 学习资料收集
