@@ -603,6 +603,7 @@
 ### 音视频相关
 [back to top](#readme)
 #### 视频播放器
+* [google/ExoPlayer](https://github.com/google/ExoPlayer) - ExoPlayer是一个可扩展的Android应用程序级媒体播放器。 它提供了Android的MediaPlayer API的替代方案，用于在本地和通过Internet播放音频和视频。 ExoPlayer支持Android的MediaPlayer API目前不支持的功能，包括DASH和SmoothStreaming自适应回放。
 * [Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
 * [基于IJKPlayer,CarGuo/GSYVideoPlayer（推荐）](https://github.com/CarGuo/GSYVideoPlayer)
 * [基于IjkPlayer,原节操播放器JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer)
