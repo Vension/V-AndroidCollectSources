@@ -694,6 +694,23 @@
      <img alt="image" src="https://github.com/lopspower/CircularImageView/blob/master/preview/preview.gif" width="30%">
     </div>
    </details>
+* [SheHuan/NiceImageView](https://github.com/SheHuan/NiceImageView) - Android 圆角、圆形 ImageView
+ <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+     <img alt="image" src="https://github.com/SheHuan/NiceImageView/blob/master/images/r1.PNG" width="30%">
+       <img alt="image" src="https://github.com/SheHuan/NiceImageView/blob/master/images/r2.PNG" width="30%">
+       <img alt="image" src="https://github.com/SheHuan/NiceImageView/blob/master/images/r3.PNG" width="30%">
+       <img alt="image" src="https://github.com/SheHuan/NiceImageView/blob/master/images/c1.PNG" width="30%">
+       <img alt="image" src="https://github.com/SheHuan/NiceImageView/blob/master/images/c2.PNG" width="30%">
+       <img alt="image" src="https://github.com/SheHuan/NiceImageView/blob/master/images/c3.PNG" width="30%">
+    </div>
+   </details>
+* [BayMikyou/PrettyImageView](https://github.com/BayMikyou/PrettyImageView) - 一个Kotlin实现的简单小巧支持圆形和圆角定制化的ImageView
+    <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+     <img alt="image" src="https://camo.githubusercontent.com/994a01fc4344b3a2febb31333267b024d6fbcc2d/68747470733a2f2f757365722d676f6c642d63646e2e786974752e696f2f323031382f342f32372f313633303262373161653436336532303f773d3230303026683d3230303026663d706e6726733d31333636303239">
+    </div>
+   </details>
 * [vitorhugods/AvatarView](https://github.com/vitorhugods/AvatarView) - 炫酷的头像控件，包括进度动画和带有边界和渐变颜色的高亮状态。
 * [kongnanlive/android-combination-avatar](https://github.com/kongnanlive/android-combination-avatar) - 模仿QQ讨论组头像
 * [SheHuan/CombineBitmap](https://github.com/SheHuan/CombineBitmap) - Android 仿钉钉、微信 群聊组合头像
