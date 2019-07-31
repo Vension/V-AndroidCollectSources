@@ -667,6 +667,14 @@
     <img alt="image" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.jpg" width="30%">
     </div>
    </details>
+* [HpWens/MCropImageView](https://github.com/HpWens/MCropImageView) - 炫酷的小红书图片裁剪控件
+    <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://camo.githubusercontent.com/05da510fdcdbaa8f63aca99f0d4fd0f348b60185/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303139303232353134313435303932332e676966" width="30%">
+    <img alt="image" src="https://camo.githubusercontent.com/8520f8043a1e50f951e8a90409d656e5fb9f8ad8/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303139303232353134313530373335352e676966" width="30%">
+     <img alt="image" src="https://camo.githubusercontent.com/1319ebec24c84d948a3fcc6fd15203438f36c826/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f32303139303232353136303635333537362e676966" width="30%">
+    </div>
+   </details>
       
 ************************************
 ### 图片处理相关
@@ -680,8 +688,14 @@
     </div>
    </details>
 * [hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView) - 经典的圆形图片效果
-* [kongnanlive/android-combination-avatar](https://github.com/kongnanlive/android-combination-avatar) - 模仿QQ讨论组头像
+* [lopspower/CircularImageView](https://github.com/lopspower/CircularImageView) - 带阴影的圆形ImageView
+  <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+     <img alt="image" src="https://github.com/lopspower/CircularImageView/blob/master/preview/preview.gif" width="30%">
+    </div>
+   </details>
 * [vitorhugods/AvatarView](https://github.com/vitorhugods/AvatarView) - 炫酷的头像控件，包括进度动画和带有边界和渐变颜色的高亮状态。
+* [kongnanlive/android-combination-avatar](https://github.com/kongnanlive/android-combination-avatar) - 模仿QQ讨论组头像
 * [SheHuan/CombineBitmap](https://github.com/SheHuan/CombineBitmap) - Android 仿钉钉、微信 群聊组合头像
 * [GitLqr/LQRNineGridImageView](https://github.com/GitLqr/LQRNineGridImageView) - 仿微信群头像九宫格控件
 
@@ -703,6 +717,12 @@
         <img alt="image" src="https://blog.csdn.net/u012650948/article/details/43638427" width="30%">
        </div>
   </details>
+* [li-xiaojun/ImageGridView](https://github.com/li-xiaojun/ImageGridView) - 微博，微信九宫格图片布局，搭配XPopup的大图浏览弹窗，体验好到飞起。
+  <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+      <img alt="image" src="https://github.com/li-xiaojun/ImageGridView/blob/master/screenshot/demo.gif" width="30%">
+    </div>
+   </details>
 * [hewenyuAndroid/NinePhotoLayout](https://github.com/hewenyuAndroid/NinePhotoLayout) - 本项目是仿照微信朋友圈中的图片九宫格布局，支持单张图片时，根据图片的长宽比例显示，四张图片时，显示22布局，其它显示33布局显示
    <details><summary><code>效果图</code></summary>
     <div style="display:flex;">
@@ -732,6 +752,13 @@
        <img alt="image" src="https://github.com/Naoki2015/CircleDemo/blob/master/CircleDemo/imgs/2.png" width="30%">
        <img alt="image" src="https://github.com/Naoki2015/CircleDemo/blob/master/CircleDemo/imgs/3.png" width="30%">
   </details>
+* [wobiancao/ImageNice9Layout](https://github.com/wobiancao/ImageNice9Layout) - 仿Nice首页图片列表9图样式，并实现拖拽效果
+  <details><summary><code>效果图</code>🔥🔥</summary>
+    <div style="display:flex;">
+      <img alt="image" src="https://github.com/wobiancao/ImageNice9Layout/blob/master/screenshot/list9.gif" width="30%">
+      <img alt="image" src="https://github.com/wobiancao/ImageNice9Layout/blob/master/screenshot/drag9.gif" width="30%">
+    </div>
+   </details>
       
 #### 图片压缩相关
 * [Curzibn/Luban（推荐）](https://github.com/Curzibn/Luban)
