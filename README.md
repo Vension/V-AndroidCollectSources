@@ -169,6 +169,7 @@
 ```
 ************************************
 ### 学习资料
+* [enbandari/Kotlin-Tutorials](https://github.com/enbandari/Kotlin-Tutorials) - 【Kotlin 视频教程】国内资料较少，我录制了一套视频
 * [LyndonChin/kotlin-docs-zh](https://github.com/LyndonChin/kotlin-docs-zh) - 为了彻底掌握 Kotlin 语法，花了好几个月把官方文档翻译了一遍
 * [MindorksOpenSource/from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin/blob/master/README-ZH.md) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
 * [Freelander/Android_Data](https://github.com/Freelander/Android_Data) - Android 学习资料收集
@@ -180,6 +181,7 @@
 * [hadyang/interview](https://github.com/hadyang/interview) - Java / Android 笔试、面试 知识整理 
 * [gonghuiyuan516/AndroidArchitectureArticle](https://github.com/gonghuiyuan516/AndroidArchitectureArticle) - 🔥Android架构文章大全
 * [pengMaster/BestNote](https://github.com/pengMaster/BestNote) - Java Android 近几年最全面的技术点以及面试题 供自己学习使用 
+* [interviewandroid/AndroidInterView](https://github.com/interviewandroid/AndroidInterView) - Android面试2019年最新版（每日更新）
 
 ************************************
 ### 开发框架
@@ -1814,6 +1816,7 @@
 * [Tencent/weui](https://github.com/Tencent/weui) - WeChat
 * [TalkingData/iview-weapp](https://github.com/TalkingData/iview-weapp) - 一套高质量的微信小程序 UI 组件库 https://weapp.iviewui.com
 * [wux-weapp/wux-weapp](https://github.com/wux-weapp/wux-weapp) - 微信小程序自定义 UI 组件 https://wux-weapp.github.io/wux-weapp…
+* [phonycode/wuss-weapp](https://github.com/phonycode/wuss-weapp) - wuss-weapp 一款高质量，组件齐全，高自定义的微信小程序UI组件库
 * [Shaman05/wxCharts](https://github.com/Shaman05/wxCharts) - 微信小程序中的股票分时图、K线图
 * [qindiandadudu/TianguoguoXiaopu](https://github.com/qindiandadudu/TianguoguoXiaopu) - 基于EastWorld的微信小程序商城
 * [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系
