@@ -586,7 +586,12 @@
 * [BGASwipeBackLayout-Android](https://github.com/bingoogolapple/BGASwipeBackLayout-Android)
 * [SwipeBack](https://github.com/liuguangqiang/SwipeBack)
 * [SwipeBackHelper](https://github.com/Jude95/SwipeBackHelper)
-
+* [JustRight815/SwipeBackLayoutTouTiao](https://github.com/JustRight815/SwipeBackLayoutTouTiao) - 仿今日头条、腾讯新闻界面滑动关闭 下层activity有缩放效果
+   <details><summary><code>效果图</code>🔥🔥🔥</summary>
+    <div style="display:flex;">
+    <img alt="image" src="https://github.com/JustRight815/SwipeBackLayoutTouTiao/blob/master/screenshot/screenshot.gif" width="30%">
+   </details>
+   
 ************************************
 ### 二维码相关
 [back to top](#readme)
